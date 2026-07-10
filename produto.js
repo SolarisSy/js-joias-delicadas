@@ -248,7 +248,7 @@
   // ===== LIGHTBOX =====
   const lightbox = document.createElement('div');
   lightbox.className = 'pdp-lightbox';
-  lightbox.innerHTML = '<button class="lightbox-close" aria-label="Fechar">×</button><img src="" alt="Foto ampliada">';
+  lightbox.innerHTML = '<button class="lightbox-close" aria-label="Fechar">×</button><img alt="Foto ampliada">';
   document.body.appendChild(lightbox);
   const closeLightbox = () => lightbox.classList.remove('open');
   lightbox.addEventListener('click', closeLightbox);
