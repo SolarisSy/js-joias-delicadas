@@ -214,9 +214,9 @@ function renderCartItems() {
     const el = document.createElement('div');
     el.className = 'cart-item';
     el.innerHTML = `
-      <div class="cart-item-img">
+      <a href="produto.html?id=${item.id}" class="cart-item-img" aria-label="Ver ${item.name}">
         <img src="${item.image || 'img/product_brincos.png'}" alt="${item.name}" loading="lazy">
-      </div>
+      </a>
       <div class="cart-item-info">
         <div class="cart-item-name">${item.name}</div>
         <div class="cart-item-price">R$ ${item.price.toFixed(2).replace('.', ',')} × ${item.qty}</div>
@@ -465,5 +465,27 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
   stats.forEach(el => observer.observe(el));
 })();
+
+// ===== LIGHTBOX GLOBAL =====
+const lightboxEl = document.createElement('div');
+lightboxEl.className = 'pdp-lightbox';
+lightboxEl.innerHTML = '<button class="lightbox-close" aria-label="Fechar">×</button><img alt="Imagem ampliada">';
+document.body.appendChild(lightboxEl);
+lightboxEl.addEventListener('click', () => lightboxEl.classList.remove('open'));
+document.addEventListener('keydown', e => { if (e.key === 'Escape') lightboxEl.classList.remove('open'); });
+
+function openLightbox(src) {
+  lightboxEl.querySelector('img').src = src;
+  lightboxEl.classList.add('open');
+}
+
+// Imagens de seção ampliáveis ao clique (página inicial)
+document.querySelectorAll('.story-img, .noivas-image img').forEach(img => {
+  img.classList.add('zoomable');
+  img.addEventListener('click', e => {
+    e.stopPropagation();
+    openLightbox(img.src);
+  });
+});
 
 console.log('✦ JS Joias Delicadas — Site carregado com sucesso!');

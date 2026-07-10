@@ -245,20 +245,15 @@
     renderPreviews();
   });
 
-  // ===== LIGHTBOX =====
-  const lightbox = document.createElement('div');
-  lightbox.className = 'pdp-lightbox';
-  lightbox.innerHTML = '<button class="lightbox-close" aria-label="Fechar">×</button><img alt="Foto ampliada">';
-  document.body.appendChild(lightbox);
-  const closeLightbox = () => lightbox.classList.remove('open');
-  lightbox.addEventListener('click', closeLightbox);
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+  // ===== LIGHTBOX (usa o global de script.js) =====
+  // Imagem principal do produto amplia ao clique
+  mainImg.classList.add('zoomable');
+  mainImg.addEventListener('click', () => openLightbox(mainImg.src));
 
+  // Fotos das avaliações ampliam ao clique
   document.getElementById('reviewsList').addEventListener('click', e => {
     const photo = e.target.closest('.review-photo');
-    if (!photo) return;
-    lightbox.querySelector('img').src = photo.dataset.src;
-    lightbox.classList.add('open');
+    if (photo) openLightbox(photo.dataset.src);
   });
 
   document.getElementById('reviewForm').addEventListener('submit', e => {

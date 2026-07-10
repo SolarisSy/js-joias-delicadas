@@ -2079,3 +2079,7 @@ ul { list-style: none; }
   transition: var(--transition);
 }
 .lightbox-close:hover { opacity: 1; transform: rotate(90deg); }
+
+/* Imagens ampliáveis */
+.zoomable { cursor: zoom-in; }
+.cart-item-img { display: block; }
