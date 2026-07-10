@@ -111,6 +111,28 @@ const products = [
   { id: '16', name: 'Colar Berloques de Prata', tag: 'Colares · Ródio Branco', categories: 'prata', image: 'imagens/joia-24.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Corrente dupla com berloques ovais espelhados. Minimalista, moderna e fácil de amar.' }
 ];
 
+// ===== AJUSTES DO PAINEL =====
+// Prioridade: prévia local (admin testando neste navegador) > publicado (data/produtos.js)
+(function applyOverrides() {
+  // Catálogo original preservado para o painel de controle
+  window.PRODUCTS_BASE = products.map(p => ({ ...p }));
+
+  let overrides = null;
+  try { overrides = JSON.parse(localStorage.getItem('js_joias_override_preview') || 'null'); } catch (e) { /* prévia corrompida */ }
+  if (!overrides) overrides = (typeof PRODUCTS_OVERRIDE !== 'undefined' && PRODUCTS_OVERRIDE) || {};
+
+  for (let i = products.length - 1; i >= 0; i--) {
+    const o = overrides[products[i].id];
+    if (!o) continue;
+    if (o.hidden) { products.splice(i, 1); continue; }
+    ['name', 'badge'].forEach(k => { if (typeof o[k] === 'string' && o[k].trim()) products[i][k] = o[k].trim(); });
+    if (typeof o.badge === 'string' && !o.badge.trim()) delete products[i].badge;
+    if (typeof o.price === 'number' && o.price > 0) products[i].price = o.price;
+    if (typeof o.oldPrice === 'number' && o.oldPrice > 0) products[i].oldPrice = o.oldPrice;
+    if (o.oldPrice === null) delete products[i].oldPrice;
+  }
+})();
+
 // Deriva o tipo da peça a partir da tag ("Brincos · Ouro 18k" → "brincos")
 function productType(product) {
   return product.tag.split('·')[0].trim().toLowerCase()
