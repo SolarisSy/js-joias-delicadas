@@ -15,7 +15,7 @@
   }
 
   const fmt = v => 'R$ ' + v.toFixed(2).replace('.', ',');
-  const WA = 'https://wa.me/5541989043923';
+  const WA = 'https://wa.me/' + ((window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923');
 
   // ===== PREENCHER DADOS =====
   document.title = `${product.name} — JS Joias Delicadas`;

@@ -50,6 +50,32 @@
             <section class="admin-section">
                 <div class="admin-section-head">
                     <div>
+                        <h2>Configurações da Loja</h2>
+                        <p>Avisos do topo, WhatsApp e Instagram — valem para o site inteiro, inclusive o checkout.</p>
+                    </div>
+                </div>
+                <div class="admin-config">
+                    <div class="config-grid">
+                        <div class="config-field">
+                            <label for="cfgWhatsapp">WhatsApp (55 + DDD + número)</label>
+                            <input type="text" id="cfgWhatsapp" inputmode="numeric" placeholder="5541989043923">
+                        </div>
+                        <div class="config-field">
+                            <label for="cfgInstagram">Instagram (sem @)</label>
+                            <input type="text" id="cfgInstagram" placeholder="js_joiasdelicadas">
+                        </div>
+                    </div>
+                    <div class="config-grid three">
+                        <div class="config-field"><label for="cfgAnn0">Aviso 1 da barra</label><input type="text" id="cfgAnn0" placeholder="✦ Frete Grátis acima de R$150"></div>
+                        <div class="config-field"><label for="cfgAnn1">Aviso 2 da barra</label><input type="text" id="cfgAnn1" placeholder="1 Ano de Garantia em todas as peças"></div>
+                        <div class="config-field"><label for="cfgAnn2">Aviso 3 da barra</label><input type="text" id="cfgAnn2" placeholder="Pix com 5% de desconto ✦"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="admin-section">
+                <div class="admin-section-head">
+                    <div>
                         <h2>Peças da Loja</h2>
                         <p>Edite nome, preços e promoções, ou oculte peças esgotadas. As mudanças ficam pendentes até você salvar.</p>
                     </div>
@@ -69,6 +95,57 @@
                         <tbody id="adminRows"></tbody>
                     </table>
                 </div>
+            </section>
+
+            <section class="admin-section">
+                <div class="admin-section-head">
+                    <div>
+                        <h2>Nova Peça</h2>
+                        <p>Adicione uma peça com foto — ela entra na loja junto com as demais quando você salvar/publicar.</p>
+                    </div>
+                </div>
+                <form class="new-piece" id="newPieceForm">
+                    <div class="new-piece-photo">
+                        <input type="file" id="npPhoto" accept="image/*" hidden>
+                        <button type="button" class="photo-add-btn np-photo-btn" id="npPhotoBtn" aria-label="Escolher foto">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M23 19a2 2 0 01-2 2H3a2 2 0 01-2-2V8a2 2 0 012-2h4l2-3h6l2 3h4a2 2 0 012 2z"/><circle cx="12" cy="13" r="4"/></svg>
+                            <span>Foto da peça</span>
+                        </button>
+                        <img id="npPreview" alt="" hidden>
+                    </div>
+                    <div class="new-piece-fields">
+                        <div class="config-grid">
+                            <div class="config-field"><label for="npName">Nome da peça</label><input type="text" id="npName" maxlength="60" placeholder="Ex.: Brinco Gota de Cristal" required></div>
+                            <div class="config-field"><label for="npBadge">Selo (opcional)</label><input type="text" id="npBadge" maxlength="20" placeholder="Novidade"></div>
+                        </div>
+                        <div class="config-grid three">
+                            <div class="config-field">
+                                <label for="npTipo">Tipo</label>
+                                <select id="npTipo">
+                                    <option>Brincos</option><option>Colares</option><option>Pulseiras</option><option>Anéis</option>
+                                </select>
+                            </div>
+                            <div class="config-field">
+                                <label for="npMaterial">Material</label>
+                                <select id="npMaterial">
+                                    <option>Ouro 18k</option><option>Ródio Branco</option><option>Prata</option><option>Pérola</option>
+                                </select>
+                            </div>
+                            <div class="config-field checkbox-field">
+                                <label for="npPerola"><input type="checkbox" id="npPerola"> Contém pérolas</label>
+                            </div>
+                        </div>
+                        <div class="config-grid three">
+                            <div class="config-field"><label for="npPrice">Preço (R$)</label><input type="text" id="npPrice" inputmode="decimal" placeholder="99,90" required></div>
+                            <div class="config-field"><label for="npOldPrice">Preço "De" (opcional)</label><input type="text" id="npOldPrice" inputmode="decimal" placeholder="—"></div>
+                        </div>
+                        <div class="config-field">
+                            <label for="npDesc">Descrição</label>
+                            <textarea id="npDesc" rows="3" maxlength="300" placeholder="Conte os detalhes da peça…"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-cream">＋ Adicionar peça</button>
+                    </div>
+                </form>
             </section>
 
             <section class="admin-actions-bar" id="actionsBar">

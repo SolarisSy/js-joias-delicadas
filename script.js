@@ -93,22 +93,22 @@ function saveCart() {
 // Catálogo classificado a partir das fotos reais em imagens/.
 // imageAlt = segundo ângulo da mesma peça, exibido no hover.
 const products = [
-  { id: '1', name: 'Brinco Madrepérola Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro perola', image: 'imagens/joia-01.png', price: 89.90, oldPrice: 110.00, details: ['Antialérgico', 'Ouro 18k'], badge: 'Mais Vendido', desc: 'Um clássico repaginado: madrepérola facetada em moldura de zircônias cravejadas à mão, com banho de ouro 18k. Brilho suave que acompanha do dia ao evento.' },
-  { id: '2', name: 'Brinco Nó de Prata', tag: 'Brincos · Ródio Branco', categories: 'prata', image: 'imagens/joia-02.png', price: 79.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Design escultural em formato de nó, com banho de ródio branco e acabamento espelhado. Uma peça statement para quem ama prata.' },
-  { id: '3', name: 'Brinco Coração Zircônia & Pérola', tag: 'Brincos · Prata', categories: 'prata perola', image: 'imagens/joia-03.png', imageAlt: 'imagens/joia-06.png', price: 99.90, details: ['Antialérgico', 'Ródio Branco'], badge: 'Novidade', desc: 'Coração de zircônia lapidada com pérola em formato de coração pendente. Romântico, delicado e cheio de movimento.' },
-  { id: '4', name: 'Argola Máxi Dourada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/joia-07.png', price: 69.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'A argola máxi que não pode faltar: leve, fina e com fecho seguro. Banho de ouro 18k de alta durabilidade.' },
-  { id: '5', name: 'Anel Halo Rosa Pink', tag: 'Anéis · Ródio Branco', categories: 'prata', image: 'imagens/joia-08.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Zircônia rosa pink cercada por um halo cravejado. Banho de ródio branco antialérgico com brilho intenso.' },
-  { id: '6', name: 'Anel Solitário Dourado', tag: 'Anéis · Ouro 18k', categories: 'ouro', image: 'imagens/joia-09.png', imageAlt: 'imagens/joia-10.png', price: 99.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Solitário atemporal com zircônia redonda em lapidação brilhante e aro texturizado. Perfeito para usar sozinho ou em composições.' },
-  { id: '7', name: 'Brinco Quadrado Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/joia-11.png', price: 84.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Quadradinho cravejado com micro zircônias, discreto e luminoso. O ponto de luz perfeito para o dia a dia.' },
-  { id: '8', name: 'Brinco Pedra Verde Facetada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/joia-12.png', price: 79.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Pedra verde facetada em tom opalescente com moldura dourada. Cor e sofisticação em uma peça só.' },
-  { id: '9', name: 'Brinco Esmeralda Delicado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/joia-13.png', imageAlt: 'imagens/joia-14.png', price: 89.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Mini marquise de zircônia esmeralda com detalhe em ponto de luz. Delicadeza para quem ama joias minimalistas.' },
-  { id: '10', name: 'Kit 3 Argolinhas Cravejadas', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/joia-17.png', imageAlt: 'imagens/joia-15.png', price: 129.90, details: ['Antialérgico', 'Ouro 18k'], badge: 'Favorita', desc: 'Trio de argolinhas huggie cravejadas em micro zircônias. Use juntas ou separadas — combinam com tudo.' },
-  { id: '11', name: 'Colar Corrente Bolinhas', tag: 'Colares · Ouro 18k', categories: 'ouro', image: 'imagens/joia-19.png', price: 119.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corrente bolinha com berloques ovais diamantados. Movimento e brilho a cada passo.' },
-  { id: '12', name: 'Pulseira Borboletas de Pérola', tag: 'Pulseiras · Ouro 18k', categories: 'ouro perola', image: 'imagens/joia-20.png', price: 95.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Borboletas de madrepérola sobre corrente dourada com esferas facetadas. Feminina e cheia de significado.' },
-  { id: '13', name: 'Pulseira Corações Dourados', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/joia-21.png', price: 89.90, oldPrice: 105.00, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corações lisos em acabamento acetinado sobre corrente cartier. Um mimo delicado para o pulso.' },
-  { id: '14', name: 'Colar Elos de Coração', tag: 'Colares · Ródio Branco', categories: 'prata', image: 'imagens/joia-22.png', price: 129.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Elos entrelaçados com corações em alto relevo e banho de ródio branco. Presença e delicadeza no mesmo colar.' },
-  { id: '15', name: 'Colar Pérolas Barrocas', tag: 'Colares · Prata', categories: 'prata perola', image: 'imagens/joia-23.png', price: 139.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Pérolas barrocas e esferas de prata alternadas em corrente delicada. Elegância orgânica, peça única.' },
-  { id: '16', name: 'Colar Berloques de Prata', tag: 'Colares · Ródio Branco', categories: 'prata', image: 'imagens/joia-24.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Corrente dupla com berloques ovais espelhados. Minimalista, moderna e fácil de amar.' }
+  { id: '1', name: 'Brinco Madrepérola Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro perola', image: 'imagens/brinco-01.png', price: 89.90, oldPrice: 110.00, details: ['Antialérgico', 'Ouro 18k'], badge: 'Mais Vendido', desc: 'Um clássico repaginado: madrepérola facetada em moldura de zircônias cravejadas à mão, com banho de ouro 18k. Brilho suave que acompanha do dia ao evento.' },
+  { id: '2', name: 'Brinco Nó de Prata', tag: 'Brincos · Ródio Branco', categories: 'prata', image: 'imagens/brinco-02.png', price: 79.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Design escultural em formato de nó, com banho de ródio branco e acabamento espelhado. Uma peça statement para quem ama prata.' },
+  { id: '3', name: 'Brinco Coração Zircônia & Pérola', tag: 'Brincos · Prata', categories: 'prata perola', image: 'imagens/brinco-03.png', imageAlt: 'imagens/brinco-03-alt.png', price: 99.90, details: ['Antialérgico', 'Ródio Branco'], badge: 'Novidade', desc: 'Coração de zircônia lapidada com pérola em formato de coração pendente. Romântico, delicado e cheio de movimento.' },
+  { id: '4', name: 'Argola Máxi Dourada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-04.png', price: 69.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'A argola máxi que não pode faltar: leve, fina e com fecho seguro. Banho de ouro 18k de alta durabilidade.' },
+  { id: '5', name: 'Anel Halo Rosa Pink', tag: 'Anéis · Ródio Branco', categories: 'prata', image: 'imagens/anel-01.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Zircônia rosa pink cercada por um halo cravejado. Banho de ródio branco antialérgico com brilho intenso.' },
+  { id: '6', name: 'Anel Solitário Dourado', tag: 'Anéis · Ouro 18k', categories: 'ouro', image: 'imagens/anel-02.png', imageAlt: 'imagens/anel-02-alt.png', price: 99.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Solitário atemporal com zircônia redonda em lapidação brilhante e aro texturizado. Perfeito para usar sozinho ou em composições.' },
+  { id: '7', name: 'Brinco Quadrado Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-05.png', price: 84.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Quadradinho cravejado com micro zircônias, discreto e luminoso. O ponto de luz perfeito para o dia a dia.' },
+  { id: '8', name: 'Brinco Pedra Verde Facetada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-06.png', price: 79.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Pedra verde facetada em tom opalescente com moldura dourada. Cor e sofisticação em uma peça só.' },
+  { id: '9', name: 'Brinco Esmeralda Delicado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-07.png', imageAlt: 'imagens/brinco-07-alt.png', price: 89.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Mini marquise de zircônia esmeralda com detalhe em ponto de luz. Delicadeza para quem ama joias minimalistas.' },
+  { id: '10', name: 'Kit 3 Argolinhas Cravejadas', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-08.png', imageAlt: 'imagens/brinco-08-alt.png', price: 129.90, details: ['Antialérgico', 'Ouro 18k'], badge: 'Favorita', desc: 'Trio de argolinhas huggie cravejadas em micro zircônias. Use juntas ou separadas — combinam com tudo.' },
+  { id: '11', name: 'Pulseira Corrente Bolinhas', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-03.png', price: 119.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corrente bolinha com berloques ovais diamantados. Movimento e brilho a cada passo.' },
+  { id: '12', name: 'Pulseira Borboletas de Pérola', tag: 'Pulseiras · Ouro 18k', categories: 'ouro perola', image: 'imagens/pulseira-01.png', price: 95.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Borboletas de madrepérola sobre corrente dourada com esferas facetadas. Feminina e cheia de significado.' },
+  { id: '13', name: 'Pulseira Corações Dourados', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-02.png', price: 89.90, oldPrice: 105.00, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corações lisos em acabamento acetinado sobre corrente cartier. Um mimo delicado para o pulso.' },
+  { id: '14', name: 'Pulseira Elos de Coração', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-04.png', price: 129.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Elos entrelaçados com corações em alto relevo e banho de ródio branco. Presença e delicadeza na mesma pulseira.' },
+  { id: '15', name: 'Pulseira Pérolas Barrocas', tag: 'Pulseiras · Prata', categories: 'prata perola', image: 'imagens/pulseira-05.png', price: 139.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Pérolas barrocas e esferas de prata alternadas em corrente delicada. Elegância orgânica, peça única.' },
+  { id: '16', name: 'Pulseira Berloques de Prata', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-06.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Corrente dupla com berloques ovais espelhados. Minimalista, moderna e fácil de amar.' }
 ];
 
 // ===== AJUSTES DO PAINEL =====
@@ -117,20 +117,64 @@ const products = [
   // Catálogo original preservado para o painel de controle
   window.PRODUCTS_BASE = products.map(p => ({ ...p }));
 
-  let overrides = null;
-  try { overrides = JSON.parse(localStorage.getItem('js_joias_override_preview') || 'null'); } catch (e) { /* prévia corrompida */ }
-  if (!overrides) overrides = (typeof PRODUCTS_OVERRIDE !== 'undefined' && PRODUCTS_OVERRIDE) || {};
+  let preview = null;
+  try { preview = JSON.parse(localStorage.getItem('js_joias_override_preview') || 'null'); } catch (e) { /* prévia corrompida */ }
+  // Compatibilidade: prévias antigas eram só o mapa de overrides
+  if (preview && !preview.overrides && !preview.extras && !preview.site) preview = { overrides: preview };
+
+  const state = preview || {
+    overrides: (typeof PRODUCTS_OVERRIDE !== 'undefined' && PRODUCTS_OVERRIDE) || {},
+    extras: (typeof PRODUCTS_EXTRA !== 'undefined' && PRODUCTS_EXTRA) || [],
+    site: (typeof SITE_OVERRIDE !== 'undefined' && SITE_OVERRIDE) || {}
+  };
+  const overrides = state.overrides || {};
 
   for (let i = products.length - 1; i >= 0; i--) {
     const o = overrides[products[i].id];
     if (!o) continue;
     if (o.hidden) { products.splice(i, 1); continue; }
-    ['name', 'badge'].forEach(k => { if (typeof o[k] === 'string' && o[k].trim()) products[i][k] = o[k].trim(); });
+    ['name', 'badge', 'desc'].forEach(k => { if (typeof o[k] === 'string' && o[k].trim()) products[i][k] = o[k].trim(); });
     if (typeof o.badge === 'string' && !o.badge.trim()) delete products[i].badge;
     if (typeof o.price === 'number' && o.price > 0) products[i].price = o.price;
     if (typeof o.oldPrice === 'number' && o.oldPrice > 0) products[i].oldPrice = o.oldPrice;
     if (o.oldPrice === null) delete products[i].oldPrice;
   }
+
+  // Peças novas criadas no painel
+  (state.extras || []).forEach(x => { if (!x.hidden) products.push({ ...x }); });
+
+  // Configurações da loja (com padrões)
+  window.SITE_CONFIG = Object.assign({
+    whatsapp: '5541989043923',
+    instagram: 'js_joiasdelicadas',
+    announcement: []
+  }, state.site || {});
+})();
+
+// ===== CONFIGURAÇÕES DA LOJA NO DOM =====
+(function applySiteConfig() {
+  const cfg = window.SITE_CONFIG;
+
+  const spans = document.querySelectorAll('.announcement-inner > span:not(.sep)');
+  (cfg.announcement || []).forEach((t, i) => {
+    if (spans[i] && typeof t === 'string' && t.trim()) spans[i].textContent = t.trim();
+  });
+
+  document.querySelectorAll('a[href*="wa.me/"]').forEach(a => {
+    a.href = a.href.replace(/wa\.me\/\d+/, 'wa.me/' + cfg.whatsapp);
+  });
+  const fone = cfg.whatsapp.replace(/^55/, '');
+  if (fone.length >= 10) {
+    const foneFmt = `(${fone.slice(0, 2)}) ${fone.slice(2, -4)}-${fone.slice(-4)}`;
+    document.querySelectorAll('.footer-contact-link[href*="wa.me"]').forEach(a => { a.textContent = foneFmt; });
+  }
+
+  document.querySelectorAll('a[href*="instagram.com/"]').forEach(a => {
+    a.href = a.href.replace(/instagram\.com\/[\w.]+/, 'instagram.com/' + cfg.instagram);
+  });
+  document.querySelectorAll('.insta-brand span, .footer-contact-link[href*="instagram"]').forEach(el => {
+    if (el.textContent.trim().startsWith('@')) el.textContent = '@' + cfg.instagram;
+  });
 })();
 
 // Deriva o tipo da peça a partir da tag ("Brincos · Ouro 18k" → "brincos")
@@ -178,6 +222,16 @@ function applyFilter(filter) {
     t.setAttribute('aria-selected', String(active));
   });
 
+  // Nas telas pequenas as abas rolam na horizontal: centraliza a ativa
+  const activeTab = document.querySelector('.filter-tab.active');
+  const strip = activeTab && activeTab.parentElement;
+  if (strip && strip.scrollWidth > strip.clientWidth) {
+    strip.scrollTo({
+      left: activeTab.offsetLeft - (strip.clientWidth - activeTab.offsetWidth) / 2,
+      behavior: 'smooth'
+    });
+  }
+
   document.querySelectorAll('.product-card').forEach((card, i) => {
     const categories = card.dataset.category || '';
     const show = filter === 'todos' || categories.includes(filter);
@@ -196,6 +250,16 @@ function applyFilter(filter) {
   renderProducts();
   document.querySelectorAll('.filter-tab').forEach(tab => {
     tab.addEventListener('click', () => applyFilter(tab.dataset.filter));
+  });
+})();
+
+// ===== CONTAGEM REAL DAS COLEÇÕES =====
+// Os cards de coleção mostram quantas peças existem de fato no catálogo
+// (respeitando peças ocultas e novas peças criadas no painel).
+(function updateCategoryCounts() {
+  document.querySelectorAll('.cat-info p[data-count]').forEach(el => {
+    const n = products.filter(p => p.tag && productType(p) === el.dataset.count).length;
+    el.textContent = n === 1 ? '1 peça' : `${n} peças`;
   });
 })();
 
@@ -255,7 +319,8 @@ function renderCartItems() {
   if (checkoutBtn) {
     const itemsList = cart.map(i => `${i.qty}x ${i.name} (R$ ${i.price.toFixed(2).replace('.', ',')})`).join('%0A');
     const totalStr = total.toFixed(2).replace('.', ',');
-    checkoutBtn.href = `https://wa.me/5541989043923?text=Ol%C3%A1!%20Gostaria%20de%20finalizar%20meu%20pedido%3A%0A${itemsList}%0A%0ATotal%3A%20R%24%20${totalStr}%20%F0%9F%92%9B`;
+    const waNum = (window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923';
+    checkoutBtn.href = `https://wa.me/${waNum}?text=Ol%C3%A1!%20Gostaria%20de%20finalizar%20meu%20pedido%3A%0A${itemsList}%0A%0ATotal%3A%20R%24%20${totalStr}%20%F0%9F%92%9B`;
   }
 
   // Remove buttons
@@ -412,8 +477,13 @@ function showToast(message) {
     '.loyalty-card', '.guarantee-item', '.product-card', '.cat-card', '.story-stats'];
 
   // Add data-reveal to targeted elements
-  document.querySelectorAll('.loyalty-card, .guarantee-item, .cat-card').forEach(el => {
+  document.querySelectorAll('.loyalty-card, .guarantee-item, .cat-card, .cat-banner, .product-card').forEach(el => {
     el.setAttribute('data-reveal', '');
+  });
+
+  // Cascata: cards da mesma grade entram em sequência, não todos de uma vez
+  document.querySelectorAll('.products-grid .product-card, .categories-grid .cat-card').forEach((el, i) => {
+    el.style.setProperty('--reveal-delay', `${(i % 6) * 0.08}s`);
   });
 
   const observer = new IntersectionObserver((entries) => {

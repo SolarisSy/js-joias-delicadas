@@ -1,5 +1,6 @@
 /* ===========================
    JS JOIAS DELICADAS — Painel de Controle
+   Estado: { overrides: {id: {...}}, extras: [peças novas], site: {whatsapp, instagram, announcement} }
    =========================== */
 
 'use strict';
@@ -16,6 +17,7 @@
   const loginEl = document.getElementById('adminLogin');
   const panelEl = document.getElementById('adminPanel');
   const fmt = v => 'R$ ' + v.toFixed(2).replace('.', ',');
+  const escAttr = s => String(s || '').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
   async function sha256(text) {
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
@@ -52,31 +54,47 @@
     window.location.reload();
   });
 
-  // ===== ESTADO DAS EDIÇÕES =====
-  const published = (typeof PRODUCTS_OVERRIDE !== 'undefined' && PRODUCTS_OVERRIDE) || {};
+  // ===== ESTADO =====
+  const published = {
+    overrides: JSON.parse(JSON.stringify((typeof PRODUCTS_OVERRIDE !== 'undefined' && PRODUCTS_OVERRIDE) || {})),
+    extras: JSON.parse(JSON.stringify((typeof PRODUCTS_EXTRA !== 'undefined' && PRODUCTS_EXTRA) || [])),
+    site: JSON.parse(JSON.stringify((typeof SITE_OVERRIDE !== 'undefined' && SITE_OVERRIDE) || {}))
+  };
   let preview = null;
   try { preview = JSON.parse(localStorage.getItem(PREVIEW_KEY) || 'null'); } catch (e) { /* ignora */ }
-  // Estado inicial: prévia local, senão o publicado
-  const edits = JSON.parse(JSON.stringify(preview || published || {}));
+  if (preview && !preview.overrides && !preview.extras && !preview.site) preview = { overrides: preview };
+  if (preview) preview = Object.assign({ overrides: {}, extras: [], site: {} }, preview);
+
+  const edits = JSON.parse(JSON.stringify(preview || published));
+  edits.overrides = edits.overrides || {};
+  edits.extras = edits.extras || [];
+  edits.site = edits.site || {};
+
+  function savedState() { return JSON.stringify(preview || published); }
 
   function effective(p) {
-    const o = edits[p.id] || {};
+    const o = edits.overrides[p.id] || {};
     return {
       name: (typeof o.name === 'string' && o.name.trim()) ? o.name : p.name,
       price: (typeof o.price === 'number' && o.price > 0) ? o.price : p.price,
       oldPrice: o.oldPrice === null ? undefined : (typeof o.oldPrice === 'number' ? o.oldPrice : p.oldPrice),
       badge: typeof o.badge === 'string' ? (o.badge.trim() || undefined) : p.badge,
+      desc: (typeof o.desc === 'string' && o.desc.trim()) ? o.desc : (p.desc || ''),
       hidden: !!o.hidden
     };
   }
 
-  function recomputeEdit(p, row) {
+  const parseNum = v => parseFloat(String(v).replace(',', '.'));
+
+  // ===== RECOMPUTE =====
+  function recomputeBase(p, row, descRow) {
     const name = row.querySelector('[data-f="name"]').value.trim();
-    const price = parseFloat(row.querySelector('[data-f="price"]').value.replace(',', '.'));
+    const price = parseNum(row.querySelector('[data-f="price"]').value);
     const oldRaw = row.querySelector('[data-f="oldPrice"]').value.trim();
-    const oldPrice = oldRaw === '' ? null : parseFloat(oldRaw.replace(',', '.'));
+    const oldPrice = oldRaw === '' ? null : parseNum(oldRaw);
     const badge = row.querySelector('[data-f="badge"]').value.trim();
     const visible = row.querySelector('[data-f="visible"]').checked;
+    const desc = descRow.querySelector('[data-f="desc"]').value.trim();
 
     const o = {};
     if (name && name !== p.name) o.name = name;
@@ -84,19 +102,47 @@
     if (oldPrice === null) { if (p.oldPrice) o.oldPrice = null; }
     else if (!isNaN(oldPrice) && oldPrice > 0 && Math.abs(oldPrice - (p.oldPrice || 0)) > 0.001) o.oldPrice = Math.round(oldPrice * 100) / 100;
     if (badge !== (p.badge || '')) o.badge = badge;
+    if (desc && desc !== (p.desc || '')) o.desc = desc;
     if (!visible) o.hidden = true;
 
-    if (Object.keys(o).length) edits[p.id] = o;
-    else delete edits[p.id];
+    if (Object.keys(o).length) edits.overrides[p.id] = o;
+    else delete edits.overrides[p.id];
+    updatePending();
+  }
+
+  function recomputeExtra(x, row, descRow) {
+    x.name = row.querySelector('[data-f="name"]').value.trim() || x.name;
+    const price = parseNum(row.querySelector('[data-f="price"]').value);
+    if (!isNaN(price) && price > 0) x.price = Math.round(price * 100) / 100;
+    const oldRaw = row.querySelector('[data-f="oldPrice"]').value.trim();
+    const oldPrice = parseNum(oldRaw);
+    if (oldRaw === '' || isNaN(oldPrice) || oldPrice <= 0) delete x.oldPrice;
+    else x.oldPrice = Math.round(oldPrice * 100) / 100;
+    const badge = row.querySelector('[data-f="badge"]').value.trim();
+    if (badge) x.badge = badge; else delete x.badge;
+    x.desc = descRow.querySelector('[data-f="desc"]').value.trim();
+    if (row.querySelector('[data-f="visible"]').checked) delete x.hidden;
+    else x.hidden = true;
+    updatePending();
+  }
+
+  function recomputeSite() {
+    const site = {};
+    const wa = document.getElementById('cfgWhatsapp').value.replace(/\D/g, '');
+    if (wa && wa !== '5541989043923') site.whatsapp = wa;
+    const insta = document.getElementById('cfgInstagram').value.trim().replace(/^@/, '');
+    if (insta && insta !== 'js_joiasdelicadas') site.instagram = insta;
+    const ann = [0, 1, 2].map(i => document.getElementById('cfgAnn' + i).value.trim());
+    if (ann.some(Boolean)) site.announcement = ann;
+    edits.site = site;
     updatePending();
   }
 
   function updatePending() {
-    const n = Object.keys(edits).length;
-    const saved = JSON.stringify(preview || published || {});
-    const dirty = JSON.stringify(edits) !== saved;
+    const n = Object.keys(edits.overrides).length + edits.extras.length + (Object.keys(edits.site).length ? 1 : 0);
+    const dirty = JSON.stringify(edits) !== savedState();
     document.getElementById('pendingNote').textContent = n
-      ? `${n} peça${n > 1 ? 's' : ''} com ajustes${dirty ? ' · não salvos' : ''}`
+      ? `${n} ajuste${n > 1 ? 's' : ''} ativo${n > 1 ? 's' : ''}${dirty ? ' · não salvos' : ''}`
       : 'Nenhuma alteração pendente';
     document.getElementById('actionsBar').classList.toggle('dirty', dirty);
     renderStats();
@@ -104,56 +150,178 @@
 
   // ===== RENDER =====
   function renderStats() {
-    const base = window.PRODUCTS_BASE || [];
-    const eff = base.map(effective);
-    const visiveis = eff.filter(p => !p.hidden);
+    const base = (window.PRODUCTS_BASE || []).map(effective);
+    const extras = edits.extras;
+    const all = [...base, ...extras.map(x => ({ ...x, hidden: !!x.hidden }))];
+    const visiveis = all.filter(p => !p.hidden);
     const promo = visiveis.filter(p => p.oldPrice && p.oldPrice > p.price);
     const medio = visiveis.length ? visiveis.reduce((s, p) => s + p.price, 0) / visiveis.length : 0;
     document.getElementById('adminStats').innerHTML = `
       <div class="stat-card"><span class="stat-value">${visiveis.length}</span><span class="stat-name">peças à venda</span></div>
-      <div class="stat-card"><span class="stat-value">${base.length - visiveis.length}</span><span class="stat-name">ocultas</span></div>
+      <div class="stat-card"><span class="stat-value">${all.length - visiveis.length}</span><span class="stat-name">ocultas</span></div>
       <div class="stat-card"><span class="stat-value">${promo.length}</span><span class="stat-name">em promoção</span></div>
       <div class="stat-card"><span class="stat-value">${fmt(medio)}</span><span class="stat-name">preço médio</span></div>`;
   }
 
-  function renderPanel() {
-    const rows = document.getElementById('adminRows');
-    rows.innerHTML = (window.PRODUCTS_BASE || []).map(p => {
-      const e = effective(p);
-      return `
-      <tr data-id="${p.id}" class="${e.hidden ? 'row-hidden' : ''}">
+  function rowPair({ id, image, tag, name, price, oldPrice, badge, desc, hidden, isExtra, linkable }) {
+    const imgTag = linkable
+      ? `<a href="produto.html?id=${id}" target="_blank" title="Ver página da peça"><img src="${image}" alt=""></a>`
+      : `<img src="${image}" alt="">`;
+    return `
+      <tr data-rid="${id}" class="${hidden ? 'row-hidden' : ''} ${isExtra ? 'row-extra' : ''}">
         <td class="cell-piece">
-          <a href="produto.html?id=${p.id}" target="_blank" title="Ver página da peça">
-            <img src="${p.image}" alt="">
-          </a>
-          <span class="cell-tag">${p.tag}</span>
+          ${imgTag}
+          <div class="cell-piece-meta">
+            <span class="cell-tag">${tag}${isExtra ? ' · <em>nova</em>' : ''}</span>
+            <button type="button" class="desc-toggle" data-for="${id}">✎ descrição</button>
+            ${isExtra ? `<button type="button" class="extra-remove" data-for="${id}">✕ remover</button>` : ''}
+          </div>
         </td>
-        <td><input type="text" data-f="name" value="${e.name.replace(/"/g, '&quot;')}"></td>
-        <td><input type="text" data-f="price" inputmode="decimal" value="${e.price.toFixed(2).replace('.', ',')}" class="input-num"></td>
-        <td><input type="text" data-f="oldPrice" inputmode="decimal" value="${e.oldPrice ? e.oldPrice.toFixed(2).replace('.', ',') : ''}" placeholder="—" class="input-num"></td>
-        <td><input type="text" data-f="badge" value="${(e.badge || '').replace(/"/g, '&quot;')}" placeholder="—" class="input-badge"></td>
+        <td><input type="text" data-f="name" value="${escAttr(name)}"></td>
+        <td><input type="text" data-f="price" inputmode="decimal" value="${price.toFixed(2).replace('.', ',')}" class="input-num"></td>
+        <td><input type="text" data-f="oldPrice" inputmode="decimal" value="${oldPrice ? oldPrice.toFixed(2).replace('.', ',') : ''}" placeholder="—" class="input-num"></td>
+        <td><input type="text" data-f="badge" value="${escAttr(badge || '')}" placeholder="—" class="input-badge"></td>
         <td class="cell-visible">
           <label class="switch">
-            <input type="checkbox" data-f="visible" ${e.hidden ? '' : 'checked'}>
+            <input type="checkbox" data-f="visible" ${hidden ? '' : 'checked'}>
             <span class="slider"></span>
           </label>
         </td>
+      </tr>
+      <tr class="desc-row" data-desc="${id}" hidden>
+        <td colspan="6">
+          <label>Descrição exibida na página da peça</label>
+          <textarea data-f="desc" rows="2" maxlength="300">${escAttr(desc)}</textarea>
+        </td>
       </tr>`;
-    }).join('');
+  }
 
-    rows.querySelectorAll('tr').forEach(row => {
-      const p = window.PRODUCTS_BASE.find(x => x.id === row.dataset.id);
-      row.querySelectorAll('input').forEach(inp => {
+  function renderPanel() {
+    const rows = document.getElementById('adminRows');
+    const baseHtml = (window.PRODUCTS_BASE || []).map(p => {
+      const e = effective(p);
+      return rowPair({ id: p.id, image: p.image, tag: p.tag, ...e, isExtra: false, linkable: true });
+    }).join('');
+    const extraHtml = edits.extras.map(x =>
+      rowPair({ id: x.id, image: x.image, tag: x.tag, name: x.name, price: x.price, oldPrice: x.oldPrice, badge: x.badge, desc: x.desc || '', hidden: !!x.hidden, isExtra: true, linkable: !String(x.image).startsWith('data:') })
+    ).join('');
+    rows.innerHTML = baseHtml + extraHtml;
+
+    rows.querySelectorAll('tr[data-rid]').forEach(row => {
+      const id = row.dataset.rid;
+      const descRow = rows.querySelector(`tr[data-desc="${id}"]`);
+      const base = (window.PRODUCTS_BASE || []).find(p => p.id === id);
+      const extra = edits.extras.find(x => x.id === id);
+      const recompute = () => base ? recomputeBase(base, row, descRow) : recomputeExtra(extra, row, descRow);
+      [...row.querySelectorAll('input'), ...descRow.querySelectorAll('textarea')].forEach(inp => {
         inp.addEventListener('input', () => {
-          recomputeEdit(p, row);
+          recompute();
           if (inp.dataset.f === 'visible') row.classList.toggle('row-hidden', !inp.checked);
         });
       });
     });
 
+    rows.querySelectorAll('.desc-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const dr = rows.querySelector(`tr[data-desc="${btn.dataset.for}"]`);
+        dr.hidden = !dr.hidden;
+        btn.classList.toggle('open', !dr.hidden);
+      });
+    });
+
+    rows.querySelectorAll('.extra-remove').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const i = edits.extras.findIndex(x => x.id === btn.dataset.for);
+        if (i >= 0) edits.extras.splice(i, 1);
+        renderPanel();
+      });
+    });
+
+    // Configurações
+    const site = edits.site || {};
+    document.getElementById('cfgWhatsapp').value = site.whatsapp || '5541989043923';
+    document.getElementById('cfgInstagram').value = site.instagram || 'js_joiasdelicadas';
+    const annDefaults = ['✦ Frete Grátis acima de R$150', '1 Ano de Garantia em todas as peças', 'Pix com 5% de desconto ✦'];
+    [0, 1, 2].forEach(i => {
+      document.getElementById('cfgAnn' + i).value = (site.announcement && site.announcement[i]) || annDefaults[i];
+    });
+
     document.getElementById('ghToken').value = localStorage.getItem(TOKEN_KEY) || '';
     updatePending();
   }
+
+  ['cfgWhatsapp', 'cfgInstagram', 'cfgAnn0', 'cfgAnn1', 'cfgAnn2'].forEach(id => {
+    document.getElementById(id).addEventListener('input', recomputeSite);
+  });
+
+  // ===== NOVA PEÇA =====
+  function compressImage(file) {
+    return new Promise(resolve => {
+      const img = new Image();
+      const url = URL.createObjectURL(file);
+      img.onload = () => {
+        const scale = Math.min(1, 900 / Math.max(img.width, img.height));
+        const canvas = document.createElement('canvas');
+        canvas.width = Math.round(img.width * scale);
+        canvas.height = Math.round(img.height * scale);
+        canvas.getContext('2d').drawImage(img, 0, 0, canvas.width, canvas.height);
+        URL.revokeObjectURL(url);
+        resolve(canvas.toDataURL('image/jpeg', 0.82));
+      };
+      img.onerror = () => { URL.revokeObjectURL(url); resolve(null); };
+      img.src = url;
+    });
+  }
+
+  let npPhotoData = null;
+  document.getElementById('npPhotoBtn').addEventListener('click', () => document.getElementById('npPhoto').click());
+  document.getElementById('npPhoto').addEventListener('change', async e => {
+    const file = e.target.files[0];
+    if (!file || !file.type.startsWith('image/')) return;
+    npPhotoData = await compressImage(file);
+    const prev = document.getElementById('npPreview');
+    prev.src = npPhotoData;
+    prev.hidden = false;
+    document.getElementById('npPhotoBtn').classList.add('has-photo');
+    e.target.value = '';
+  });
+
+  document.getElementById('newPieceForm').addEventListener('submit', e => {
+    e.preventDefault();
+    const name = document.getElementById('npName').value.trim();
+    const price = parseNum(document.getElementById('npPrice').value);
+    if (!name || isNaN(price) || price <= 0) { setStatus('Preencha nome e preço da nova peça.', 'err'); return; }
+    if (!npPhotoData) { setStatus('Escolha uma foto para a nova peça.', 'err'); return; }
+
+    const tipo = document.getElementById('npTipo').value;
+    const material = document.getElementById('npMaterial').value;
+    const matKey = material === 'Ouro 18k' ? 'ouro' : (material === 'Pérola' ? 'perola' : 'prata');
+    const cats = [matKey];
+    if (document.getElementById('npPerola').checked && matKey !== 'perola') cats.push('perola');
+
+    const x = {
+      id: 'x' + Date.now(),
+      name,
+      tag: `${tipo} · ${material}`,
+      categories: cats.join(' '),
+      image: npPhotoData,
+      price: Math.round(price * 100) / 100,
+      details: ['Antialérgico', material],
+      desc: document.getElementById('npDesc').value.trim()
+    };
+    const oldPrice = parseNum(document.getElementById('npOldPrice').value);
+    if (!isNaN(oldPrice) && oldPrice > 0) x.oldPrice = Math.round(oldPrice * 100) / 100;
+    const badge = document.getElementById('npBadge').value.trim();
+    if (badge) x.badge = badge;
+
+    edits.extras.push(x);
+    e.target.reset();
+    npPhotoData = null;
+    document.getElementById('npPreview').hidden = true;
+    document.getElementById('npPhotoBtn').classList.remove('has-photo');
+    renderPanel();
+    setStatus(`✦ "${name}" adicionada — salve a prévia ou publique para ela entrar na loja.`, 'ok');
+  });
 
   // ===== AÇÕES =====
   document.getElementById('previewBtn').addEventListener('click', () => {
@@ -192,22 +360,39 @@
     const btn = document.getElementById('publishBtn');
     btn.disabled = true;
     btn.textContent = 'Publicando…';
-    setStatus('Enviando alterações para o site…');
 
     try {
-      const api = `https://api.github.com/repos/${REPO}/contents/${OVERRIDE_PATH}`;
       const headers = { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' };
+      const api = path => `https://api.github.com/repos/${REPO}/contents/${path}`;
 
-      const getRes = await fetch(api, { headers });
+      // 1. Sobe fotos das peças novas
+      for (const x of edits.extras) {
+        if (!String(x.image).startsWith('data:')) continue;
+        setStatus(`Enviando foto de "${x.name}"…`);
+        const path = `imagens/painel/${x.id}.jpg`;
+        const g = await fetch(api(path), { headers });
+        const body = { message: `Painel: foto da peça "${x.name}"`, content: x.image.split(',')[1] };
+        if (g.ok) body.sha = (await g.json()).sha;
+        const put = await fetch(api(path), { method: 'PUT', headers, body: JSON.stringify(body) });
+        if (!put.ok) throw new Error(`Erro ao enviar a foto de "${x.name}" (HTTP ${put.status}).`);
+        x.image = path;
+      }
+
+      // 2. Publica o arquivo de ajustes
+      setStatus('Enviando alterações para o site…');
+      const getRes = await fetch(api(OVERRIDE_PATH), { headers });
       if (!getRes.ok) throw new Error(getRes.status === 401 ? 'Token inválido ou sem permissão.' : `Erro ao ler o arquivo (HTTP ${getRes.status}).`);
       const current = await getRes.json();
 
-      const content = `/* Ajustes publicados pelo painel de controle (admin.html).\n   Formato: { "<id>": { price, oldPrice, name, badge, hidden } } */\nwindow.PRODUCTS_OVERRIDE = ${JSON.stringify(edits, null, 2)};\n`;
-      const putRes = await fetch(api, {
+      const content = `/* Ajustes publicados pelo painel de controle (admin.html). */\n` +
+        `window.PRODUCTS_OVERRIDE = ${JSON.stringify(edits.overrides, null, 2)};\n` +
+        `window.PRODUCTS_EXTRA = ${JSON.stringify(edits.extras, null, 2)};\n` +
+        `window.SITE_OVERRIDE = ${JSON.stringify(edits.site, null, 2)};\n`;
+      const putRes = await fetch(api(OVERRIDE_PATH), {
         method: 'PUT',
         headers,
         body: JSON.stringify({
-          message: 'Painel: atualização de preços/peças',
+          message: 'Painel: atualização da loja',
           content: btoa(unescape(encodeURIComponent(content))),
           sha: current.sha
         })
@@ -216,9 +401,10 @@
 
       localStorage.removeItem(PREVIEW_KEY);
       preview = null;
-      Object.keys(published).forEach(k => delete published[k]);
-      Object.assign(published, JSON.parse(JSON.stringify(edits)));
-      updatePending();
+      published.overrides = JSON.parse(JSON.stringify(edits.overrides));
+      published.extras = JSON.parse(JSON.stringify(edits.extras));
+      published.site = JSON.parse(JSON.stringify(edits.site));
+      renderPanel();
       setStatus('✦ Publicado! O site atualiza em 1–2 minutos para todos os visitantes.', 'ok');
     } catch (err) {
       setStatus(err.message || 'Falha ao publicar. Verifique o token e a internet.', 'err');
