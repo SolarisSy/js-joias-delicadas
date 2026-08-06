@@ -93,23 +93,34 @@ function saveCart() {
 // Catálogo classificado a partir das fotos reais em imagens/.
 // imageAlt = segundo ângulo da mesma peça, exibido no hover.
 const products = [
-  { id: '1', name: 'Brinco Madrepérola Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro perola', image: 'imagens/brinco-01.png', price: 89.90, oldPrice: 110.00, details: ['Antialérgico', 'Ouro 18k'], badge: 'Mais Vendido', desc: 'Um clássico repaginado: madrepérola facetada em moldura de zircônias cravejadas à mão, com banho de ouro 18k. Brilho suave que acompanha do dia ao evento.' },
-  { id: '2', name: 'Brinco Nó de Prata', tag: 'Brincos · Ródio Branco', categories: 'prata', image: 'imagens/brinco-02.png', price: 79.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Design escultural em formato de nó, com banho de ródio branco e acabamento espelhado. Uma peça statement para quem ama prata.' },
-  { id: '3', name: 'Brinco Coração Zircônia & Pérola', tag: 'Brincos · Prata', categories: 'prata perola', image: 'imagens/brinco-03.png', imageAlt: 'imagens/brinco-03-alt.png', price: 99.90, details: ['Antialérgico', 'Ródio Branco'], badge: 'Novidade', desc: 'Coração de zircônia lapidada com pérola em formato de coração pendente. Romântico, delicado e cheio de movimento.' },
-  { id: '4', name: 'Argola Máxi Dourada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-04.png', price: 69.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'A argola máxi que não pode faltar: leve, fina e com fecho seguro. Banho de ouro 18k de alta durabilidade.' },
-  { id: '5', name: 'Anel Halo Rosa Pink', tag: 'Anéis · Ródio Branco', categories: 'prata', image: 'imagens/anel-01.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Zircônia rosa pink cercada por um halo cravejado. Banho de ródio branco antialérgico com brilho intenso.' },
-  { id: '6', name: 'Anel Solitário Dourado', tag: 'Anéis · Ouro 18k', categories: 'ouro', image: 'imagens/anel-02.png', imageAlt: 'imagens/anel-02-alt.png', price: 99.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Solitário atemporal com zircônia redonda em lapidação brilhante e aro texturizado. Perfeito para usar sozinho ou em composições.' },
-  { id: '7', name: 'Brinco Quadrado Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-05.png', price: 84.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Quadradinho cravejado com micro zircônias, discreto e luminoso. O ponto de luz perfeito para o dia a dia.' },
-  { id: '8', name: 'Brinco Pedra Verde Facetada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-06.png', price: 79.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Pedra verde facetada em tom opalescente com moldura dourada. Cor e sofisticação em uma peça só.' },
-  { id: '9', name: 'Brinco Esmeralda Delicado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-07.png', imageAlt: 'imagens/brinco-07-alt.png', price: 89.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Mini marquise de zircônia esmeralda com detalhe em ponto de luz. Delicadeza para quem ama joias minimalistas.' },
-  { id: '10', name: 'Kit 3 Argolinhas Cravejadas', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-08.png', imageAlt: 'imagens/brinco-08-alt.png', price: 129.90, details: ['Antialérgico', 'Ouro 18k'], badge: 'Favorita', desc: 'Trio de argolinhas huggie cravejadas em micro zircônias. Use juntas ou separadas — combinam com tudo.' },
-  { id: '11', name: 'Pulseira Corrente Bolinhas', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-03.png', price: 119.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corrente bolinha com berloques ovais diamantados. Movimento e brilho a cada passo.' },
-  { id: '12', name: 'Pulseira Borboletas de Pérola', tag: 'Pulseiras · Ouro 18k', categories: 'ouro perola', image: 'imagens/pulseira-01.png', price: 95.90, details: ['Antialérgico', 'Ouro 18k'], desc: 'Borboletas de madrepérola sobre corrente dourada com esferas facetadas. Feminina e cheia de significado.' },
-  { id: '13', name: 'Pulseira Corações Dourados', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-02.png', price: 89.90, oldPrice: 105.00, details: ['Antialérgico', 'Ouro 18k'], desc: 'Corações lisos em acabamento acetinado sobre corrente cartier. Um mimo delicado para o pulso.' },
-  { id: '14', name: 'Pulseira Elos de Coração', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-04.png', price: 129.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Elos entrelaçados com corações em alto relevo e banho de ródio branco. Presença e delicadeza na mesma pulseira.' },
-  { id: '15', name: 'Pulseira Pérolas Barrocas', tag: 'Pulseiras · Prata', categories: 'prata perola', image: 'imagens/pulseira-05.png', price: 139.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Pérolas barrocas e esferas de prata alternadas em corrente delicada. Elegância orgânica, peça única.' },
-  { id: '16', name: 'Pulseira Berloques de Prata', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-06.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], desc: 'Corrente dupla com berloques ovais espelhados. Minimalista, moderna e fácil de amar.' }
+  { id: '1', name: 'Brinco Madrepérola Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro perola', image: 'imagens/brinco-01.png', price: 89.90, oldPrice: 110.00, details: ['Antialérgico', 'Ouro 18k'], badge: 'Mais Vendido', soldOut: true, desc: 'Um clássico repaginado: madrepérola facetada em moldura de zircônias cravejadas à mão, com banho de ouro 18k. Brilho suave que acompanha do dia ao evento.' },
+  { id: '2', name: 'Brinco Nó de Prata', tag: 'Brincos · Ródio Branco', categories: 'prata', image: 'imagens/brinco-02.png', price: 79.90, details: ['Antialérgico', 'Ródio Branco'], soldOut: true, desc: 'Design escultural em formato de nó, com banho de ródio branco e acabamento espelhado. Uma peça statement para quem ama prata.' },
+  { id: '3', name: 'Brinco Coração Zircônia & Pérola', tag: 'Brincos · Prata', categories: 'prata perola', image: 'imagens/brinco-03.png', imageAlt: 'imagens/brinco-03-alt.png', price: 99.90, details: ['Antialérgico', 'Ródio Branco'], badge: 'Novidade', soldOut: true, desc: 'Coração de zircônia lapidada com pérola em formato de coração pendente. Romântico, delicado e cheio de movimento.' },
+  { id: '4', name: 'Argola Máxi Dourada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-04.png', price: 69.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'A argola máxi que não pode faltar: leve, fina e com fecho seguro. Banho de ouro 18k de alta durabilidade.' },
+  { id: '5', name: 'Anel Halo Rosa Pink', tag: 'Anéis · Ródio Branco', categories: 'prata', image: 'imagens/anel-01.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], soldOut: true, desc: 'Zircônia rosa pink cercada por um halo cravejado. Banho de ródio branco antialérgico com brilho intenso.' },
+  { id: '6', name: 'Anel Solitário Dourado', tag: 'Anéis · Ouro 18k', categories: 'ouro', image: 'imagens/anel-02.png', imageAlt: 'imagens/anel-02-alt.png', price: 99.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Solitário atemporal com zircônia redonda em lapidação brilhante e aro texturizado. Perfeito para usar sozinho ou em composições.' },
+  { id: '7', name: 'Brinco Quadrado Cravejado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-05.png', price: 84.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Quadradinho cravejado com micro zircônias, discreto e luminoso. O ponto de luz perfeito para o dia a dia.' },
+  { id: '8', name: 'Brinco Pedra Verde Facetada', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-06.png', price: 79.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Pedra verde facetada em tom opalescente com moldura dourada. Cor e sofisticação em uma peça só.' },
+  { id: '9', name: 'Brinco Esmeralda Delicado', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-07.png', imageAlt: 'imagens/brinco-07-alt.png', price: 89.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Mini marquise de zircônia esmeralda com detalhe em ponto de luz. Delicadeza para quem ama joias minimalistas.' },
+  { id: '10', name: 'Kit 3 Argolinhas Cravejadas', tag: 'Brincos · Ouro 18k', categories: 'ouro', image: 'imagens/brinco-08.png', imageAlt: 'imagens/brinco-08-alt.png', price: 129.90, details: ['Antialérgico', 'Ouro 18k'], badge: 'Favorita', soldOut: true, desc: 'Trio de argolinhas huggie cravejadas em micro zircônias. Use juntas ou separadas — combinam com tudo.' },
+  { id: '11', name: 'Pulseira Corrente Bolinhas', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-03.png', price: 119.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Corrente bolinha com berloques ovais diamantados. Movimento e brilho a cada passo.' },
+  { id: '12', name: 'Pulseira Borboletas de Pérola', tag: 'Pulseiras · Ouro 18k', categories: 'ouro perola', image: 'imagens/pulseira-01.png', price: 95.90, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Borboletas de madrepérola sobre corrente dourada com esferas facetadas. Feminina e cheia de significado.' },
+  { id: '13', name: 'Pulseira Corações Dourados', tag: 'Pulseiras · Ouro 18k', categories: 'ouro', image: 'imagens/pulseira-02.png', price: 89.90, oldPrice: 105.00, details: ['Antialérgico', 'Ouro 18k'], soldOut: true, desc: 'Corações lisos em acabamento acetinado sobre corrente cartier. Um mimo delicado para o pulso.' },
+  { id: '14', name: 'Pulseira Elos de Coração', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-04.png', price: 129.90, details: ['Antialérgico', 'Ródio Branco'], soldOut: true, desc: 'Elos entrelaçados com corações em alto relevo e banho de ródio branco. Presença e delicadeza na mesma pulseira.' },
+  { id: '15', name: 'Pulseira Pérolas Barrocas', tag: 'Pulseiras · Prata', categories: 'prata perola', image: 'imagens/pulseira-05.png', price: 139.90, details: ['Antialérgico', 'Ródio Branco'], soldOut: true, desc: 'Pérolas barrocas e esferas de prata alternadas em corrente delicada. Elegância orgânica, peça única.' },
+  { id: '16', name: 'Pulseira Berloques de Prata', tag: 'Pulseiras · Ródio Branco', categories: 'prata', image: 'imagens/pulseira-06.png', price: 109.90, details: ['Antialérgico', 'Ródio Branco'], soldOut: true, desc: 'Corrente dupla com berloques ovais espelhados. Minimalista, moderna e fácil de amar.' }
 ];
+
+// ===== PEÇAS AUTOMÁTICAS =====
+// Toda foto em imagens/ nomeada como a peça ("anel dourado com pedra preta.png")
+// vira produto. O arquivo data/catalogo-auto.js é gerado por tools/gerar-catalogo.mjs.
+(function mergeAuto() {
+  const auto = window.PRODUCTS_AUTO;
+  if (!Array.isArray(auto) || !auto.length) return;
+  const jaNoCatalogo = new Set(products.map(p => p.image));
+  // Entram no topo da grade: peça nova é a primeira que a cliente vê.
+  products.unshift(...auto.filter(p => p && p.image && !jaNoCatalogo.has(p.image)));
+})();
 
 // ===== AJUSTES DO PAINEL =====
 // Prioridade: prévia local (admin testando neste navegador) > publicado (data/produtos.js)
@@ -189,24 +200,43 @@ function renderProducts() {
 
   container.innerHTML = products.map((product, index) => {
     const hasOldPrice = product.oldPrice && product.oldPrice > product.price;
-    const badgeHtml = product.badge ? `<div class="product-badge">${product.badge}</div>` : '';
+    const isSoldOut = product.soldOut === true;
+    const badgeHtml = isSoldOut
+      ? `<div class="product-badge sold-out-badge">Esgotado</div>`
+      : (product.badge ? `<div class="product-badge">${product.badge}</div>` : '');
     const detailsHtml = product.details.map(detail => `<span>${detail}</span>`).join('<span>•</span>');
 
+    const soldOutOverlay = isSoldOut ? `
+          <div class="sold-out-overlay">
+            <div class="sold-out-stamp">
+              <span class="sold-out-icon">✦</span>
+              <span class="sold-out-text">Esgotado</span>
+              <span class="sold-out-sub">Em breve de volta</span>
+            </div>
+          </div>` : '';
+
+    const quickActionsHtml = isSoldOut
+      ? `<div class="product-quick-actions">
+              <button class="quick-add-btn sold-out-notify-btn" data-id="${product.id}" data-name="${product.name}" onclick="event.preventDefault();event.stopPropagation();window.open('https://wa.me/${(window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923'}?text=Ol%C3%A1!%20Quero%20ser%20avisada%20quando%20o%20${encodeURIComponent(product.name)}%20voltar%20ao%20estoque%20%F0%9F%92%9B','_blank')">✦ Avise-me Quando Voltar</button>
+            </div>`
+      : `<div class="product-quick-actions">
+              <button class="quick-add-btn" data-id="${product.id}" data-name="${product.name}" data-price="${product.price.toFixed(2)}">Adicionar à Sacola</button>
+            </div>`;
+
     return `
-      <article class="product-card" data-category="${product.categories} ${productType(product)}" id="prod-${product.id}">
+      <article class="product-card${isSoldOut ? ' sold-out' : ''}" data-category="${product.categories} ${productType(product)}" id="prod-${product.id}">
         <div class="product-img-wrap">
           <img src="${product.image}" alt="${product.name}" loading="lazy">
           ${product.imageAlt ? `<img src="${product.imageAlt}" alt="" class="img-alt" loading="lazy" aria-hidden="true">` : ''}
           ${badgeHtml}
+          ${soldOutOverlay}
           <button class="wishlist-btn" aria-label="Favoritar">♡</button>
-          <div class="product-quick-actions">
-            <button class="quick-add-btn" data-id="${product.id}" data-name="${product.name}" data-price="${product.price.toFixed(2)}">Adicionar à Sacola</button>
-          </div>
+          ${quickActionsHtml}
         </div>
         <div class="product-info">
           <p class="product-tag">${product.tag}</p>
           <h3 class="product-name"><a href="produto.html?id=${product.id}">${product.name}</a></h3>
-          <div class="product-price">${hasOldPrice ? `<span class="price-old">R$ ${product.oldPrice.toFixed(2).replace('.', ',')}</span>` : ''}<span class="price-current">R$ ${product.price.toFixed(2).replace('.', ',')}</span></div>
+          <div class="product-price">${isSoldOut ? '<span class="price-current sold-out-price">Esgotado</span>' : (hasOldPrice ? `<span class="price-old">R$ ${product.oldPrice.toFixed(2).replace('.', ',')}</span>` : '') + `<span class="price-current">R$ ${product.price.toFixed(2).replace('.', ',')}</span>`}</div>
           <div class="product-details">${detailsHtml}</div>
         </div>
       </article>`;
@@ -336,6 +366,12 @@ function renderCartItems() {
 }
 
 function addToCart(id, name, price) {
+  // Block sold-out products
+  const prod = products.find(p => p.id === id);
+  if (prod && prod.soldOut) {
+    showToast('Esta peça está esgotada no momento ✦');
+    return;
+  }
   const existing = cart.find(item => item.id === id);
   if (existing) {
     existing.qty++;

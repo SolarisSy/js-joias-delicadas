@@ -25,6 +25,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Toda foto em imagens/ com nome de peça vira produto da grade
+      - name: Gerar catálogo a partir de imagens/
+        run: node tools/gerar-catalogo.mjs
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
