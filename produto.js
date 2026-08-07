@@ -68,6 +68,64 @@
     });
   }
 
+  // ===== SOLD OUT HANDLING =====
+  const isSoldOut = product.soldOut === true;
+  if (isSoldOut) {
+    // Add grayscale to gallery
+    const galleryWrap = mainImg.closest('.pdp-gallery') || mainImg.parentElement;
+    if (galleryWrap) galleryWrap.style.filter = 'grayscale(50%) brightness(0.95)';
+
+    // Update badge
+    const badgeEl = document.getElementById('pdpBadge');
+    badgeEl.textContent = 'Esgotado';
+    badgeEl.hidden = false;
+    badgeEl.classList.add('sold-out-badge');
+
+    // Insert sold-out banner before the price
+    const priceEl = document.getElementById('pdpPrice');
+    const bannerHtml = `<div class="pdp-sold-out-banner">
+      <span class="sold-out-icon">✦</span>
+      <div class="pdp-sold-out-banner-text">
+        <strong>Peça Esgotada</strong>
+        <span>Esta peça está temporariamente indisponível</span>
+      </div>
+    </div>`;
+    priceEl.parentElement.insertAdjacentHTML('beforebegin', bannerHtml);
+
+    // Update price display
+    priceEl.textContent = 'Esgotado';
+    priceEl.classList.add('sold-out-price');
+    const pixEl = document.getElementById('pdpPix');
+    if (pixEl) pixEl.style.display = 'none';
+    const oldPriceEl = document.getElementById('pdpOldPrice');
+    if (oldPriceEl) oldPriceEl.style.display = 'none';
+
+    // Disable qty controls
+    const qtySection = document.querySelector('.pdp-qty');
+    if (qtySection) qtySection.style.display = 'none';
+
+    // Replace buy buttons with notification
+    const addBtn = document.getElementById('pdpAddBtn');
+    const buyNow = document.getElementById('pdpBuyNow');
+    if (addBtn) {
+      addBtn.textContent = '✦ Avise-me Quando Voltar';
+      addBtn.classList.add('sold-out-notify-btn');
+      addBtn.style.cssText = 'background: linear-gradient(135deg, #a07845, #c9a06c); color: #fff; border: none; cursor: pointer; position: relative; overflow: hidden;';
+      // Remove old listener by cloning
+      const newAddBtn = addBtn.cloneNode(true);
+      addBtn.parentNode.replaceChild(newAddBtn, addBtn);
+      newAddBtn.addEventListener('click', () => {
+        const waNum = (window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923';
+        window.open(`https://wa.me/${waNum}?text=Ol%C3%A1!%20Quero%20ser%20avisada%20quando%20o%20${encodeURIComponent(product.name)}%20voltar%20ao%20estoque%20%F0%9F%92%9B`, '_blank');
+      });
+    }
+    if (buyNow) {
+      buyNow.textContent = '✦ Consultar Disponibilidade';
+      buyNow.href = `https://wa.me/${(window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923'}?text=Ol%C3%A1!%20Gostaria%20de%20saber%20quando%20o%20${encodeURIComponent(product.name)}%20voltar%C3%A1%20ao%20estoque%20%F0%9F%92%9B`;
+    }
+    return; // Skip qty and buy setup below
+  }
+
   // ===== QUANTIDADE =====
   let qty = 1;
   const qtyValue = document.getElementById('qtyValue');
@@ -96,20 +154,20 @@
   // ===== AVALIAÇÕES =====
   const SEEDS = {
     brincos: [
-      { name: 'Camila R.', stars: 5, avatar: 'imagens/avatars/cliente-44.jpg', date: '28 jun 2026', verified: true, text: 'Apaixonada! Ainda mais delicado pessoalmente, e não senti nenhuma alergia. Chegou super bem embalado 💛' },
-      { name: 'Fernanda L.', stars: 5, avatar: 'imagens/avatars/cliente-68.jpg', date: '11 jun 2026', verified: true, text: 'Uso todos os dias e o banho continua perfeito. Atendimento pelo WhatsApp foi um amor.' }
+      { name: 'Camila R.', stars: 5, avatar: 'imagens/avatars/camila-r.jpg', date: '28 jun 2026', verified: true, text: 'Apaixonada! Ainda mais delicado pessoalmente, e não senti nenhuma alergia. Chegou super bem embalado 💛' },
+      { name: 'Fernanda L.', stars: 5, avatar: 'imagens/avatars/fernanda-l.jpg', date: '11 jun 2026', verified: true, text: 'Uso todos os dias e o banho continua perfeito. Atendimento pelo WhatsApp foi um amor.' }
     ],
     colares: [
-      { name: 'Juliana M.', stars: 5, avatar: 'imagens/avatars/cliente-47.jpg', date: '02 jul 2026', verified: true, text: 'O colar é ainda mais bonito ao vivo, caimento perfeito no decote. Recebi elogios no mesmo dia!' },
-      { name: 'Patrícia S.', stars: 4, avatar: 'imagens/avatars/cliente-12.jpg', date: '19 mai 2026', verified: true, text: 'Peça linda e delicada. Só demorou um pouquinho o envio, mas valeu a espera.' }
+      { name: 'Juliana M.', stars: 5, avatar: 'imagens/avatars/juliana-m.jpg', date: '02 jul 2026', verified: true, text: 'O colar é ainda mais bonito ao vivo, caimento perfeito no decote. Recebi elogios no mesmo dia!' },
+      { name: 'Patrícia S.', stars: 4, avatar: 'imagens/avatars/patricia-s.jpg', date: '19 mai 2026', verified: true, text: 'Peça linda e delicada. Só demorou um pouquinho o envio, mas valeu a espera.' }
     ],
     pulseiras: [
-      { name: 'Aline T.', stars: 5, avatar: 'imagens/avatars/cliente-65.jpg', date: '24 jun 2026', verified: true, text: 'Delicada do jeito que eu queria, não enrosca na roupa e o fecho é firme. Amei!' },
-      { name: 'Bruna C.', stars: 5, avatar: 'imagens/avatars/cliente-33.jpg', date: '07 jun 2026', verified: true, text: 'Comprei de presente para minha mãe e ela não tira mais do braço 💛' }
+      { name: 'Aline T.', stars: 5, avatar: 'imagens/avatars/aline-t.jpg', date: '24 jun 2026', verified: true, text: 'Delicada do jeito que eu queria, não enrosca na roupa e o fecho é firme. Amei!' },
+      { name: 'Bruna C.', stars: 5, avatar: 'imagens/avatars/bruna-c.jpg', date: '07 jun 2026', verified: true, text: 'Comprei de presente para minha mãe e ela não tira mais do braço 💛' }
     ],
     aneis: [
-      { name: 'Larissa F.', stars: 5, avatar: 'imagens/avatars/cliente-26.jpg', date: '30 jun 2026', verified: true, text: 'A pedra brilha demais! Parece joia de verdade, uso sem tirar e continua impecável.' },
-      { name: 'Renata O.', stars: 4, avatar: 'imagens/avatars/cliente-90.jpg', date: '14 mai 2026', verified: true, text: 'Anel lindo e confortável. O tamanho veio certinho como combinamos pelo WhatsApp.' }
+      { name: 'Larissa F.', stars: 5, avatar: 'imagens/avatars/larissa-f.jpg', date: '30 jun 2026', verified: true, text: 'A pedra brilha demais! Parece joia de verdade, uso sem tirar e continua impecável.' },
+      { name: 'Renata O.', stars: 4, avatar: 'imagens/avatars/renata-o.jpg', date: '14 mai 2026', verified: true, text: 'Anel lindo e confortável. O tamanho veio certinho como combinamos pelo WhatsApp.' }
     ]
   };
   const typeKey = product.tag.split('·')[0].trim().toLowerCase()
