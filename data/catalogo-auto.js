@@ -1,7 +1,7 @@
 /* GERADO AUTOMATICAMENTE — não edite à mão.
    Fonte: os nomes dos arquivos em imagens/
    Recriar: node tools/gerar-catalogo.mjs
-   48 peça(s). */
+   54 peça(s). */
 window.PRODUCTS_AUTO = [
   {
     "id": "auto-anel-dourado-com-pedra-preta",
@@ -606,6 +606,20 @@ window.PRODUCTS_AUTO = [
     "desc": "Colar Prata Medalhas Estrela com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-conjunto-prata-pedra-rosa",
+    "name": "Conjunto Prata Pedra Rosa",
+    "tag": "Conjuntos · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/conjunto%20prata%20pedra%20rosa.png",
+    "price": 127.9,
+    "oldPrice": 149.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Conjunto Prata Pedra Rosa com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-pulseira-dourada-cristais-ovais",
     "name": "Pulseira Dourada Cristais Ovais",
     "tag": "Pulseiras · Ouro 18k",
@@ -648,6 +662,20 @@ window.PRODUCTS_AUTO = [
     "desc": "Pulseira Dourada Gotas de Cristal com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-pulseira-dourada-medalhas-marteladas",
+    "name": "Pulseira Dourada Medalhas Marteladas",
+    "tag": "Pulseiras · Ouro 18k",
+    "categories": "ouro",
+    "image": "imagens/pulseira%20dourada%20medalhas%20marteladas.png",
+    "price": 92.9,
+    "oldPrice": 109.9,
+    "details": [
+      "Antialérgico",
+      "Ouro 18k"
+    ],
+    "desc": "Pulseira Dourada Medalhas Marteladas com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-pulseira-prata-cristais-baguete",
     "name": "Pulseira Prata Cristais Baguete",
     "tag": "Pulseiras · Ródio Branco",
@@ -675,5 +703,61 @@ window.PRODUCTS_AUTO = [
     ],
     "badge": "Kids",
     "desc": "Pulseira Prata Elos com Bolinhas com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-pulseira-prata-elos-com-coracoes",
+    "name": "Pulseira Prata Elos com Corações",
+    "tag": "Pulseiras · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/pulseira%20prata%20elos%20com%20cora%C3%A7%C3%B5es.png",
+    "price": 92.9,
+    "oldPrice": 109.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Pulseira Prata Elos com Corações com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-pulseira-prata-elos-losango",
+    "name": "Pulseira Prata Elos Losango",
+    "tag": "Pulseiras · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/pulseira%20prata%20elos%20losango.png",
+    "price": 92.9,
+    "oldPrice": 109.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Pulseira Prata Elos Losango com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-pulseira-prata-elos-ovais",
+    "name": "Pulseira Prata Elos Ovais",
+    "tag": "Pulseiras · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/pulseira%20prata%20elos%20ovais.png",
+    "price": 92.9,
+    "oldPrice": 109.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Pulseira Prata Elos Ovais com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-pulseira-prata-riviera-vermelha",
+    "name": "Pulseira Prata Riviera Vermelha",
+    "tag": "Pulseiras · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/pulseira%20prata%20riviera%20vermelha.png",
+    "price": 92.9,
+    "oldPrice": 109.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Pulseira Prata Riviera Vermelha com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   }
 ];

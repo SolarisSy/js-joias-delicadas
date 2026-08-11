@@ -95,6 +95,12 @@
       "resumo": "preços padrão caíram ~15% e agora saem como de/por: anéis 109,90→92,90, brincos 79,90→67,90, pulseiras 109,90→92,90, colares 119,90→101,90, tornozeleiras 89,90→75,90, conjuntos 149,90→127,90",
       "comoFunciona": "cada tipo em tools/gerar-catalogo.mjs tem preco (o por) e precoDe (o riscado); precoDe só vira oldPrice quando o nome do arquivo não traz preço próprio",
       "naoAfeta": "as 10 peças do catálogo antigo em script.js mantêm o preço delas — estão todas soldOut"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "mais 7 capturas renomeadas: 6 peças novas (5 pulseiras + o primeiro conjunto da loja, prata pedra rosa) e 1 segundo ângulo do colar prata chuveiro verde — catálogo vai a 54 peças",
+      "segundosAngulos": "as capturas 18.25.14 e 18.43.11 viraram os -alt de brinco prata cristais baguete e anel prata coração cravejado",
+      "unicaSobra": "18.34.44 repete a foto de anel dourado com pedra preta-alt e o gerador só aceita um -alt por peça — segue fora do repositório"
     }
   ],
   "pecasPublicadas": [
