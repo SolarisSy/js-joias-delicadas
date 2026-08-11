@@ -46,6 +46,13 @@
       "data": "2026-08-11",
       "commit": "311d318",
       "resumo": "fecha os furos entre painel e grade: switch À venda (override soldOut), peça nova entra no topo da vitrine, aviso de ajuste órfão e ?v=<sha> contra o cache do Pages"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "9 capturas de tela renomeadas pela peça que mostram — catálogo passa de 9 para 18 peças",
+      "fotosDeVitrine": "primeiras fotos reais (peça na caixa de veludo, na mão, 760x1010) ao lado dos renders limpos",
+      "precos": "todas entraram com o preço padrão do tipo; sem sufixo de preço no nome",
+      "atencao": "pulseira prata elos com bolinhas.png tem marca d'água KIDS de fornecedor no canto esquerdo"
     }
   ],
   "pecasPublicadas": [
@@ -97,6 +104,51 @@
     {
       "arquivo": "pulseira dourada gotas de cristal.png",
       "origem": "Gemini_Generated_Image_fkv6jl… (publicada em 07/08 como colar dourado gotas de cristal)",
+      "secao": "Pulseiras"
+    },
+    {
+      "arquivo": "argola dourada trançada.png",
+      "origem": "Captura de Tela 2026-08-08 às 11.21.26",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "brinco prata cristais baguete.png",
+      "origem": "Captura de Tela 2026-08-08 às 11.35.38",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "brinco dourado quadrado vazado.png",
+      "origem": "Captura de Tela 2026-08-08 às 12.27.23",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "anel dourado duas estrelas.png",
+      "origem": "Captura de Tela 2026-08-08 às 11.37.09",
+      "secao": "Anéis"
+    },
+    {
+      "arquivo": "anel dourado fileira de pedras negras.png",
+      "origem": "Captura de Tela 2026-08-08 às 11.38.47",
+      "secao": "Anéis"
+    },
+    {
+      "arquivo": "colar dourado pingente olho grego.png",
+      "origem": "Captura de Tela 2026-08-08 às 11.38.24",
+      "secao": "Colares"
+    },
+    {
+      "arquivo": "pulseira dourada cristais ovais.png",
+      "origem": "Captura de Tela 2026-08-08 às 12.25.46",
+      "secao": "Pulseiras"
+    },
+    {
+      "arquivo": "pulseira prata medalhas estrela.png",
+      "origem": "Captura de Tela 2026-08-08 às 12.25.18",
+      "secao": "Pulseiras"
+    },
+    {
+      "arquivo": "pulseira prata elos com bolinhas.png",
+      "origem": "Captura de Tela 2026-08-08 às 12.26.11",
       "secao": "Pulseiras"
     }
   ],
