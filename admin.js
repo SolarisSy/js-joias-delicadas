@@ -289,7 +289,35 @@
     document.getElementById(id).addEventListener('input', recomputeSite);
   });
 
-  // ===== NOVA PEÇA =====
+  // ===== NOVA PEÇA (janela de postagem) =====
+  const modalEl = document.getElementById('newPieceModal');
+
+  // O aviso mora dentro da janela: a barra de status fica atrás dela
+  function setNpError(msg) {
+    const el = document.getElementById('npError');
+    el.textContent = msg || '';
+    el.hidden = !msg;
+  }
+
+  function openNewPiece() {
+    modalEl.hidden = false;
+    document.body.style.overflow = 'hidden';
+    setNpError('');
+    document.getElementById('npName').focus();
+  }
+
+  function closeNewPiece() {
+    modalEl.hidden = true;
+    document.body.style.overflow = '';
+    document.getElementById('openNewPieceBtn').focus();
+  }
+
+  document.getElementById('openNewPieceBtn').addEventListener('click', openNewPiece);
+  modalEl.querySelectorAll('[data-close-modal]').forEach(el => el.addEventListener('click', closeNewPiece));
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !modalEl.hidden) closeNewPiece();
+  });
+
   function compressImage(file) {
     return new Promise(resolve => {
       const img = new Image();
@@ -325,14 +353,16 @@
     e.preventDefault();
     const name = document.getElementById('npName').value.trim();
     const price = parseNum(document.getElementById('npPrice').value);
-    if (!name || isNaN(price) || price <= 0) { setStatus('Preencha nome e preço da nova peça.', 'err'); return; }
-    if (!npPhotoData) { setStatus('Escolha uma foto para a nova peça.', 'err'); return; }
+    if (!name || isNaN(price) || price <= 0) { setNpError('Preencha o nome e um preço válido.'); return; }
+    if (!npPhotoData) { setNpError('Escolha uma foto para a peça.'); return; }
+    setNpError('');
 
     const tipo = document.getElementById('npTipo').value;
     const material = document.getElementById('npMaterial').value;
     const matKey = material === 'Ouro 18k' ? 'ouro' : (material === 'Pérola' ? 'perola' : 'prata');
     const cats = [matKey];
     if (document.getElementById('npPerola').checked && matKey !== 'perola') cats.push('perola');
+    if (document.getElementById('npKids').checked) cats.push('kids');
 
     const x = {
       id: 'x' + Date.now(),
@@ -354,7 +384,11 @@
     npPhotoData = null;
     document.getElementById('npPreview').hidden = true;
     document.getElementById('npPhotoBtn').classList.remove('has-photo');
+    closeNewPiece();
     renderPanel();
+    // A peça nova fica na última linha da tabela — levo o dono até ela
+    const linha = document.querySelector(`tr[data-rid="${x.id}"]`);
+    if (linha) linha.scrollIntoView({ behavior: 'smooth', block: 'center' });
     setStatus(`✦ "${name}" adicionada — salve a prévia ou publique para ela entrar na loja.`, 'ok');
   });
 

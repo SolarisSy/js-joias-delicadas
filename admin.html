@@ -79,6 +79,7 @@
                         <h2>Peças da Loja</h2>
                         <p>Edite nome, preços, promoções e estoque, ou oculte peças da vitrine. As mudanças ficam pendentes até você salvar.</p>
                     </div>
+                    <button type="button" class="btn btn-gold" id="openNewPieceBtn">＋ Adicionar peça</button>
                 </div>
                 <div class="admin-orphans" id="orphanNote" hidden></div>
                 <div class="admin-table-wrap">
@@ -99,13 +100,41 @@
                 </div>
             </section>
 
-            <section class="admin-section">
-                <div class="admin-section-head">
-                    <div>
-                        <h2>Nova Peça</h2>
-                        <p>Adicione uma peça com foto — ela entra na loja junto com as demais quando você salvar/publicar.</p>
-                    </div>
+            <section class="admin-actions-bar" id="actionsBar">
+                <div class="pending-note" id="pendingNote">Nenhuma alteração pendente</div>
+                <div class="admin-actions-btns">
+                    <button class="btn btn-outline-sm" id="discardBtn">Descartar alterações</button>
+                    <button class="btn btn-cream" id="previewBtn">Salvar prévia neste navegador</button>
+                    <button class="btn btn-gold" id="publishBtn">✦ Publicar no site</button>
                 </div>
+            </section>
+
+            <section class="admin-section admin-publish-box">
+                <h3>Publicação</h3>
+                <p>Para o botão <strong>"Publicar no site"</strong> funcionar, cole aqui um token do GitHub
+                   (<a href="https://github.com/settings/personal-access-tokens/new" target="_blank">criar token ↗</a> — dê acesso de <em>Contents: Read and write</em> apenas ao repositório <code>js-joias-delicadas</code>).
+                   O token fica salvo <strong>somente neste navegador</strong>.</p>
+                <div class="token-row">
+                    <input type="password" id="ghToken" placeholder="github_pat_… ou ghp_…" autocomplete="off">
+                    <button class="btn btn-outline-sm" id="saveTokenBtn">Salvar token</button>
+                </div>
+                <p class="publish-status" id="publishStatus"></p>
+            </section>
+        </main>
+    </div>
+
+    <!-- JANELA DE POSTAGEM — abre pelo botão "Adicionar peça" -->
+    <div class="admin-modal" id="newPieceModal" hidden>
+        <div class="admin-modal-backdrop" data-close-modal></div>
+        <div class="admin-modal-card" role="dialog" aria-modal="true" aria-labelledby="newPieceTitle">
+            <header class="admin-modal-head">
+                <div>
+                    <h2 id="newPieceTitle">Nova Peça</h2>
+                    <p>Ela entra no topo da vitrine quando você salvar a prévia ou publicar.</p>
+                </div>
+                <button type="button" class="admin-modal-close" data-close-modal aria-label="Fechar">✕</button>
+            </header>
+            <div class="admin-modal-body">
                 <form class="new-piece" id="newPieceForm">
                     <div class="new-piece-photo">
                         <input type="file" id="npPhoto" accept="image/*" hidden>
@@ -140,37 +169,20 @@
                         <div class="config-grid three">
                             <div class="config-field"><label for="npPrice">Preço (R$)</label><input type="text" id="npPrice" inputmode="decimal" placeholder="99,90" required></div>
                             <div class="config-field"><label for="npOldPrice">Preço "De" (opcional)</label><input type="text" id="npOldPrice" inputmode="decimal" placeholder="—"></div>
+                            <div class="config-field checkbox-field">
+                                <label for="npKids"><input type="checkbox" id="npKids"> Peça infantil (aba Kids)</label>
+                            </div>
                         </div>
                         <div class="config-field">
                             <label for="npDesc">Descrição</label>
                             <textarea id="npDesc" rows="3" maxlength="300" placeholder="Conte os detalhes da peça…"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-cream">＋ Adicionar peça</button>
+                        <p class="modal-error" id="npError" hidden></p>
+                        <button type="submit" class="btn btn-gold">＋ Adicionar à loja</button>
                     </div>
                 </form>
-            </section>
-
-            <section class="admin-actions-bar" id="actionsBar">
-                <div class="pending-note" id="pendingNote">Nenhuma alteração pendente</div>
-                <div class="admin-actions-btns">
-                    <button class="btn btn-outline-sm" id="discardBtn">Descartar alterações</button>
-                    <button class="btn btn-cream" id="previewBtn">Salvar prévia neste navegador</button>
-                    <button class="btn btn-gold" id="publishBtn">✦ Publicar no site</button>
-                </div>
-            </section>
-
-            <section class="admin-section admin-publish-box">
-                <h3>Publicação</h3>
-                <p>Para o botão <strong>"Publicar no site"</strong> funcionar, cole aqui um token do GitHub
-                   (<a href="https://github.com/settings/personal-access-tokens/new" target="_blank">criar token ↗</a> — dê acesso de <em>Contents: Read and write</em> apenas ao repositório <code>js-joias-delicadas</code>).
-                   O token fica salvo <strong>somente neste navegador</strong>.</p>
-                <div class="token-row">
-                    <input type="password" id="ghToken" placeholder="github_pat_… ou ghp_…" autocomplete="off">
-                    <button class="btn btn-outline-sm" id="saveTokenBtn">Salvar token</button>
-                </div>
-                <p class="publish-status" id="publishStatus"></p>
-            </section>
-        </main>
+            </div>
+        </div>
     </div>
 
     <script src="data/produtos.js"></script>
