@@ -663,7 +663,7 @@ select:focus-visible {
 
 .categories-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   margin-top: 48px;
   text-align: left;
@@ -866,6 +866,14 @@ select:focus-visible {
   box-shadow: var(--shadow-hover);
 }
 .product-card.hidden { display: none; }
+.product-profile {
+  margin: 0.9rem 0 0.85rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #5a4b3f;
+  max-height: 4.5em;
+  overflow: hidden;
+}
 .products-grid .product-card.fade-in {
   opacity: 1;
   /* fill backwards (não forwards): com forwards o transform final da animação
@@ -1015,6 +1023,258 @@ select:focus-visible {
   font-size: 11px;
   color: var(--text-light);
   letter-spacing: 0.3px;
+}
+
+/* ===========================
+   SOLD OUT — Esgotado State
+   Premium glass-morphism overlay with animations
+   =========================== */
+
+/* Card desaturação + hover suave */
+.product-card.sold-out {
+  position: relative;
+}
+.product-card.sold-out .product-img-wrap img {
+  filter: grayscale(65%) brightness(0.92);
+  transition: filter 0.6s cubic-bezier(0.4, 0, 0.2, 1), transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.product-card.sold-out:hover .product-img-wrap img {
+  filter: grayscale(30%) brightness(0.96);
+  transform: scale(1.03);
+}
+
+/* Badge "Esgotado" no canto — gradiente animado */
+.sold-out-badge {
+  background: linear-gradient(135deg, #8b7355, #a08c72, #c9a06c, #a08c72, #8b7355) !important;
+  background-size: 300% 300% !important;
+  animation: soldOutBadgeShimmer 4s ease infinite !important;
+  color: var(--white) !important;
+  font-weight: 600 !important;
+  letter-spacing: 2px !important;
+  padding: 5px 14px !important;
+  border-radius: 2px !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.15);
+}
+@keyframes soldOutBadgeShimmer {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Overlay glassmorphism */
+.sold-out-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    160deg,
+    rgba(253,248,243,0.15) 0%,
+    rgba(44,33,28,0.35) 50%,
+    rgba(201,160,108,0.18) 100%
+  );
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  animation: soldOutOverlayIn 0.8s 0.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes soldOutOverlayIn {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Stamp central com animação */
+.sold-out-stamp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 18px 30px;
+  background: rgba(253,248,243,0.88);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(201,160,108,0.35);
+  border-radius: 4px;
+  box-shadow:
+    0 8px 32px rgba(44,33,28,0.12),
+    0 2px 8px rgba(201,160,108,0.08),
+    inset 0 0 0 1px rgba(255,255,255,0.3);
+  transform: scale(0.8) translateY(8px);
+  opacity: 0;
+  animation: soldOutStampIn 0.7s 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+@keyframes soldOutStampIn {
+  0%   { transform: scale(0.8) translateY(8px); opacity: 0; }
+  60%  { transform: scale(1.02) translateY(-2px); opacity: 1; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+.sold-out-icon {
+  font-size: 16px;
+  color: var(--gold);
+  animation: soldOutIconSpin 6s linear infinite;
+}
+@keyframes soldOutIconSpin {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.sold-out-text {
+  font-family: var(--font-serif);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--dark);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.sold-out-sub {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--gold);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  opacity: 0;
+  animation: soldOutSubIn 0.5s 0.9s ease forwards;
+}
+@keyframes soldOutSubIn {
+  0%   { opacity: 0; transform: translateY(4px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Preço "Esgotado" estilizado */
+.sold-out-price {
+  font-family: var(--font-sans) !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-light) !important;
+  position: relative;
+  padding-left: 18px;
+}
+.sold-out-price::before {
+  content: '✦';
+  position: absolute;
+  left: 0;
+  color: var(--gold);
+  font-size: 10px;
+  animation: soldOutPricePulse 2s ease-in-out infinite;
+}
+@keyframes soldOutPricePulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50%      { opacity: 1; transform: scale(1.2); }
+}
+
+/* Botão "Avise-me" */
+.sold-out-notify-btn {
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold)) !important;
+  color: var(--white) !important;
+  letter-spacing: 1.5px !important;
+  font-size: 10px !important;
+  position: relative;
+  overflow: hidden;
+}
+.sold-out-notify-btn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  animation: soldOutBtnShimmer 3s ease-in-out infinite;
+}
+@keyframes soldOutBtnShimmer {
+  0%   { left: -100%; }
+  100% { left: 100%; }
+}
+.sold-out-notify-btn:hover {
+  background: linear-gradient(135deg, var(--gold), var(--gold-light)) !important;
+}
+
+/* Hover no card sold-out: overlay suaviza */
+.product-card.sold-out:hover .sold-out-overlay {
+  background: linear-gradient(
+    160deg,
+    rgba(253,248,243,0.10) 0%,
+    rgba(44,33,28,0.25) 50%,
+    rgba(201,160,108,0.12) 100%
+  );
+}
+.product-card.sold-out:hover .sold-out-stamp {
+  box-shadow:
+    0 12px 40px rgba(44,33,28,0.18),
+    0 4px 12px rgba(201,160,108,0.12),
+    inset 0 0 0 1px rgba(255,255,255,0.4);
+  transform: scale(1.03);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Quick actions sempre visíveis em sold-out */
+.product-card.sold-out .product-quick-actions {
+  transform: translateY(0);
+}
+
+/* Linha decorativa shimmer no topo do card sold-out */
+.product-card.sold-out::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--gold), var(--gold-light), var(--gold), transparent);
+  background-size: 200% 100%;
+  animation: soldOutTopLine 3s ease infinite;
+  z-index: 3;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+@keyframes soldOutTopLine {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* Sold-out na página do produto */
+.pdp-sold-out-banner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  background: linear-gradient(135deg, rgba(201,160,108,0.08), rgba(201,160,108,0.15));
+  border: 1px solid rgba(201,160,108,0.25);
+  border-radius: var(--radius);
+  margin-bottom: 20px;
+  animation: pdpSoldOutIn 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes pdpSoldOutIn {
+  0%   { opacity: 0; transform: translateY(-8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.pdp-sold-out-banner .sold-out-icon {
+  font-size: 20px;
+  animation: soldOutIconSpin 6s linear infinite;
+}
+.pdp-sold-out-banner-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.pdp-sold-out-banner-text strong {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  color: var(--dark);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.pdp-sold-out-banner-text span {
+  font-size: 12px;
+  color: var(--text-light);
 }
 
 /* Custom Order CTA */
@@ -2681,4 +2941,107 @@ select:focus-visible {
 @media (max-width: 720px) {
   .config-grid, .config-grid.three { grid-template-columns: 1fr; }
   .new-piece { flex-direction: column; }
+}
+
+/* ===========================
+   SELO "PEÇA ÚNICA"
+   Diferencial da loja: cada modelo existe em uma unidade só.
+   O brilho varre o selo de tempos em tempos, como a luz numa vitrine.
+   =========================== */
+.unique-seal {
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 8px;
+  padding: 3px 10px 3px 8px;
+  border: 1px solid rgba(201, 160, 108, 0.4);
+  border-radius: 100px;
+  background: linear-gradient(135deg, var(--cream-warm), var(--white));
+  font-family: var(--font-sans);
+  font-size: 9.5px;
+  font-weight: 500;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--gold-dark);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+/* Faixa de luz atravessando o selo */
+.unique-seal::after {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 -60%;
+  width: 55%;
+  background: linear-gradient(100deg, transparent, rgba(255, 255, 255, 0.85), transparent);
+  transform: skewX(-18deg);
+  animation: uniqueSweep 4.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+.unique-seal-star {
+  font-size: 11px;
+  line-height: 1;
+  color: var(--gold);
+  animation: uniqueTwinkle 2.6s ease-in-out infinite;
+}
+/* Versão maior, usada na página do produto */
+.unique-seal-lg {
+  margin: 0 0 10px;
+  padding: 5px 14px 5px 11px;
+  font-size: 10.5px;
+  letter-spacing: 1.6px;
+}
+.unique-seal-lg .unique-seal-star { font-size: 13px; }
+
+/* Peça esgotada mantém o selo, mas sem chamar atenção */
+.product-card.sold-out .unique-seal { opacity: 0.45; }
+.product-card.sold-out .unique-seal::after { animation: none; }
+
+@keyframes uniqueSweep {
+  0%, 55% { left: -60%; }
+  100% { left: 115%; }
+}
+@keyframes uniqueTwinkle {
+  0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
+  50% { opacity: 0.55; transform: scale(1.25) rotate(90deg); }
+}
+
+/* Faixa de destaque no topo dos diferenciais */
+.guarantee-unique {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  text-align: left;
+  padding: 24px 28px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(120deg, var(--cream-warm), var(--white) 55%, var(--rose-light));
+  background-size: 180% 180%;
+  animation: uniqueGlow 12s ease-in-out infinite;
+}
+.guarantee-unique .guar-icon { flex: 0 0 auto; margin: 0; }
+.guarantee-unique h3 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+.guarantee-unique h3 .unique-seal { margin-bottom: 0; }
+.guarantee-unique p { max-width: 62ch; }
+
+@keyframes uniqueGlow {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+@media (max-width: 720px) {
+  .guarantee-unique {
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+    padding: 24px 20px;
+  }
+  .guarantee-unique h3 { justify-content: center; }
 }

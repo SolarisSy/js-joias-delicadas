@@ -108,16 +108,16 @@ window.PRODUCTS_AUTO = [
     "desc": "Brinco Prata Pomba com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
-    "id": "auto-colar-dourado-gotas-de-cristal",
-    "name": "Colar Dourado Gotas de Cristal",
-    "tag": "Colares · Ouro 18k",
+    "id": "auto-pulseira-dourada-gotas-de-cristal",
+    "name": "Pulseira Dourada Gotas de Cristal",
+    "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
-    "image": "imagens/colar%20dourado%20gotas%20de%20cristal.png",
-    "price": 119.9,
+    "image": "imagens/pulseira%20dourada%20gotas%20de%20cristal.png",
+    "price": 109.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
     ],
-    "desc": "Colar Dourado Gotas de Cristal com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+    "desc": "Pulseira Dourada Gotas de Cristal com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   }
 ];

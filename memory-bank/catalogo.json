@@ -1,0 +1,82 @@
+{
+  "convencaoNomes": {
+    "regra": "O nome do arquivo em imagens/ é o nome do produto; a primeira palavra define a seção.",
+    "gerador": "node tools/gerar-catalogo.mjs → data/catalogo-auto.js",
+    "sufixos": {
+      "-alt": "segundo ângulo da mesma peça (foto de hover)",
+      "- 129,90": "preço",
+      "- 159,90 - 129,90": "preço de / por",
+      "(novidade)": "selo na foto",
+      "(esgotado)": "marca a peça como esgotada"
+    },
+    "ignorados": "arquivo que não começa com anel/brinco/argola/pulseira/colar/tornozeleira/conjunto fica fora da grade",
+    "avatares": "imagens/avatars/<nome-da-cliente>.jpg — o arquivo leva o nome do perfil que o usa em produto.js"
+  },
+  "publicacao2026-08-07": {
+    "commit": "82546d0",
+    "resumo": "9 peças novas + 3 segundos ângulos, 8 avatares renomeados pelo perfil",
+    "capturaRemovida": "Captura de Tela 2026-08-06 às 12.04.58.png era cópia byte-a-byte de anel dourado com pedra preta.png"
+  },
+  "pecasPublicadas": [
+    {
+      "arquivo": "anel prata lua crescente.png",
+      "origem": "Gemini_Generated_Image_68e2qj…",
+      "secao": "Anéis"
+    },
+    {
+      "arquivo": "anel dourado cruz cravejada.png",
+      "origem": "Gemini_Generated_Image_k0jb0a…",
+      "secao": "Anéis"
+    },
+    {
+      "arquivo": "anel prata coração cravejado.png",
+      "origem": "Gemini_Generated_Image_k02nzu…-2",
+      "secao": "Anéis"
+    },
+    {
+      "arquivo": "anel dourado com pedra preta-alt.png",
+      "origem": "Gemini_Generated_Image_vnsaig…-2",
+      "secao": "2º ângulo"
+    },
+    {
+      "arquivo": "argola dourada lisa.png",
+      "origem": "Gemini_Generated_Image_h9ljmr…",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "brinco dourado flor de cristais.png",
+      "origem": "Gemini_Generated_Image_h7053…-2",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "brinco prata bolinha.png",
+      "origem": "Gemini_Generated_Image_h2ldb4…",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "brinco prata bolinha-alt.png",
+      "origem": "Gemini_Generated_Image_h2ldb4…-2",
+      "secao": "2º ângulo"
+    },
+    {
+      "arquivo": "brinco prata pomba.png",
+      "origem": "Gemini_Generated_Image_iro55u…-2",
+      "secao": "Brincos"
+    },
+    {
+      "arquivo": "colar dourado gotas de cristal.png",
+      "origem": "Gemini_Generated_Image_fkv6jl…",
+      "secao": "Colares"
+    }
+  ],
+  "avatares": {
+    "camila-r.jpg": "Camila R. · brincos",
+    "fernanda-l.jpg": "Fernanda L. · brincos",
+    "juliana-m.jpg": "Juliana M. · colares",
+    "patricia-s.jpg": "Patrícia S. · colares",
+    "aline-t.jpg": "Aline T. · pulseiras",
+    "bruna-c.jpg": "Bruna C. · pulseiras",
+    "larissa-f.jpg": "Larissa F. · anéis",
+    "renata-o.jpg": "Renata O. · anéis"
+  }
+}

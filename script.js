@@ -234,6 +234,7 @@ function renderProducts() {
           ${quickActionsHtml}
         </div>
         <div class="product-info">
+          <span class="unique-seal" title="Peça única — última unidade em estoque"><span class="unique-seal-star">✦</span>Peça Única</span>
           <p class="product-tag">${product.tag}</p>
           <h3 class="product-name"><a href="produto.html?id=${product.id}">${product.name}</a></h3>
           <div class="product-price">${isSoldOut ? '<span class="price-current sold-out-price">Esgotado</span>' : (hasOldPrice ? `<span class="price-old">R$ ${product.oldPrice.toFixed(2).replace('.', ',')}</span>` : '') + `<span class="price-current">R$ ${product.price.toFixed(2).replace('.', ',')}</span>`}</div>

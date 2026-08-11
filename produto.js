@@ -20,7 +20,12 @@
   // ===== PREENCHER DADOS =====
   document.title = `${product.name} — JS Joias Delicadas`;
   document.getElementById('crumbName').textContent = product.name;
-  document.getElementById('pdpTag').textContent = product.tag;
+  const tagEl = document.getElementById('pdpTag');
+  tagEl.textContent = product.tag;
+  // Diferencial da loja: cada peça é garimpada em unidade única
+  tagEl.insertAdjacentHTML('afterend',
+    '<span class="unique-seal unique-seal-lg pdp-anim" title="Peça única — última unidade em estoque">' +
+    '<span class="unique-seal-star">✦</span>Peça Única</span>');
   document.getElementById('pdpName').textContent = product.name;
   document.getElementById('pdpDesc').textContent = product.desc || '';
   document.getElementById('pdpPrice').textContent = fmt(product.price);
