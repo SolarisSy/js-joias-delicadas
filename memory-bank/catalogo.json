@@ -10,13 +10,44 @@
       "(esgotado)": "marca a peça como esgotada"
     },
     "ignorados": "arquivo que não começa com anel/brinco/argola/pulseira/colar/tornozeleira/conjunto fica fora da grade",
-    "avatares": "imagens/avatars/<nome-da-cliente>.jpg — o arquivo leva o nome do perfil que o usa em produto.js"
+    "avatares": "imagens/avatars/<nome-da-cliente>.jpg — o arquivo leva o nome do perfil que o usa em produto.js",
+    "capasDeCategoria": "imagens/categoria-<secao>.jpg — usadas à mão no index.html, não entram na grade (nome não começa com tipo de peça)"
   },
-  "publicacao2026-08-07": {
-    "commit": "82546d0",
-    "resumo": "9 peças novas + 3 segundos ângulos, 8 avatares renomeados pelo perfil",
-    "capturaRemovida": "Captura de Tela 2026-08-06 às 12.04.58.png era cópia byte-a-byte de anel dourado com pedra preta.png"
+  "painelDeControle": {
+    "url": "admin.html — senha validada por hash SHA-256 em admin.js (a senha não está no código)",
+    "arquivoDeAjustes": "data/produtos.js — PRODUCTS_OVERRIDE (por id), PRODUCTS_EXTRA (peças novas), SITE_OVERRIDE (whatsapp, instagram, anúncios)",
+    "comoPublica": "PUT na API do GitHub com token pessoal salvo no localStorage → commit em data/produtos.js → o push dispara o deploy",
+    "duasFontesIndependentes": "gerar-catalogo.mjs só reescreve data/catalogo-auto.js; nunca toca em data/produtos.js — por isso o deploy não apaga o que o painel publicou",
+    "camposEditaveis": ["nome", "preço", "preço de", "selo", "à venda (esgotado)", "visível", "descrição"],
+    "ondeSaoAplicados": "script.js → applyOverrides(); produto.html herda porque produto.js usa o mesmo array products",
+    "previaLocal": "localStorage js_joias_override_preview — só o navegador do dono vê; publicar limpa a prévia",
+    "fotoDePecaNova": "sobe para imagens/painel/<id>.jpg; o gerador não lê subpastas, então essa foto nunca vira produto duplicado",
+    "pegadinhaDoId": "id de peça automática é auto-<slug do nome do arquivo>. Renomear a foto muda o id e o ajuste antigo fica órfão — o painel avisa e oferece limpar, mas a edição não é recuperável"
   },
+  "cacheDoPages": {
+    "problema": "GitHub Pages serve os assets com cache-control: max-age=600 — publicação do painel podia levar 10 min para aparecer",
+    "solucao": "tools/versionar-assets.mjs injeta ?v=<GITHUB_SHA> nas tags dos HTMLs durante o deploy",
+    "importante": "roda só no CI, no artifact publicado; os HTMLs do repositório ficam sem ?v=. É idempotente — reaplicar troca a versão antiga"
+  },
+  "publicacoes": [
+    {
+      "data": "2026-08-07",
+      "commit": "82546d0",
+      "resumo": "9 peças novas + 3 segundos ângulos, 8 avatares renomeados pelo perfil",
+      "capturaRemovida": "Captura de Tela 2026-08-06 às 12.04.58.png era cópia byte-a-byte de anel dourado com pedra preta.png"
+    },
+    {
+      "data": "2026-08-11",
+      "commit": "10fc5ac",
+      "resumo": "capas das 4 categorias no index.html; colar dourado gotas de cristal renomeado para pulseira dourada gotas de cristal (a peça mudou de seção Colares para Pulseiras); refino de style.css, produto.js e script.js",
+      "catalogo": "9 peças em data/catalogo-auto.js"
+    },
+    {
+      "data": "2026-08-11",
+      "commit": "311d318",
+      "resumo": "fecha os furos entre painel e grade: switch À venda (override soldOut), peça nova entra no topo da vitrine, aviso de ajuste órfão e ?v=<sha> contra o cache do Pages"
+    }
+  ],
   "pecasPublicadas": [
     {
       "arquivo": "anel prata lua crescente.png",
@@ -64,9 +95,9 @@
       "secao": "Brincos"
     },
     {
-      "arquivo": "colar dourado gotas de cristal.png",
-      "origem": "Gemini_Generated_Image_fkv6jl…",
-      "secao": "Colares"
+      "arquivo": "pulseira dourada gotas de cristal.png",
+      "origem": "Gemini_Generated_Image_fkv6jl… (publicada em 07/08 como colar dourado gotas de cristal)",
+      "secao": "Pulseiras"
     }
   ],
   "avatares": {
