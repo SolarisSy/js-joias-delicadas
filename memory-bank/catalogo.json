@@ -69,6 +69,26 @@
     {
       "data": "2026-08-11",
       "resumo": "cadastro de peça virou janela: botão ＋ Adicionar peça abre um modal em vez do formulário sempre aberto no fim da página, com checkbox de peça infantil"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "mais 30 capturas de tela renomeadas pela peça — catálogo passa de 18 para 48 peças; todas com o preço padrão da seção",
+      "duplicatasMantidasComoCaptura": [
+        "18.25.14 = brinco prata cristais baguete (mesma foto já publicada)",
+        "18.34.44 = anel dourado com pedra preta-alt",
+        "18.43.11 = anel prata coração cravejado"
+      ],
+      "atencao": "anel prata coração de cristais (coração cheio de pavê) é peça diferente de anel prata coração cravejado (coração vazado)"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "anel-02.png/-alt eram um par de brincos: viraram brinco-09.png/-alt e o item id 6 do catálogo antigo em script.js passou de Anel Solitário Dourado para Brinco Ponto de Luz Dourado (tag e categoria Brincos)",
+      "licao": "o id do catálogo antigo não muda com o arquivo, então corrigir o tipo ali não deixa ajuste órfão no painel"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "colar dourado elos com ponto de luz era pulseira — renomeado para pulseira dourada elos com ponto de luz, foi para Pulseiras e o preço padrão caiu de 119,90 para 109,90",
+      "licao": "segunda vez que a seção saiu errada da foto na caixa; conferir o tipo com o dono antes de publicar peça fotografada dobrada na caixa"
     }
   ],
   "pecasPublicadas": [
