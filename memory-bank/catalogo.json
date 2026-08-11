@@ -20,7 +20,15 @@
     "arquivoDeAjustes": "data/produtos.js — PRODUCTS_OVERRIDE (por id), PRODUCTS_EXTRA (peças novas), SITE_OVERRIDE (whatsapp, instagram, anúncios)",
     "comoPublica": "PUT na API do GitHub com token pessoal salvo no localStorage → commit em data/produtos.js → o push dispara o deploy",
     "duasFontesIndependentes": "gerar-catalogo.mjs só reescreve data/catalogo-auto.js; nunca toca em data/produtos.js — por isso o deploy não apaga o que o painel publicou",
-    "camposEditaveis": ["nome", "preço", "preço de", "selo", "à venda (esgotado)", "visível", "descrição"],
+    "camposEditaveis": [
+      "nome",
+      "preço",
+      "preço de",
+      "selo",
+      "à venda (esgotado)",
+      "visível",
+      "descrição"
+    ],
     "janelaDePostagem": "o botão ＋ Adicionar peça (ao lado de Peças da Loja) abre o modal #newPieceModal; fecha no ✕, no fundo ou com Esc. Tem checkbox de peça infantil que grava a categoria kids",
     "ondeSaoAplicados": "script.js → applyOverrides(); produto.html herda porque produto.js usa o mesmo array products",
     "previaLocal": "localStorage js_joias_override_preview — só o navegador do dono vê; publicar limpa a prévia",
@@ -101,6 +109,11 @@
       "resumo": "mais 7 capturas renomeadas: 6 peças novas (5 pulseiras + o primeiro conjunto da loja, prata pedra rosa) e 1 segundo ângulo do colar prata chuveiro verde — catálogo vai a 54 peças",
       "segundosAngulos": "as capturas 18.25.14 e 18.43.11 viraram os -alt de brinco prata cristais baguete e anel prata coração cravejado",
       "unicaSobra": "18.34.44 repete a foto de anel dourado com pedra preta-alt e o gerador só aceita um -alt por peça — segue fora do repositório"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "as 16 peças do catálogo antigo em script.js também caíram ~15% e agora têm oldPrice — a loja inteira mostra de/por",
+      "detalhe": "são as peças esgotadas dos arquivos slug (brinco-01, pulseira-06 etc.); o painel não tinha override de preço para nenhum id, PRODUCTS_OVERRIDE está vazio"
     }
   ],
   "pecasPublicadas": [
