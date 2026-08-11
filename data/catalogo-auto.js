@@ -186,6 +186,19 @@ window.PRODUCTS_AUTO = [
     "desc": "Colar Dourado Pingente Olho Grego com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-colar-prata-medalhas-estrela",
+    "name": "Colar Prata Medalhas Estrela",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/colar%20prata%20medalhas%20estrela.png",
+    "price": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Medalhas Estrela com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-pulseira-dourada-cristais-ovais",
     "name": "Pulseira Dourada Cristais Ovais",
     "tag": "Pulseiras · Ouro 18k",
@@ -224,18 +237,5 @@ window.PRODUCTS_AUTO = [
     ],
     "badge": "Kids",
     "desc": "Pulseira Prata Elos com Bolinhas com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
-  },
-  {
-    "id": "auto-pulseira-prata-medalhas-estrela",
-    "name": "Pulseira Prata Medalhas Estrela",
-    "tag": "Pulseiras · Ródio Branco",
-    "categories": "prata",
-    "image": "imagens/pulseira%20prata%20medalhas%20estrela.png",
-    "price": 109.9,
-    "details": [
-      "Antialérgico",
-      "Ródio Branco"
-    ],
-    "desc": "Pulseira Prata Medalhas Estrela com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   }
 ];
