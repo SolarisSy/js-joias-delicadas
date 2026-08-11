@@ -89,6 +89,12 @@
       "data": "2026-08-11",
       "resumo": "colar dourado elos com ponto de luz era pulseira — renomeado para pulseira dourada elos com ponto de luz, foi para Pulseiras e o preço padrão caiu de 119,90 para 109,90",
       "licao": "segunda vez que a seção saiu errada da foto na caixa; conferir o tipo com o dono antes de publicar peça fotografada dobrada na caixa"
+    },
+    {
+      "data": "2026-08-11",
+      "resumo": "preços padrão caíram ~15% e agora saem como de/por: anéis 109,90→92,90, brincos 79,90→67,90, pulseiras 109,90→92,90, colares 119,90→101,90, tornozeleiras 89,90→75,90, conjuntos 149,90→127,90",
+      "comoFunciona": "cada tipo em tools/gerar-catalogo.mjs tem preco (o por) e precoDe (o riscado); precoDe só vira oldPrice quando o nome do arquivo não traz preço próprio",
+      "naoAfeta": "as 10 peças do catálogo antigo em script.js mantêm o preço delas — estão todas soldOut"
     }
   ],
   "pecasPublicadas": [

@@ -32,14 +32,15 @@ const PASTA = 'imagens';
 const SAIDA = join(RAIZ, 'data', 'catalogo-auto.js');
 const EXTENSOES = ['.png', '.jpg', '.jpeg', '.webp', '.avif'];
 
-// Primeira palavra do nome → seção da loja + preço padrão
+// Primeira palavra do nome → seção da loja + preço padrão.
+// precoDe é o preço antigo, riscado ao lado do novo na vitrine.
 const TIPOS = [
-  { termos: ['anel', 'aneis', 'anéis', 'alianca', 'aliança'], tag: 'Anéis', preco: 109.90 },
-  { termos: ['brinco', 'brincos', 'argola', 'argolas', 'argolinha', 'argolinhas', 'piercing'], tag: 'Brincos', preco: 79.90 },
-  { termos: ['pulseira', 'pulseiras', 'bracelete', 'berloque'], tag: 'Pulseiras', preco: 109.90 },
-  { termos: ['colar', 'colares', 'gargantilha', 'corrente', 'pingente', 'choker', 'escapulario', 'escapulário'], tag: 'Colares', preco: 119.90 },
-  { termos: ['tornozeleira', 'tornozeleiras'], tag: 'Tornozeleiras', preco: 89.90 },
-  { termos: ['conjunto', 'kit'], tag: 'Conjuntos', preco: 149.90 }
+  { termos: ['anel', 'aneis', 'anéis', 'alianca', 'aliança'], tag: 'Anéis', preco: 92.90, precoDe: 109.90 },
+  { termos: ['brinco', 'brincos', 'argola', 'argolas', 'argolinha', 'argolinhas', 'piercing'], tag: 'Brincos', preco: 67.90, precoDe: 79.90 },
+  { termos: ['pulseira', 'pulseiras', 'bracelete', 'berloque'], tag: 'Pulseiras', preco: 92.90, precoDe: 109.90 },
+  { termos: ['colar', 'colares', 'gargantilha', 'corrente', 'pingente', 'choker', 'escapulario', 'escapulário'], tag: 'Colares', preco: 101.90, precoDe: 119.90 },
+  { termos: ['tornozeleira', 'tornozeleiras'], tag: 'Tornozeleiras', preco: 75.90, precoDe: 89.90 },
+  { termos: ['conjunto', 'kit'], tag: 'Conjuntos', preco: 127.90, precoDe: 149.90 }
 ];
 
 // Palavras no nome → acabamento + filtro de categoria
@@ -143,6 +144,8 @@ for (const arquivo of arquivos) {
   const nome = tituloDe(info.nome);
   const [a, b] = info.precos;
   const preco = b ?? a ?? classe.tipo.preco;
+  // Sem preço no nome: o padrão da seção entra como "por" e o antigo como "de"
+  const precoDe = info.precos.length ? undefined : classe.tipo.precoDe;
   // (kids) no nome do arquivo entra na aba Kids da vitrine
   const categorias = info.kids ? `${classe.categorias} kids` : classe.categorias;
 
@@ -159,6 +162,7 @@ for (const arquivo of arquivos) {
         + `resistente ao dia a dia e pronta para virar sua favorita.`
   };
   if (b && a && a > b) produto.oldPrice = a;
+  else if (precoDe && precoDe > preco) produto.oldPrice = precoDe;
   if (info.badge) produto.badge = info.badge;
   else if (info.kids) produto.badge = 'Kids'; // um selo próprio dado no nome tem prioridade
   if (info.esgotado) produto.soldOut = true;

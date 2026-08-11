@@ -42,9 +42,19 @@ filtro Prata. Qualquer outro caso entra como Ouro 18k / filtro Ouro. Tendo **pé
 
 ## Se não usar preço no nome
 
-Cada seção tem um preço padrão: anéis R$ 109,90 · brincos R$ 79,90 · pulseiras R$ 109,90 ·
-colares R$ 119,90 · tornozeleiras R$ 89,90 · conjuntos R$ 149,90. Dá para ajustar depois
-pelo painel de controle (`admin.html`), sem mexer no arquivo.
+Cada seção tem um preço padrão, que aparece na vitrine com o preço antigo riscado ao lado:
+
+| Seção | De | Por |
+|---|---|---|
+| Anéis | 109,90 | **92,90** |
+| Brincos | 79,90 | **67,90** |
+| Pulseiras | 109,90 | **92,90** |
+| Colares | 119,90 | **101,90** |
+| Tornozeleiras | 89,90 | **75,90** |
+| Conjuntos | 149,90 | **127,90** |
+
+Preço escrito no nome do arquivo manda no padrão — e aí só vale o que estiver escrito ali.
+Dá para ajustar depois pelo painel de controle (`admin.html`), sem mexer no arquivo.
 
 ## Ver antes de publicar
 
