@@ -34,6 +34,10 @@ jobs:
       - name: Gerar catálogo a partir de imagens/
         run: node tools/gerar-catalogo.mjs
 
+      # ?v=<sha> nas tags: alteração do painel aparece sem esperar o cache do Pages
+      - name: Versionar assets contra cache
+        run: node tools/versionar-assets.mjs "$GITHUB_SHA"
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

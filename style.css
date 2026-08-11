@@ -2659,7 +2659,7 @@ select:focus-visible {
 
 .admin-stats {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   gap: 16px;
   margin-bottom: 36px;
 }
@@ -2706,6 +2706,30 @@ select:focus-visible {
 .admin-table tr:hover { background: var(--cream); }
 .admin-table tr.row-hidden { opacity: 0.45; }
 .admin-table tr.row-hidden td:first-child { filter: grayscale(0.8); }
+.admin-table tr.row-soldout td:first-child img { filter: grayscale(0.65); }
+.admin-table tr.row-soldout .cell-tag::after {
+  content: ' · esgotada';
+  color: var(--gold-dark);
+  font-weight: 600;
+}
+
+.admin-orphans {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 18px;
+  padding: 14px 18px;
+  border: 1px solid var(--gold);
+  border-left-width: 3px;
+  border-radius: var(--radius);
+  background: var(--rose-light);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+}
+.admin-orphans strong { color: var(--gold-dark); }
+.admin-orphans .btn { cursor: pointer; margin-left: auto; }
 
 .cell-piece { display: flex; align-items: center; gap: 10px; }
 .cell-piece img {

@@ -149,10 +149,16 @@ const products = [
     if (typeof o.price === 'number' && o.price > 0) products[i].price = o.price;
     if (typeof o.oldPrice === 'number' && o.oldPrice > 0) products[i].oldPrice = o.oldPrice;
     if (o.oldPrice === null) delete products[i].oldPrice;
+    // Estoque: o painel manda tanto para marcar quanto para liberar a peça
+    if (typeof o.soldOut === 'boolean') {
+      if (o.soldOut) products[i].soldOut = true;
+      else delete products[i].soldOut;
+    }
   }
 
-  // Peças novas criadas no painel
-  (state.extras || []).forEach(x => { if (!x.hidden) products.push({ ...x }); });
+  // Peças novas criadas no painel — entram no topo, junto com as fotos recém-publicadas
+  const extras = (state.extras || []).filter(x => x && !x.hidden).map(x => ({ ...x }));
+  if (extras.length) products.unshift(...extras);
 
   // Configurações da loja (com padrões)
   window.SITE_CONFIG = Object.assign({
