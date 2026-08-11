@@ -215,13 +215,14 @@ window.PRODUCTS_AUTO = [
     "id": "auto-pulseira-prata-elos-com-bolinhas",
     "name": "Pulseira Prata Elos com Bolinhas",
     "tag": "Pulseiras · Ródio Branco",
-    "categories": "prata",
-    "image": "imagens/pulseira%20prata%20elos%20com%20bolinhas.png",
+    "categories": "prata kids",
+    "image": "imagens/pulseira%20prata%20elos%20com%20bolinhas%20(kids).png",
     "price": 109.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
     ],
+    "badge": "Kids",
     "desc": "Pulseira Prata Elos com Bolinhas com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {

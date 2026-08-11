@@ -15,6 +15,7 @@
      anel dourado com pedra preta - 159,90 - 129,90.png → de / por
      anel dourado com pedra preta (novidade).png        → selo
      anel dourado com pedra preta (esgotado).png        → esgotado
+     pulseira prata elos com bolinhas (kids).png        → filtro Kids + selo
      anel dourado com pedra preta-alt.png               → 2º ângulo
 
    Só entra na grade quem começa com um tipo de peça conhecido
@@ -73,9 +74,11 @@ function interpretar(arquivo) {
 
   let badge = null;
   let esgotado = false;
+  let kids = false;
   nome = nome.replace(/\s*\(([^)]+)\)\s*/g, (_, dentro) => {
     const marca = semAcento(dentro).trim().toLowerCase();
     if (marca === 'esgotado' || marca === 'esgotada') esgotado = true;
+    else if (marca === 'kids' || marca === 'infantil') kids = true;
     else badge = tituloDe(dentro.trim());
     return ' ';
   });
@@ -90,7 +93,7 @@ function interpretar(arquivo) {
     nome = nome.slice(0, achou.index);
   }
 
-  return { nome: nome.replace(/\s+/g, ' ').trim(), precos, badge, esgotado, alt };
+  return { nome: nome.replace(/\s+/g, ' ').trim(), precos, badge, esgotado, kids, alt };
 }
 
 function classificar(nome) {
@@ -140,12 +143,14 @@ for (const arquivo of arquivos) {
   const nome = tituloDe(info.nome);
   const [a, b] = info.precos;
   const preco = b ?? a ?? classe.tipo.preco;
+  // (kids) no nome do arquivo entra na aba Kids da vitrine
+  const categorias = info.kids ? `${classe.categorias} kids` : classe.categorias;
 
   const produto = {
     id: `auto-${chave}`,
     name: nome,
     tag: `${classe.tipo.tag} · ${classe.material.acabamento}`,
-    categories: classe.categorias,
+    categories: categorias,
     image: caminho,
     price: preco,
     details: ['Antialérgico', classe.material.acabamento],
@@ -155,6 +160,7 @@ for (const arquivo of arquivos) {
   };
   if (b && a && a > b) produto.oldPrice = a;
   if (info.badge) produto.badge = info.badge;
+  else if (info.kids) produto.badge = 'Kids'; // um selo próprio dado no nome tem prioridade
   if (info.esgotado) produto.soldOut = true;
 
   porNome.set(chave, produto);
