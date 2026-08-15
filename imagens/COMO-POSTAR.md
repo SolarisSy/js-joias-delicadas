@@ -63,3 +63,16 @@ node tools/gerar-catalogo.mjs
 ```
 
 Lista as peças encontradas e atualiza `data/catalogo-auto.js`. No deploy isso roda sozinho.
+
+## Anúncios no Facebook e Instagram
+
+Toda peça publicada entra também no feed de dados do Commerce Manager, refeito a
+cada deploy:
+
+```
+https://solarissy.github.io/js-joias-delicadas/feed.xml
+```
+
+No Commerce Manager: **Catálogo → Fontes de dados → Feed de dados → Buscar por URL
+agendada**, e deixe a atualização diária. Peça esgotada ou escondida pelo painel
+sai do anúncio sozinha na próxima busca.
