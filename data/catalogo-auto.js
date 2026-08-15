@@ -1,7 +1,7 @@
 /* GERADO AUTOMATICAMENTE — não edite à mão.
    Fonte: os nomes dos arquivos em imagens/
    Recriar: node tools/gerar-catalogo.mjs
-   120 peça(s). */
+   127 peça(s). */
 window.PRODUCTS_AUTO = [
   {
     "id": "auto-anel-dourado-com-pedra-preta",
@@ -1236,6 +1236,20 @@ window.PRODUCTS_AUTO = [
     "desc": "Brinco Prata Trevo Preto com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-colar-dourado-bolinhas-marteladas",
+    "name": "Colar Dourado Bolinhas Marteladas",
+    "tag": "Colares · Ouro 18k",
+    "categories": "ouro",
+    "image": "imagens/colar%20dourado%20bolinhas%20marteladas.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ouro 18k"
+    ],
+    "desc": "Colar Dourado Bolinhas Marteladas com acabamento em ouro 18k. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-colar-dourado-coracao-vazado",
     "name": "Colar Dourado Coração Vazado",
     "tag": "Colares · Ouro 18k",
@@ -1362,6 +1376,34 @@ window.PRODUCTS_AUTO = [
     "desc": "Colar Prata Árvore da Vida com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-colar-prata-borboletas-e-flores",
+    "name": "Colar Prata Borboletas e Flores",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/colar%20prata%20borboletas%20e%20flores.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Borboletas e Flores com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-colar-prata-chuveiro-de-perolas",
+    "name": "Colar Prata Chuveiro de Pérolas",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata perola",
+    "image": "imagens/colar%20prata%20chuveiro%20de%20p%C3%A9rolas.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Chuveiro de Pérolas com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-colar-prata-chuveiro-verde",
     "name": "Colar Prata Chuveiro Verde",
     "tag": "Colares · Ródio Branco",
@@ -1418,6 +1460,34 @@ window.PRODUCTS_AUTO = [
     "desc": "Colar Prata Coração Liso com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
+    "id": "auto-colar-prata-cordao-baiano",
+    "name": "Colar Prata Cordão Baiano",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/colar%20prata%20cord%C3%A3o%20baiano.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Cordão Baiano com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-colar-prata-medalhas-e-cristais",
+    "name": "Colar Prata Medalhas e Cristais",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/colar%20prata%20medalhas%20e%20cristais.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Medalhas e Cristais com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
     "id": "auto-colar-prata-medalhas-estrela",
     "name": "Colar Prata Medalhas Estrela",
     "tag": "Colares · Ródio Branco",
@@ -1430,6 +1500,34 @@ window.PRODUCTS_AUTO = [
       "Ródio Branco"
     ],
     "desc": "Colar Prata Medalhas Estrela com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-colar-prata-pedras-coloridas",
+    "name": "Colar Prata Pedras Coloridas",
+    "tag": "Colares · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/colar%20prata%20pedras%20coloridas.png",
+    "price": 101.9,
+    "oldPrice": 119.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Colar Prata Pedras Coloridas com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
+  },
+  {
+    "id": "auto-conjunto-prata-arvore-da-vida",
+    "name": "Conjunto Prata Árvore da Vida",
+    "tag": "Conjuntos · Ródio Branco",
+    "categories": "prata",
+    "image": "imagens/conjunto%20prata%20%C3%A1rvore%20da%20vida.png",
+    "price": 127.9,
+    "oldPrice": 149.9,
+    "details": [
+      "Antialérgico",
+      "Ródio Branco"
+    ],
+    "desc": "Conjunto Prata Árvore da Vida com acabamento em ródio branco. Peça selecionada à mão pela JS Joias Delicadas: antialérgica, resistente ao dia a dia e pronta para virar sua favorita."
   },
   {
     "id": "auto-conjunto-prata-pedra-rosa",
