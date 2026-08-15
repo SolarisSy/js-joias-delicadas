@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>JS Joias · Acessos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --gold:#c9a06c; --gold-dark:#a07845;
+    --cream:#fdf8f3; --cream-warm:#f7f0e8; --nude:#eeddd0;
+    --dark:#2c211c; --text:#4a3830; --text-light:#7a6358;
+    --border:#e8d8cc; --white:#fff;
+    --shadow:0 4px 30px rgba(44,33,28,.08); --shadow-hover:0 12px 50px rgba(44,33,28,.15);
+    --serif:'Cormorant Garamond',serif; --sans:'Jost',system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    font-family:var(--sans);color:var(--text);min-height:100vh;
+    background:linear-gradient(160deg,var(--cream) 0%,var(--cream-warm) 60%,var(--nude) 100%);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    padding:48px 20px;gap:40px;
+  }
+  .brand{text-align:center}
+  .brand .star{color:var(--gold);font-size:26px;display:block;margin-bottom:8px}
+  .brand h1{font-family:var(--serif);font-weight:600;font-size:38px;color:var(--dark);letter-spacing:.5px}
+  .brand p{font-weight:300;font-size:14px;color:var(--text-light);letter-spacing:3px;text-transform:uppercase;margin-top:4px}
+  .cards{display:flex;gap:28px;flex-wrap:wrap;justify-content:center;width:100%;max-width:760px}
+  .card{
+    flex:1 1 300px;background:var(--white);border:1px solid var(--border);border-radius:14px;
+    padding:34px 30px;box-shadow:var(--shadow);text-decoration:none;color:inherit;
+    display:flex;flex-direction:column;gap:14px;transition:transform .35s cubic-bezier(.4,0,.2,1),box-shadow .35s;
+  }
+  .card:hover{transform:translateY(-6px);box-shadow:var(--shadow-hover)}
+  .card .ico{font-size:32px}
+  .card h2{font-family:var(--serif);font-weight:600;font-size:26px;color:var(--dark)}
+  .card .desc{font-weight:300;font-size:14px;line-height:1.6;color:var(--text-light);flex-grow:1}
+  .card .url{font-size:12px;color:var(--gold-dark);word-break:break-all;font-weight:400}
+  .card .go{
+    align-self:flex-start;margin-top:6px;font-size:13px;font-weight:500;letter-spacing:1px;text-transform:uppercase;
+    color:var(--white);background:var(--gold);padding:11px 22px;border-radius:6px;transition:background .3s;
+  }
+  .card:hover .go{background:var(--gold-dark)}
+  .card--painel .go{background:var(--dark)}
+  .card--painel:hover .go{background:#1c140f}
+  .req{border-top:1px solid var(--border);padding-top:14px;display:flex;flex-direction:column;gap:9px}
+  .req .step{display:flex;gap:10px;align-items:flex-start;font-size:13px;line-height:1.5}
+  .req .step b{color:var(--dark);font-weight:500}
+  .req .n{flex:0 0 20px;height:20px;border-radius:50%;background:var(--cream-warm);color:var(--gold-dark);
+    font-size:11px;font-weight:500;display:flex;align-items:center;justify-content:center;margin-top:1px}
+  .foot{font-size:12px;color:var(--text-light);text-align:center;max-width:520px;line-height:1.6}
+  .foot code{background:var(--cream-warm);padding:2px 6px;border-radius:4px;font-size:11px}
+</style>
+</head>
+<body>
+
+  <div class="brand">
+    <span class="star">✦</span>
+    <h1>JS Joias Delicadas</h1>
+    <p>Acessos</p>
+  </div>
+
+  <div class="cards">
+
+    <a class="card card--loja" href="https://solarissy.github.io/js-joias-delicadas/" target="_blank" rel="noopener">
+      <span class="ico">🛍️</span>
+      <h2>Loja</h2>
+      <p class="desc">A vitrine que os clientes veem. Aberta a todos, sem senha.</p>
+      <span class="url">solarissy.github.io/js-joias-delicadas/</span>
+      <span class="go">Abrir loja →</span>
+    </a>
+
+    <a class="card card--painel" href="https://solarissy.github.io/js-joias-delicadas/admin.html" target="_blank" rel="noopener">
+      <span class="ico">🔐</span>
+      <h2>Painel de Controle</h2>
+      <p class="desc">Editar preços, ocultar peças e publicar. Acesso restrito.</p>
+      <span class="url">solarissy.github.io/js-joias-delicadas/admin.html</span>
+      <div class="req">
+        <div class="step"><span class="n">1</span><span><b>Senha</b> de 4 dígitos — a que você já usa para entrar.</span></div>
+        <div class="step"><span class="n">2</span><span><b>Token do GitHub</b> — só para o botão <em>Publicar no site</em>. Fica salvo apenas no seu navegador.</span></div>
+      </div>
+      <span class="go">Abrir painel →</span>
+    </a>
+
+  </div>
+
+  <p class="foot">
+    Guarde este link. Página em <code>/acesso/</code> — não indexada em buscadores.
+    A senha e o token <b>não</b> ficam escritos aqui: seriam visíveis a qualquer pessoa que abrisse a página.
+  </p>
+
+</body>
+</html>
