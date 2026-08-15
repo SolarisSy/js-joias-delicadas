@@ -4,6 +4,14 @@
 
 'use strict';
 
+// ===== META PIXEL =====
+// O snippet base vive no <head> das páginas públicas. Aqui só disparamos
+// os eventos de e-commerce. content_ids usa o mesmo p.id do feed.xml —
+// é o que faz o Meta casar o anúncio do catálogo com a peça vista.
+function metaTrack(evento, dados) {
+  if (typeof fbq === 'function') fbq('track', evento, dados);
+}
+
 // ===== CART STATE =====
 let cart = JSON.parse(localStorage.getItem('js_joias_cart') || '[]');
 
@@ -396,6 +404,13 @@ function addToCart(id, name, price) {
   updateCartUI();
   openCart();
   showToast(`✦ "${name}" adicionado à sacola!`);
+  metaTrack('AddToCart', {
+    content_type: 'product',
+    content_ids: [id],
+    content_name: name,
+    value: parseFloat(price),
+    currency: 'BRL'
+  });
 }
 
 // ===== CART SIDEBAR =====
@@ -423,6 +438,22 @@ function closeCart() {
   if (cartBtn) cartBtn.addEventListener('click', openCart);
   if (cartClose) cartClose.addEventListener('click', closeCart);
   if (cartOverlay) cartOverlay.addEventListener('click', closeCart);
+
+  // Ir pro WhatsApp é o nosso checkout — registrado aqui uma única vez,
+  // porque updateCartUI() só reescreve o href do botão.
+  const checkout = document.getElementById('checkoutBtn');
+  if (checkout) {
+    checkout.addEventListener('click', () => {
+      if (!cart.length) return;
+      metaTrack('InitiateCheckout', {
+        content_type: 'product',
+        content_ids: cart.map(i => i.id),
+        num_items: cart.reduce((s, i) => s + i.qty, 0),
+        value: cart.reduce((s, i) => s + i.price * i.qty, 0),
+        currency: 'BRL'
+      });
+    });
+  }
 
   // Quick add buttons
   document.querySelectorAll('.quick-add-btn').forEach(btn => {

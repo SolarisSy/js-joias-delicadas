@@ -17,6 +17,16 @@
   const fmt = v => 'R$ ' + v.toFixed(2).replace('.', ',');
   const WA = 'https://wa.me/' + ((window.SITE_CONFIG && SITE_CONFIG.whatsapp) || '5541989043923');
 
+  // Peça vista — alimenta remarketing e anúncios dinâmicos do catálogo
+  metaTrack('ViewContent', {
+    content_type: 'product',
+    content_ids: [product.id],
+    content_name: product.name,
+    content_category: product.categories || '',
+    value: product.price,
+    currency: 'BRL'
+  });
+
   // ===== PREENCHER DADOS =====
   document.title = `${product.name} — JS Joias Delicadas`;
   document.getElementById('crumbName').textContent = product.name;
@@ -154,6 +164,28 @@
     updateCartUI();
     openCart();
     showToast(`✦ ${qty}x "${product.name}" na sacola!`);
+    // Esta página monta o item na mão, então não passa pelo addToCart()
+    // do script.js — o evento precisa ser disparado aqui.
+    metaTrack('AddToCart', {
+      content_type: 'product',
+      content_ids: [product.id],
+      content_name: product.name,
+      contents: [{ id: product.id, quantity: qty }],
+      value: product.price * qty,
+      currency: 'BRL'
+    });
+  });
+
+  // Comprar agora vai direto pro WhatsApp — é um checkout iniciado
+  document.getElementById('pdpBuyNow').addEventListener('click', () => {
+    metaTrack('InitiateCheckout', {
+      content_type: 'product',
+      content_ids: [product.id],
+      contents: [{ id: product.id, quantity: qty }],
+      num_items: qty,
+      value: product.price * qty,
+      currency: 'BRL'
+    });
   });
 
   // ===== AVALIAÇÕES =====
