@@ -1,0 +1,7 @@
+# GERADO AUTOMATICAMENTE — recriar: node tools/gerar-sitemap.mjs
+User-agent: *
+Allow: /js-joias-delicadas/
+Disallow: /js-joias-delicadas/admin.html
+Disallow: /js-joias-delicadas/acesso/
+
+Sitemap: https://solarissy.github.io/js-joias-delicadas/sitemap.xml

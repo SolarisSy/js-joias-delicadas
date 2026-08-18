@@ -4,8 +4,9 @@
 
    Monta o mesmo catálogo que a loja mostra e escreve feed.xml
    no formato de feed de produtos do Facebook/Instagram
-   (RSS 2.0 com o namespace g:, o mesmo que o Meta Commerce
-   Manager e o Google Merchant leem).
+   (RSS 2.0 com o namespace g:). O mesmo arquivo serve os tres
+   canais gratuitos: Meta Commerce Manager, Google Merchant
+   Center (listagens gratuitas) e Pinterest Catalogs.
 
    Uso:  node tools/gerar-feed.mjs
    (também roda sozinho no deploy — .github/workflows/deploy.yml)
@@ -20,62 +21,14 @@
    Endereço do site pode vir de SITE_URL (útil em domínio próprio).
    =========================================================== */
 
-import { readFileSync, writeFileSync } from 'node:fs';
-import { join, dirname } from 'node:path';
-import { fileURLToPath } from 'node:url';
-import vm from 'node:vm';
+import { writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { RAIZ, SITE, LOJA, lerCatalogo, secaoDe, url } from './ler-catalogo.mjs';
 
-const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SAIDA = join(RAIZ, 'feed.xml');
-
-const SITE = (process.env.SITE_URL || 'https://solarissy.github.io/js-joias-delicadas/').replace(/\/?$/, '/');
-const LOJA = 'JS Joias Delicadas';
 const MOEDA = 'BRL';
 
-/* Os arquivos de dados da loja só fazem window.X = ...; rodá-los
-   num contexto vazio devolve o mesmo que o navegador enxerga. */
-function lerWindow(arquivo) {
-  const contexto = vm.createContext({ window: {} });
-  vm.runInContext(readFileSync(join(RAIZ, arquivo), 'utf8'), contexto);
-  return contexto.window;
-}
-
-/* O catálogo antigo mora dentro do script.js, num literal de array.
-   Recortá-lo evita duplicar aqui as 16 peças escritas à mão. */
-function lerCatalogoAntigo() {
-  const fonte = readFileSync(join(RAIZ, 'script.js'), 'utf8');
-  const trecho = fonte.match(/^const products = (\[[\s\S]*?^\]);/m);
-  if (!trecho) throw new Error('script.js: array `products` não encontrado');
-  return vm.runInNewContext(trecho[1]);
-}
-
-// ---------- catálogo final, na mesma ordem de prioridade da loja ----------
-
-const produtos = lerCatalogoAntigo();
-
-const auto = lerWindow('data/catalogo-auto.js').PRODUCTS_AUTO || [];
-const jaNoCatalogo = new Set(produtos.map(p => p.image));
-produtos.unshift(...auto.filter(p => p && p.image && !jaNoCatalogo.has(p.image)));
-
-// Ajustes publicados pelo painel de controle (admin.html)
-const painel = lerWindow('data/produtos.js');
-const overrides = painel.PRODUCTS_OVERRIDE || {};
-const extras = painel.PRODUCTS_EXTRA || [];
-
-for (let i = produtos.length - 1; i >= 0; i--) {
-  const o = overrides[produtos[i].id];
-  if (!o) continue;
-  if (o.hidden) { produtos.splice(i, 1); continue; } // peça escondida não vai para o anúncio
-  ['name', 'badge', 'desc'].forEach(k => { if (typeof o[k] === 'string' && o[k].trim()) produtos[i][k] = o[k].trim(); });
-  if (typeof o.price === 'number' && o.price > 0) produtos[i].price = o.price;
-  if (typeof o.oldPrice === 'number' && o.oldPrice > 0) produtos[i].oldPrice = o.oldPrice;
-  if (o.oldPrice === null) delete produtos[i].oldPrice;
-  if (typeof o.soldOut === 'boolean') {
-    if (o.soldOut) produtos[i].soldOut = true;
-    else delete produtos[i].soldOut;
-  }
-}
-produtos.unshift(...extras.filter(x => x && !x.hidden));
+const produtos = lerCatalogo();
 
 // ---------- feed ----------
 
@@ -83,12 +36,24 @@ const escapar = (t) => String(t)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;').replace(/'/g, '&apos;');
 
-const url = (caminho) => SITE + String(caminho).replace(/^\//, '');
 const dinheiro = (valor) => `${Number(valor).toFixed(2)} ${MOEDA}`;
 const tag = (nome, valor) => `      <${nome}>${escapar(valor)}</${nome}>`;
 
-// "Anéis · Ouro 18k" → seção da loja, que vira o product_type do anúncio
-const secaoDe = (p) => String(p.tag || '').split('·')[0].trim() || 'Semi-joias';
+// Acabamento vira cor do anúncio: Google e Pinterest usam esse campo para
+// agrupar "anel dourado" com quem busca por cor.
+function corDe(p) {
+  const texto = `${p.name} ${p.tag || ''}`;
+  if (/dourad|ouro/i.test(texto)) return 'Dourado';
+  if (/prata|r[oó]dio/i.test(texto)) return 'Prata';
+  return '';
+}
+
+// Frete grátis acima de R$ 150 é a régua da vitrine. Abaixo disso o valor muda
+// por CEP, então só entra no feed se FRETE_BRL for informado no deploy —
+// declarar frete errado gera reprovação no Merchant Center.
+const FRETE_GRATIS_ACIMA = 150;
+const FRETE_PADRAO = Number(process.env.FRETE_BRL || '') || null;
+const freteDe = (p) => (p.price >= FRETE_GRATIS_ACIMA ? 0 : FRETE_PADRAO);
 
 function item(p) {
   const linhas = [
@@ -111,8 +76,26 @@ function item(p) {
   linhas.push(
     tag('g:product_type', secaoDe(p)),
     tag('g:google_product_category', 'Apparel & Accessories > Jewelry'),
-    tag('g:material', (p.details || []).find(d => /ouro|ródio|rodio|prata/i.test(d)) || 'Ouro 18k')
+    tag('g:material', (p.details || []).find(d => /ouro|ródio|rodio|prata/i.test(d)) || 'Ouro 18k'),
+    // Peça de catálogo próprio não tem código de barras. Sem esta linha o Google
+    // reprova o produto por identificador ausente — e com ela não se envia
+    // g:gtin nem g:mpn.
+    tag('g:identifier_exists', 'no'),
+    tag('g:age_group', /\bkids\b/.test(p.categories || '') ? 'kids' : 'adult'),
+    tag('g:gender', 'female'),
+    tag('g:custom_label_0', secaoDe(p))
   );
+  const cor = corDe(p);
+  if (cor) linhas.push(tag('g:color', cor));
+  const frete = freteDe(p);
+  if (frete !== null) {
+    linhas.push(
+      '      <g:shipping>',
+      `        <g:country>BR</g:country>`,
+      `        <g:price>${escapar(dinheiro(frete))}</g:price>`,
+      '      </g:shipping>'
+    );
+  }
   return `    <item>\n${linhas.join('\n')}\n    </item>`;
 }
 

@@ -29,6 +29,13 @@
 
   // ===== PREENCHER DADOS =====
   document.title = `${product.name} — JS Joias Delicadas`;
+
+  // ===== DADOS PARA OS CANAIS =====
+  // Open Graph reescrito com a peça certa e JSON-LD Product no corpo: é assim que
+  // o Google Merchant, o Pinterest e o Search entendem preço e disponibilidade
+  // sem precisar de uma página estática por produto.
+  publicarMetadados(product);
+
   document.getElementById('crumbName').textContent = product.name;
   const tagEl = document.getElementById('pdpTag');
   tagEl.textContent = product.tag;
@@ -416,4 +423,53 @@
     });
   }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
   document.querySelectorAll('[data-reveal]:not(.revealed)').forEach(el => observer.observe(el));
+
+  function publicarMetadados(p) {
+    const SITE = location.href.replace(/[^/]*$/, '');
+    const absoluto = (caminho) => new URL(caminho, SITE).href;
+    const foto = absoluto(p.image);
+
+    const og = (propriedade, conteudo) => {
+      let el = document.querySelector(`meta[property="${propriedade}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('property', propriedade);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', conteudo);
+    };
+
+    og('og:title', `${p.name} — JS Joias Delicadas`);
+    og('og:description', p.desc || `${p.name}, semi-joia antialérgica com 1 ano de garantia.`);
+    og('og:image', foto);
+    og('og:url', location.href);
+    og('product:price:amount', p.price.toFixed(2));
+    og('product:price:currency', 'BRL');
+    og('product:availability', p.soldOut ? 'out of stock' : 'in stock');
+
+    const dados = {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: p.name,
+      description: p.desc || '',
+      image: [foto],
+      sku: p.id,
+      brand: { '@type': 'Brand', name: 'JS Joias Delicadas' },
+      material: (p.details || []).find(d => /ouro|ródio|rodio|prata/i.test(d)) || 'Ouro 18k',
+      offers: {
+        '@type': 'Offer',
+        url: location.href,
+        priceCurrency: 'BRL',
+        price: p.price.toFixed(2),
+        itemCondition: 'https://schema.org/NewCondition',
+        availability: p.soldOut ? 'https://schema.org/OutOfStock' : 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'JS Joias Delicadas' }
+      }
+    };
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.textContent = JSON.stringify(dados);
+    document.head.appendChild(script);
+  }
+
 })();

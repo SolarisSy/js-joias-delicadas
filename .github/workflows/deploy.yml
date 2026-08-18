@@ -34,9 +34,24 @@ jobs:
       - name: Gerar catálogo a partir de imagens/
         run: node tools/gerar-catalogo.mjs
 
-      # feed.xml para o Commerce Manager (Facebook/Instagram) buscar
+      # feed.xml servido aos três canais gratuitos que leem XML:
+      # Meta Commerce Manager, Google Merchant Center e Pinterest
       - name: Gerar feed de dados
         run: node tools/gerar-feed.mjs
+
+      # catalogo.csv para os canais que só aceitam cadastro à mão
+      # (WhatsApp Business, OLX) ou importação por planilha
+      - name: Gerar planilha do catálogo
+        run: node tools/gerar-planilha.mjs
+
+      # sitemap.xml + robots.txt: sem eles a loja quase não é rastreada
+      - name: Gerar sitemap
+        run: node tools/gerar-sitemap.mjs
+
+      # posts.md: título de OLX, legenda de Instagram, pin e mensagem de
+      # WhatsApp prontos, uma peça por bloco
+      - name: Gerar textos de divulgação
+        run: node tools/gerar-posts.mjs
 
       # ?v=<sha> nas tags: alteração do painel aparece sem esperar o cache do Pages
       - name: Versionar assets contra cache
