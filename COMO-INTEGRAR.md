@@ -52,6 +52,19 @@ apontando para o `feed.xml`. Frequência diária.
 - Perfil precisa ser Conta Comercial ligada a uma Página do Facebook.
 - No Brasil não há checkout dentro do app: o clique leva ao site, que leva ao WhatsApp.
 - A sacolinha exige **verificação de domínio** — ver a nota do domínio no fim.
+
+Dá para pular a tela e cadastrar por API, sem abrir o Commerce Manager:
+
+```sh
+META_TOKEN=EAA... node tools/cadastrar-feed-meta.mjs                     # lista os catálogos
+META_TOKEN=EAA... META_CATALOG_ID=123 node tools/cadastrar-feed-meta.mjs # cadastra o feed
+```
+
+O cabeçalho de `tools/cadastrar-feed-meta.mjs` ensina a gerar o token (usuário do
+sistema com `catalog_management`). O token não é gravado em lugar nenhum.
+
+Google Merchant e Pinterest também têm API, mas exigem app OAuth próprio — dá mais
+trabalho que os cinco minutos de clique. Nesses dois, siga a tela.
 - Sem domínio o catálogo ainda funciona: entra em anúncios dinâmicos e no
   remarketing do Pixel, que já está instalado nas duas páginas.
 
