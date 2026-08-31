@@ -1,0 +1,6 @@
+.DS_Store
+
+# Artes geradas a partir das fotos de imagens/ — recriáveis com
+# tools/gerar-pins.sh, não precisam pesar no repositório
+artes/pins/
+artes/carrossel/
