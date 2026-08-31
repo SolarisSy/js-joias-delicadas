@@ -97,6 +97,23 @@ META_TOKEN=EAA... META_CATALOG_ID=123 node tools/cadastrar-feed-meta.mjs # cadas
 O cabeçalho de `tools/cadastrar-feed-meta.mjs` ensina a gerar o token (usuário do
 sistema com `catalog_management`). O token não é gravado em lugar nenhum.
 
+### Anúncio pago — mensagens no WhatsApp
+
+Classificado do Marketplace é grátis e não tem impulsionamento próprio; anúncio pago
+exige Página aprovada, conta de anúncios com cartão e roda no Gerenciador. Para
+ticket de ~R$ 92,90 que fecha no WhatsApp, o objetivo é **Mensagens**, não Tráfego:
+pagar clique para o site é pagar uma etapa a mais.
+
+```sh
+META_TOKEN=EAA... node tools/criar-campanha-meta.mjs                          # lista contas e Páginas
+META_TOKEN=EAA... META_AD_ACCOUNT_ID=act_123 META_PAGE_ID=456 \
+  node tools/criar-campanha-meta.mjs                                          # cria a campanha PAUSADA
+```
+
+Campanha, conjunto, criativo e anúncio nascem `PAUSED` com R$ 20/dia — nada entra no
+ar sem alguém ativar no Gerenciador. O Pixel `1331208122113813` já está nas duas
+páginas, então o remarketing começa a juntar público no primeiro dia.
+
 Google Merchant e Pinterest também têm API, mas exigem app OAuth próprio — dá mais
 trabalho que os cinco minutos de clique. Nesses dois, siga a tela.
 - Sem domínio o catálogo ainda funciona: entra em anúncios dinâmicos e no
