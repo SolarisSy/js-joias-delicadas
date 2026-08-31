@@ -97,6 +97,17 @@ META_TOKEN=EAA... META_CATALOG_ID=123 node tools/cadastrar-feed-meta.mjs # cadas
 O cabeçalho de `tools/cadastrar-feed-meta.mjs` ensina a gerar o token (usuário do
 sistema com `catalog_management`). O token não é gravado em lugar nenhum.
 
+### Arte do anúncio
+
+```sh
+node tools/gerar-arte-anuncio.mjs                                  # feed 1:1 e story 9:16
+PECA="colar dourado bolinhas marteladas" node tools/gerar-arte-anuncio.mjs
+```
+
+Renderiza no Chrome do Mac (fica fora do deploy, como o `gerar-pins.sh`) e escreve
+`artes/anuncio-frete-gratis-feed.png` e `-story.png`, com o selo de frete grátis acima
+de R$ 150. As duas aparecem no topo de `marketplace.html`, prontas para baixar.
+
 ### Anúncio pago — mensagens no WhatsApp
 
 Classificado do Marketplace é grátis e não tem impulsionamento próprio; anúncio pago

@@ -127,6 +127,17 @@ h1 em{font-style:italic;color:var(--gold)}
 .esconder{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--muted);cursor:pointer;user-select:none;white-space:nowrap}
 .esconder input{accent-color:var(--done)}
 
+.criativo{display:grid;grid-template-columns:1fr 300px;gap:26px;align-items:center;background:#0B0A0C;color:#F3EFE7;border-radius:16px;padding:26px 28px;box-shadow:var(--shadow)}
+.criativo h2{font-family:"Instrument Serif",Georgia,serif;font-weight:400;font-size:31px;line-height:1.1;margin:6px 0 0}
+.criativo h2 em{font-style:italic;color:#E4C387}
+.criativo p{color:#B4ACA1;margin:9px 0 0;max-width:44ch;font-size:14px}
+.criativo .eyebrow{color:#C9A15C}
+.criativo .acoes{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}
+.criativo .botao{background:transparent;color:#F3EFE7;border-color:rgba(201,161,92,.45)}
+.criativo .botao:hover{border-color:#E4C387;color:#E4C387}
+.previas{display:flex;gap:10px;justify-content:flex-end}
+.previas a{display:block;border:1px solid rgba(201,161,92,.28);border-radius:9px;overflow:hidden;line-height:0}
+.previas img{display:block;height:150px;width:auto}
 .fixos{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px 22px}
 .fixos h2{grid-column:1/-1;margin:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:500}
 .fixo{display:flex;gap:9px;align-items:flex-start;font-size:14px}
@@ -172,6 +183,8 @@ footer a{color:var(--ink)}
 
 @media (max-width:680px){
   h1{font-size:34px}
+  .criativo{grid-template-columns:1fr}
+  .previas{justify-content:flex-start}
   .ficha{grid-template-columns:1fr}
   .foto{border-right:none;border-bottom:1px solid var(--line)}
   .foto img{aspect-ratio:16/10}
@@ -199,6 +212,22 @@ footer a{color:var(--ink)}
   <input class="busca" type="search" id="busca" placeholder="Buscar peça…" aria-label="Buscar peça">
   <label class="esconder"><input type="checkbox" id="esconder"> esconder publicadas</label>
 </div>
+
+<section class="criativo">
+  <div>
+    <p class="eyebrow">Arte do anúncio</p>
+    <h2>Frete grátis <em>acima de R$ 150</em></h2>
+    <p>A peça de campanha nos dois formatos que a Meta pede no mesmo criativo: feed 1080×1080 e story 1080×1920. Serve para o impulsionamento, para o post e para o story.</p>
+    <div class="acoes">
+      <a class="botao" href="artes/anuncio-frete-gratis-feed.png" download>${BAIXAR} Baixar feed 1:1</a>
+      <a class="botao" href="artes/anuncio-frete-gratis-story.png" download>${BAIXAR} Baixar story 9:16</a>
+    </div>
+  </div>
+  <div class="previas">
+    <a href="artes/anuncio-frete-gratis-feed.png" target="_blank" rel="noopener"><img src="artes/anuncio-frete-gratis-feed.png" alt="Arte do anúncio, formato feed" loading="lazy"></a>
+    <a href="artes/anuncio-frete-gratis-story.png" target="_blank" rel="noopener"><img src="artes/anuncio-frete-gratis-story.png" alt="Arte do anúncio, formato story" loading="lazy"></a>
+  </div>
+</section>
 
 <section class="fixos">
   <h2>Igual em todos os anúncios</h2>
