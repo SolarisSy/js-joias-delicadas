@@ -39,6 +39,7 @@
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ, SITE } from './ler-catalogo.mjs';
+import { ANUNCIO_PAGO } from './textos-anuncio.mjs';
 
 const TOKEN = process.env.META_TOKEN;
 const CONTA = process.env.META_AD_ACCOUNT_ID;   // act_<id>
@@ -61,13 +62,9 @@ const INTERESSES = [
   { id: '6002839660079', name: 'Gifts' }
 ];
 
-const TEXTO_ANUNCIO =
-  'Semi-joias banhadas a ouro 18k, antialérgicas e com 1 ano de garantia. ' +
-  'Pronta-entrega, 5% de desconto no Pix e frete grátis acima de R$ 150. ' +
-  'Chame no WhatsApp e receba o catálogo completo 💛';
-
-const TITULO_ANUNCIO = 'Semi-joias com 1 ano de garantia';
-const DESCRICAO_ANUNCIO = 'Antialérgicas, pronta-entrega e envio para todo o Brasil';
+const TEXTO_ANUNCIO = ANUNCIO_PAGO.texto;
+const TITULO_ANUNCIO = ANUNCIO_PAGO.titulo;
+const DESCRICAO_ANUNCIO = ANUNCIO_PAGO.descricao;
 
 if (!TOKEN) {
   console.error('Falta META_TOKEN. Veja o cabeçalho deste arquivo para gerar um.');

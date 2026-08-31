@@ -17,7 +17,7 @@
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ, lerCatalogo, secaoDe } from './ler-catalogo.mjs';
-import { dinheiro, acabamentoDe, textos } from './textos-anuncio.mjs';
+import { dinheiro, acabamentoDe, textos, ANUNCIO_PAGO } from './textos-anuncio.mjs';
 
 const SAIDA = join(RAIZ, 'marketplace.html');
 
@@ -133,6 +133,9 @@ h1 em{font-style:italic;color:var(--gold)}
 .criativo p{color:#B4ACA1;margin:9px 0 0;max-width:44ch;font-size:14px}
 .criativo .eyebrow{color:#C9A15C}
 .criativo .acoes{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}
+.criativo .campo{background:rgba(255,255,255,.04);border-color:rgba(201,161,92,.22);margin-top:14px}
+.criativo .campo pre,.criativo .campo-cab label,.criativo .acoes,.criativo .conta{color:#CFC7BA}
+.criativo .campo pre{color:#F3EFE7}
 .criativo .botao{background:transparent;color:#F3EFE7;border-color:rgba(201,161,92,.45)}
 .criativo .botao:hover{border-color:#E4C387;color:#E4C387}
 .previas{display:flex;gap:10px;justify-content:flex-end}
@@ -222,6 +225,8 @@ footer a{color:var(--ink)}
       <a class="botao" href="artes/anuncio-frete-gratis-feed.png" download>${BAIXAR} Baixar feed 1:1</a>
       <a class="botao" href="artes/anuncio-frete-gratis-story.png" download>${BAIXAR} Baixar story 9:16</a>
     </div>
+    ${campo('Título do anúncio', ANUNCIO_PAGO.titulo, `${ANUNCIO_PAGO.titulo.length}/40`)}
+    ${campo('Texto do anúncio', ANUNCIO_PAGO.texto)}
   </div>
   <div class="previas">
     <a href="artes/anuncio-frete-gratis-feed.png" target="_blank" rel="noopener"><img src="artes/anuncio-frete-gratis-feed.png" alt="Arte do anúncio, formato feed" loading="lazy"></a>

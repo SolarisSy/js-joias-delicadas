@@ -111,3 +111,26 @@ export function textos(p) {
     tituloMarketplace, descricaoMarketplace
   };
 }
+
+/* ===========================================================
+   ANÚNCIO PAGO — a mesma copy no criativo, na página e na API
+
+   Abre pela objeção que trava a venda de semi-joia (escurece?),
+   responde com a garantia e só então oferece. As duas primeiras
+   linhas são o que aparece antes do "ver mais" no feed.
+   =========================================================== */
+export const ANUNCIO_PAGO = {
+  titulo: 'Semi-joia que não escurece',
+  descricao: 'Ouro 18k com 1 ano de garantia',
+  texto: [
+    'Cansada de folheado que escurece em duas semanas?',
+    '',
+    'As nossas peças são banhadas a ouro 18k, antialérgicas e vêm com 1 ano de garantia — escureceu, a gente troca.',
+    '',
+    '✦ Frete grátis acima de R$ 150',
+    '✦ 5% de desconto no Pix',
+    '✦ Pronta-entrega, envio para todo o Brasil',
+    '',
+    'Chame no WhatsApp e receba o catálogo completo 💛'
+  ].join('\n')
+};
