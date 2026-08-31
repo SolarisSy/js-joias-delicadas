@@ -52,6 +52,7 @@ writeFileSync(join(RAIZ, 'robots.txt'),
 User-agent: *
 Allow: ${base}
 Disallow: ${base}admin.html
+Disallow: ${base}marketplace.html
 Disallow: ${base}acesso/
 
 Sitemap: ${url('sitemap.xml')}

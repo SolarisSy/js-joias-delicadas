@@ -14,6 +14,7 @@ Nenhum canal desta página cobra mensalidade. O que o deploy já entrega pronto:
 |---|---|---|
 | Catálogo do WhatsApp | ✅ completo | nunca pede domínio |
 | OLX | ✅ completo | 20 anúncios grátis/mês, manuais |
+| Facebook Marketplace | ✅ completo | perfil pessoal, manual, sem API — Página não anuncia joia |
 | Catálogo da Meta | ✅ feed + anúncios | a sacolinha do Instagram fica de fora |
 | Google Merchant | ⚠️ testável | reivindicar por prefixo de URL no Search Console |
 | Pinterest | ⚠️ testável | reivindicação de `github.io` pode ser recusada |
@@ -44,7 +45,40 @@ da OLX (só imóveis, autos, peças e agro). É postagem manual.
 Regra prática: anunciar as peças de maior giro, com o link do site na descrição, e
 fechar a venda no WhatsApp. A OLX não cobra comissão.
 
-## 3. Meta (Instagram + Facebook) — R$ 0
+## 3. Facebook Marketplace — R$ 0, hoje
+
+Classificado, não vitrine: o anúncio nasce no **perfil pessoal**, não na Página.
+Página só entra no Marketplace pelo Commerce Manager, e joia não está entre as
+categorias liberadas para isso (só veículo, imóvel e vaga) — é por isso que o
+anúncio pela conta comercial fica parado em análise. Não existe API: a criação
+é manual, na mão, uma peça por vez.
+
+Caminho: **Marketplace → Criar anúncio → Item à venda**
+
+| Campo | O que preencher |
+|---|---|
+| Fotos | até 10; use a foto da peça e a `-alt` quando existir |
+| Título | o de `posts.md`, limite 100 caracteres |
+| Preço | o do catálogo, sem centavo quebrado no chat |
+| Categoria | Roupas e acessórios › Joias e acessórios |
+| Condição | Novo |
+| Descrição | a de `posts.md` — sem link externo |
+| Localização | sua cidade; o raio de busca do comprador é local |
+| Mais opções | marque **anunciar como estoque** (não some após a 1ª venda) |
+
+A página **marketplace.html** (<https://solarissy.github.io/js-joias-delicadas/marketplace.html>)
+é o balcão dessa postagem: as 127 peças com foto para baixar, título dentro do limite,
+descrição para copiar, filtro por seção e marcação do que já foi publicado. Ela é gerada
+pelo deploy (`node tools/gerar-marketplace.mjs`) e fica fora do sitemap.
+
+Antes de publicar, marque **Publicar em grupos** e escolha até 10 grupos de compra
+e venda da região — é onde está o alcance real, o feed do Marketplace sozinho
+entrega pouco.
+
+Link externo na descrição derruba a entrega do anúncio. O site vai na resposta
+do chat, não no texto publicado.
+
+## 4. Meta (Instagram + Facebook) — R$ 0
 
 Commerce Manager → **Catálogo → Fontes de dados → Feed de dados → Agendar busca por URL**,
 apontando para o `feed.xml`. Frequência diária.
@@ -68,7 +102,7 @@ trabalho que os cinco minutos de clique. Nesses dois, siga a tela.
 - Sem domínio o catálogo ainda funciona: entra em anúncios dinâmicos e no
   remarketing do Pixel, que já está instalado nas duas páginas.
 
-## 4. Google Merchant Center — R$ 0 (listagens gratuitas)
+## 5. Google Merchant Center — R$ 0 (listagens gratuitas)
 
 Merchant Center → **Produtos → Feeds → Adicionar feed → Busca agendada**, mesma URL do `feed.xml`.
 
@@ -82,7 +116,7 @@ DNS, que é do GitHub.
 
 O feed já sai com `identifier_exists=no`, obrigatório para joia sem código de barras.
 
-## 5. Pinterest — R$ 0
+## 6. Pinterest — R$ 0
 
 Pinterest Business → **Anúncios → Catálogos → Adicionar feed de dados**, mesma URL,
 formato RSS/XML. Exige reivindicar o site pela meta tag `p:domain_verify`.
@@ -167,14 +201,26 @@ tem API gratuita de publicação: postar é copiar, colar e enviar a foto.
 - Status diário com uma peça e o link. É o canal com maior taxa de leitura que você tem.
 - A lista de transmissão só entrega para quem tem seu número salvo — peça para salvarem.
 
+## Facebook Marketplace
+
+- 5 a 10 anúncios novos por dia, do perfil pessoal. Publicar as 127 de uma vez
+  derruba o perfil por spam.
+- Cada anúncio entra em até 10 grupos de compra e venda — refaça a escolha dos
+  grupos a cada publicação, o Marketplace não repete a última.
+- A cada 7 dias o anúncio pede renovação: **Seus anúncios → Renovar**. Renovar
+  vale mais que republicar, o histórico de chat vem junto.
+- Peça marcada como estoque continua ativa depois da venda. Só marque vendido
+  quando a peça acabar de verdade.
+- Responda em minutos: o Marketplace ranqueia quem responde rápido.
+
 ## Semana modelo
 
 | Dia | Tarefa |
 |---|---|
-| Segunda | 1 Reels + 1 pin + renovar OLX expirados |
+| Segunda | 1 Reels + 1 pin + renovar OLX expirados + 5 anúncios no Marketplace |
 | Terça | 1 pin + stories da peça do dia |
-| Quarta | 1 Reels + carrossel no feed + 1 pin |
+| Quarta | 1 Reels + carrossel no feed + 1 pin + 5 anúncios no Marketplace |
 | Quinta | 1 pin + status no WhatsApp |
-| Sexta | 1 Reels + 1 pin + 5 anúncios novos na OLX |
+| Sexta | 1 Reels + 1 pin + 5 anúncios novos na OLX + renovar Marketplace |
 | Sábado | 1 pin + stories de bastidor (embalagem, envio) |
 | Domingo | 1 pin agendado |

@@ -114,6 +114,13 @@
       "data": "2026-08-11",
       "resumo": "as 16 peças do catálogo antigo em script.js também caíram ~15% e agora têm oldPrice — a loja inteira mostra de/por",
       "detalhe": "são as peças esgotadas dos arquivos slug (brinco-01, pulseira-06 etc.); o painel não tinha override de preço para nenhum id, PRODUCTS_OVERRIDE está vazio"
+    },
+    {
+      "data": "2026-08-31",
+      "resumo": "marketplace.html: fila de postagem manual do Facebook Marketplace, gerada do catálogo por tools/gerar-marketplace.mjs e ligada ao deploy",
+      "porQueManual": "joia não entra no Commerce Manager (só veículo, imóvel e vaga) e o Marketplace não tem API para classificado — o anúncio sai do perfil pessoal, à mão",
+      "textoUnico": "tools/textos-anuncio.mjs passou a ser a fonte dos textos de posts.md e da página; antes viviam dentro de gerar-posts.mjs",
+      "naoIndexada": "noindex na página + Disallow no robots.txt: é ferramenta de trabalho, não vitrine"
     }
   ],
   "pecasPublicadas": [

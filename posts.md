@@ -54,6 +54,25 @@ Oi! Chegou o Anel Dourado com Pedra Preta ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-com-pedra-preta
 ```
+**Facebook Marketplace — título** (77/100)
+```
+Anel Dourado com Pedra Preta Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado com Pedra Preta — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Coração Cravejado — R$ 92,90
 
@@ -101,6 +120,25 @@ Anel Dourado Coração Cravejado, anel antialérgico banhado a ouro 18k, com 1 a
 Oi! Chegou o Anel Dourado Coração Cravejado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-coracao-cravejado
+```
+**Facebook Marketplace — título** (79/100)
+```
+Anel Dourado Coração Cravejado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Coração Cravejado — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado Coração de Pedras Azuis — R$ 92,90
@@ -150,6 +188,25 @@ Oi! Chegou o Anel Dourado Coração de Pedras Azuis ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-coracao-de-pedras-azuis
 ```
+**Facebook Marketplace — título** (85/100)
+```
+Anel Dourado Coração de Pedras Azuis Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Coração de Pedras Azuis — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Cruz Cravejada — R$ 92,90
 
@@ -197,6 +254,25 @@ Anel Dourado Cruz Cravejada, anel antialérgico banhado a ouro 18k, com 1 ano de
 Oi! Chegou o Anel Dourado Cruz Cravejada ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-cruz-cravejada
+```
+**Facebook Marketplace — título** (76/100)
+```
+Anel Dourado Cruz Cravejada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Cruz Cravejada — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado Duas Estrelas — R$ 92,90
@@ -246,6 +322,25 @@ Oi! Chegou o Anel Dourado Duas Estrelas ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-duas-estrelas
 ```
+**Facebook Marketplace — título** (75/100)
+```
+Anel Dourado Duas Estrelas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Duas Estrelas — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Estrela do Mar — R$ 92,90
 
@@ -293,6 +388,25 @@ Anel Dourado Estrela do Mar, anel antialérgico banhado a ouro 18k, com 1 ano de
 Oi! Chegou o Anel Dourado Estrela do Mar ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-estrela-do-mar
+```
+**Facebook Marketplace — título** (76/100)
+```
+Anel Dourado Estrela do Mar Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Estrela do Mar — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado Fileira de Pedras Negras — R$ 92,90
@@ -342,6 +456,25 @@ Oi! Chegou o Anel Dourado Fileira de Pedras Negras ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-fileira-de-pedras-negras
 ```
+**Facebook Marketplace — título** (86/100)
+```
+Anel Dourado Fileira de Pedras Negras Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Fileira de Pedras Negras — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Flor — R$ 92,90
 
@@ -389,6 +522,25 @@ Anel Dourado Flor, anel antialérgico banhado a ouro 18k, com 1 ano de garantia.
 Oi! Chegou o Anel Dourado Flor ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-flor
+```
+**Facebook Marketplace — título** (66/100)
+```
+Anel Dourado Flor Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Flor — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado Infinito com Coração — R$ 92,90
@@ -438,6 +590,25 @@ Oi! Chegou o Anel Dourado Infinito com Coração ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-infinito-com-coracao
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Anel Dourado Infinito com Coração Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Infinito com Coração — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Meia Aliança Rosa — R$ 92,90
 
@@ -485,6 +656,25 @@ Anel Dourado Meia Aliança Rosa, anel antialérgico banhado a ouro 18k, com 1 an
 Oi! Chegou o Anel Dourado Meia Aliança Rosa ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-meia-alianca-rosa
+```
+**Facebook Marketplace — título** (79/100)
+```
+Anel Dourado Meia Aliança Rosa Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Meia Aliança Rosa — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado nó — R$ 92,90
@@ -534,6 +724,25 @@ Oi! Chegou o Anel Dourado nó ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-no
 ```
+**Facebook Marketplace — título** (64/100)
+```
+Anel Dourado nó Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado nó — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Pedras Coloridas — R$ 92,90
 
@@ -581,6 +790,25 @@ Anel Dourado Pedras Coloridas, anel antialérgico banhado a ouro 18k, com 1 ano 
 Oi! Chegou o Anel Dourado Pedras Coloridas ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-pedras-coloridas
+```
+**Facebook Marketplace — título** (78/100)
+```
+Anel Dourado Pedras Coloridas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Pedras Coloridas — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Dourado Trevo Texturizado — R$ 92,90
@@ -630,6 +858,25 @@ Oi! Chegou o Anel Dourado Trevo Texturizado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-trevo-texturizado
 ```
+**Facebook Marketplace — título** (79/100)
+```
+Anel Dourado Trevo Texturizado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Trevo Texturizado — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Dourado Trevo Vazado — R$ 92,90
 
@@ -677,6 +924,25 @@ Anel Dourado Trevo Vazado, anel antialérgico banhado a ouro 18k, com 1 ano de g
 Oi! Chegou o Anel Dourado Trevo Vazado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-dourado-trevo-vazado
+```
+**Facebook Marketplace — título** (74/100)
+```
+Anel Dourado Trevo Vazado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Dourado Trevo Vazado — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Prata Abaulado Diamantado — R$ 92,90
@@ -726,6 +992,25 @@ Oi! Chegou o Anel Prata Abaulado Diamantado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-abaulado-diamantado
 ```
+**Facebook Marketplace — título** (83/100)
+```
+Anel Prata Abaulado Diamantado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Abaulado Diamantado — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Prata Aliança Dupla Cravejada — R$ 92,90
 
@@ -773,6 +1058,25 @@ Anel Prata Aliança Dupla Cravejada, anel antialérgico banhado a ródio branco,
 Oi! Chegou o Anel Prata Aliança Dupla Cravejada ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-alianca-dupla-cravejada
+```
+**Facebook Marketplace — título** (87/100)
+```
+Anel Prata Aliança Dupla Cravejada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Aliança Dupla Cravejada — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Prata Coração Cravejado — R$ 92,90
@@ -822,6 +1126,25 @@ Oi! Chegou o Anel Prata Coração Cravejado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-coracao-cravejado
 ```
+**Facebook Marketplace — título** (81/100)
+```
+Anel Prata Coração Cravejado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Coração Cravejado — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Prata Coração de Cristais — R$ 92,90
 
@@ -869,6 +1192,25 @@ Anel Prata Coração de Cristais, anel antialérgico banhado a ródio branco, co
 Oi! Chegou o Anel Prata Coração de Cristais ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-coracao-de-cristais
+```
+**Facebook Marketplace — título** (83/100)
+```
+Anel Prata Coração de Cristais Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Coração de Cristais — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Prata Coração Liso — R$ 92,90
@@ -918,6 +1260,25 @@ Oi! Chegou o Anel Prata Coração Liso ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-coracao-liso
 ```
+**Facebook Marketplace — título** (76/100)
+```
+Anel Prata Coração Liso Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Coração Liso — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Prata Cravejado Abaulado — R$ 92,90
 
@@ -965,6 +1326,25 @@ Anel Prata Cravejado Abaulado, anel antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Anel Prata Cravejado Abaulado ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-cravejado-abaulado
+```
+**Facebook Marketplace — título** (82/100)
+```
+Anel Prata Cravejado Abaulado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Cravejado Abaulado — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Anel Prata Fileira de Pedras Ovais — R$ 92,90
@@ -1014,6 +1394,25 @@ Oi! Chegou o Anel Prata Fileira de Pedras Ovais ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-fileira-de-pedras-ovais
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Anel Prata Fileira de Pedras Ovais Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Fileira de Pedras Ovais — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Prata Lua Crescente — R$ 92,90
 
@@ -1062,6 +1461,25 @@ Oi! Chegou o Anel Prata Lua Crescente ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-lua-crescente
 ```
+**Facebook Marketplace — título** (77/100)
+```
+Anel Prata Lua Crescente Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Lua Crescente — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Anel Prata Solitário Rosa — R$ 92,90
 
@@ -1109,6 +1527,25 @@ Anel Prata Solitário Rosa, anel antialérgico banhado a ródio branco, com 1 an
 Oi! Chegou o Anel Prata Solitário Rosa ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-anel-prata-solitario-rosa
+```
+**Facebook Marketplace — título** (78/100)
+```
+Anel Prata Solitário Rosa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Anel Prata Solitário Rosa — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ## Brincos (65 peças)
@@ -1160,6 +1597,25 @@ Oi! Chegou o Argola Dourada Cravejada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-cravejada
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Argola Dourada Cravejada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Cravejada — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Argola Dourada Diamantada — R$ 67,90
 
@@ -1207,6 +1663,25 @@ Argola Dourada Diamantada, brinco antialérgico banhado a ouro 18k, com 1 ano de
 Oi! Chegou o Argola Dourada Diamantada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-diamantada
+```
+**Facebook Marketplace — título** (74/100)
+```
+Argola Dourada Diamantada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Diamantada — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Argola Dourada Elo Torcido — R$ 67,90
@@ -1256,6 +1731,25 @@ Oi! Chegou o Argola Dourada Elo Torcido ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-elo-torcido
 ```
+**Facebook Marketplace — título** (75/100)
+```
+Argola Dourada Elo Torcido Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Elo Torcido — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Argola Dourada Lisa — R$ 67,90
 
@@ -1303,6 +1797,25 @@ Argola Dourada Lisa, brinco antialérgico banhado a ouro 18k, com 1 ano de garan
 Oi! Chegou o Argola Dourada Lisa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-lisa
+```
+**Facebook Marketplace — título** (68/100)
+```
+Argola Dourada Lisa Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Lisa — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Argola Dourada Trançada — R$ 67,90
@@ -1352,6 +1865,25 @@ Oi! Chegou o Argola Dourada Trançada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-trancada
 ```
+**Facebook Marketplace — título** (72/100)
+```
+Argola Dourada Trançada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Trançada — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Argola Dourada Trilha de Cristais — R$ 67,90
 
@@ -1399,6 +1931,25 @@ Argola Dourada Trilha de Cristais, brinco antialérgico banhado a ouro 18k, com 
 Oi! Chegou o Argola Dourada Trilha de Cristais ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-dourada-trilha-de-cristais
+```
+**Facebook Marketplace — título** (82/100)
+```
+Argola Dourada Trilha de Cristais Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Dourada Trilha de Cristais — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Argola Prata Cristais Baguete — R$ 67,90
@@ -1448,6 +1999,25 @@ Oi! Chegou o Argola Prata Cristais Baguete ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-prata-cristais-baguete
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Argola Prata Cristais Baguete Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Prata Cristais Baguete — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Argola Prata Texturizada — R$ 67,90
 
@@ -1495,6 +2065,25 @@ Argola Prata Texturizada, brinco antialérgico banhado a ródio branco, com 1 an
 Oi! Chegou o Argola Prata Texturizada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-prata-texturizada
+```
+**Facebook Marketplace — título** (77/100)
+```
+Argola Prata Texturizada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Prata Texturizada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Argola Prata Torcida — R$ 67,90
@@ -1544,6 +2133,25 @@ Oi! Chegou o Argola Prata Torcida ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-prata-torcida
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Argola Prata Torcida Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Prata Torcida — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Argola Prata Trançada — R$ 67,90
 
@@ -1591,6 +2199,25 @@ Argola Prata Trançada, brinco antialérgico banhado a ródio branco, com 1 ano 
 Oi! Chegou o Argola Prata Trançada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-argola-prata-trancada
+```
+**Facebook Marketplace — título** (74/100)
+```
+Argola Prata Trançada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Argola Prata Trançada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Argolinha Coração de Cristal — R$ 67,90
@@ -1640,6 +2267,25 @@ Oi! Chegou o Brinco Dourado Argolinha Coração de Cristal ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-argolinha-coracao-de-cristal
 ```
+**Facebook Marketplace — título** (92/100)
+```
+Brinco Dourado Argolinha Coração de Cristal Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Argolinha Coração de Cristal — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Argolinha Cristais Baguete — R$ 67,90
 
@@ -1687,6 +2333,25 @@ Brinco Dourado Argolinha Cristais Baguete, brinco antialérgico banhado a ouro 1
 Oi! Chegou o Brinco Dourado Argolinha Cristais Baguete ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-argolinha-cristais-baguete
+```
+**Facebook Marketplace — título** (90/100)
+```
+Brinco Dourado Argolinha Cristais Baguete Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Argolinha Cristais Baguete — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Barra — R$ 67,90
@@ -1736,6 +2401,25 @@ Oi! Chegou o Brinco Dourado Barra ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-barra
 ```
+**Facebook Marketplace — título** (69/100)
+```
+Brinco Dourado Barra Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Barra — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Bolinha Diamantada — R$ 67,90
 
@@ -1783,6 +2467,25 @@ Brinco Dourado Bolinha Diamantada, brinco antialérgico banhado a ouro 18k, com 
 Oi! Chegou o Brinco Dourado Bolinha Diamantada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-bolinha-diamantada
+```
+**Facebook Marketplace — título** (82/100)
+```
+Brinco Dourado Bolinha Diamantada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Bolinha Diamantada — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Botão de Madrepérola — R$ 67,90
@@ -1832,6 +2535,25 @@ Oi! Chegou o Brinco Dourado Botão de Madrepérola ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-botao-de-madreperola
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Dourado Botão de Madrepérola Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Botão de Madrepérola — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Concha — R$ 67,90
 
@@ -1879,6 +2601,25 @@ Brinco Dourado Concha, brinco antialérgico banhado a ouro 18k, com 1 ano de gar
 Oi! Chegou o Brinco Dourado Concha ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-concha
+```
+**Facebook Marketplace — título** (70/100)
+```
+Brinco Dourado Concha Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Concha — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Coqueiro — R$ 67,90
@@ -1928,6 +2669,25 @@ Oi! Chegou o Brinco Dourado Coqueiro ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-coqueiro
 ```
+**Facebook Marketplace — título** (72/100)
+```
+Brinco Dourado Coqueiro Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Coqueiro — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Coração de Madrepérola — R$ 67,90
 
@@ -1975,6 +2735,25 @@ Brinco Dourado Coração de Madrepérola, brinco antialérgico banhado a ouro 18
 Oi! Chegou o Brinco Dourado Coração de Madrepérola ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-coracao-de-madreperola
+```
+**Facebook Marketplace — título** (86/100)
+```
+Brinco Dourado Coração de Madrepérola Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Coração de Madrepérola — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Coração Vazado — R$ 67,90
@@ -2024,6 +2803,25 @@ Oi! Chegou o Brinco Dourado Coração Vazado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-coracao-vazado
 ```
+**Facebook Marketplace — título** (78/100)
+```
+Brinco Dourado Coração Vazado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Coração Vazado — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Disco Texturizado — R$ 67,90
 
@@ -2071,6 +2869,25 @@ Brinco Dourado Disco Texturizado, brinco antialérgico banhado a ouro 18k, com 1
 Oi! Chegou o Brinco Dourado Disco Texturizado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-disco-texturizado
+```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Dourado Disco Texturizado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Disco Texturizado — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Escalada de Corações — R$ 67,90
@@ -2120,6 +2937,25 @@ Oi! Chegou o Brinco Dourado Escalada de Corações ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-escalada-de-coracoes
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Dourado Escalada de Corações Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Escalada de Corações — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Flor com Pedra Roxa — R$ 67,90
 
@@ -2167,6 +3003,25 @@ Brinco Dourado Flor com Pedra Roxa, brinco antialérgico banhado a ouro 18k, com
 Oi! Chegou o Brinco Dourado Flor com Pedra Roxa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-flor-com-pedra-roxa
+```
+**Facebook Marketplace — título** (83/100)
+```
+Brinco Dourado Flor com Pedra Roxa Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Flor com Pedra Roxa — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Flor de Cristais — R$ 67,90
@@ -2216,6 +3071,25 @@ Oi! Chegou o Brinco Dourado Flor de Cristais ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-flor-de-cristais
 ```
+**Facebook Marketplace — título** (80/100)
+```
+Brinco Dourado Flor de Cristais Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Flor de Cristais — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Flor de Pérolas — R$ 67,90
 
@@ -2263,6 +3137,25 @@ Brinco Dourado Flor de Pérolas, brinco antialérgico banhado a ouro 18k, com 1 
 Oi! Chegou o Brinco Dourado Flor de Pérolas ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-flor-de-perolas
+```
+**Facebook Marketplace — título** (79/100)
+```
+Brinco Dourado Flor de Pérolas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Flor de Pérolas — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Kit Argolinhas — R$ 67,90
@@ -2312,6 +3205,25 @@ Oi! Chegou o Brinco Dourado Kit Argolinhas ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-kit-argolinhas
 ```
+**Facebook Marketplace — título** (78/100)
+```
+Brinco Dourado Kit Argolinhas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Kit Argolinhas — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Laço com Pedra Azul — R$ 67,90
 
@@ -2359,6 +3271,25 @@ Brinco Dourado Laço com Pedra Azul, brinco antialérgico banhado a ouro 18k, co
 Oi! Chegou o Brinco Dourado Laço com Pedra Azul ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-laco-com-pedra-azul
+```
+**Facebook Marketplace — título** (83/100)
+```
+Brinco Dourado Laço com Pedra Azul Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Laço com Pedra Azul — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Ponto de Luz Azul — R$ 67,90
@@ -2408,6 +3339,25 @@ Oi! Chegou o Brinco Dourado Ponto de Luz Azul ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-ponto-de-luz-azul
 ```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Dourado Ponto de Luz Azul Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Ponto de Luz Azul — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Quadrado de Madrepérola — R$ 67,90
 
@@ -2455,6 +3405,25 @@ Brinco Dourado Quadrado de Madrepérola, brinco antialérgico banhado a ouro 18k
 Oi! Chegou o Brinco Dourado Quadrado de Madrepérola ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-quadrado-de-madreperola
+```
+**Facebook Marketplace — título** (87/100)
+```
+Brinco Dourado Quadrado de Madrepérola Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Quadrado de Madrepérola — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Quadrado e Círculo com Pedra Roxa — R$ 67,90
@@ -2504,6 +3473,25 @@ Oi! Chegou o Brinco Dourado Quadrado e Círculo com Pedra Roxa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-quadrado-e-circulo-com-pedra-roxa
 ```
+**Facebook Marketplace — título** (97/100)
+```
+Brinco Dourado Quadrado e Círculo com Pedra Roxa Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Quadrado e Círculo com Pedra Roxa — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Dourado Quadrado Preto — R$ 67,90
 
@@ -2551,6 +3539,25 @@ Brinco Dourado Quadrado Preto, brinco antialérgico banhado a ouro 18k, com 1 an
 Oi! Chegou o Brinco Dourado Quadrado Preto ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-quadrado-preto
+```
+**Facebook Marketplace — título** (78/100)
+```
+Brinco Dourado Quadrado Preto Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Quadrado Preto — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Dourado Quadrado Vazado — R$ 67,90
@@ -2600,6 +3607,25 @@ Oi! Chegou o Brinco Dourado Quadrado Vazado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-dourado-quadrado-vazado
 ```
+**Facebook Marketplace — título** (79/100)
+```
+Brinco Dourado Quadrado Vazado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Dourado Quadrado Vazado — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Argola Coração Vazado — R$ 67,90
 
@@ -2647,6 +3673,25 @@ Brinco Prata Argola Coração Vazado, brinco antialérgico banhado a ródio bran
 Oi! Chegou o Brinco Prata Argola Coração Vazado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argola-coracao-vazado
+```
+**Facebook Marketplace — título** (87/100)
+```
+Brinco Prata Argola Coração Vazado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argola Coração Vazado — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Argola de Fios — R$ 67,90
@@ -2696,6 +3741,25 @@ Oi! Chegou o Brinco Prata Argola de Fios ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argola-de-fios
 ```
+**Facebook Marketplace — título** (80/100)
+```
+Brinco Prata Argola de Fios Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argola de Fios — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Argolinha com Ponto de Luz — R$ 67,90
 
@@ -2743,6 +3807,25 @@ Brinco Prata Argolinha com Ponto de Luz, brinco antialérgico banhado a ródio b
 Oi! Chegou o Brinco Prata Argolinha com Ponto de Luz ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argolinha-com-ponto-de-luz
+```
+**Facebook Marketplace — título** (92/100)
+```
+Brinco Prata Argolinha com Ponto de Luz Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argolinha com Ponto de Luz — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Argolinha Coração — R$ 67,90
@@ -2792,6 +3875,25 @@ Oi! Chegou o Brinco Prata Argolinha Coração ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argolinha-coracao
 ```
+**Facebook Marketplace — título** (83/100)
+```
+Brinco Prata Argolinha Coração Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argolinha Coração — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Argolinha Facetada — R$ 67,90
 
@@ -2839,6 +3941,25 @@ Brinco Prata Argolinha Facetada, brinco antialérgico banhado a ródio branco, c
 Oi! Chegou o Brinco Prata Argolinha Facetada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argolinha-facetada
+```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Prata Argolinha Facetada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argolinha Facetada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Argolinha V Cravejada — R$ 67,90
@@ -2888,6 +4009,25 @@ Oi! Chegou o Brinco Prata Argolinha V Cravejada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-argolinha-v-cravejada
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Brinco Prata Argolinha V Cravejada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Argolinha V Cravejada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Barra Torcida — R$ 67,90
 
@@ -2935,6 +4075,25 @@ Brinco Prata Barra Torcida, brinco antialérgico banhado a ródio branco, com 1 
 Oi! Chegou o Brinco Prata Barra Torcida ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-barra-torcida
+```
+**Facebook Marketplace — título** (79/100)
+```
+Brinco Prata Barra Torcida Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Barra Torcida — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Bolinha — R$ 67,90
@@ -2984,6 +4143,25 @@ Oi! Chegou o Brinco Prata Bolinha ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-bolinha
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Brinco Prata Bolinha Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Bolinha — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Círculo de Pérolas — R$ 67,90
 
@@ -3031,6 +4209,25 @@ Brinco Prata Círculo de Pérolas, brinco antialérgico banhado a ródio branco,
 Oi! Chegou o Brinco Prata Círculo de Pérolas ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-circulo-de-perolas
+```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Prata Círculo de Pérolas Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Círculo de Pérolas — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Coração com Pérola — R$ 67,90
@@ -3080,6 +4277,25 @@ Oi! Chegou o Brinco Prata Coração com Pérola ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-coracao-com-perola
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Prata Coração com Pérola Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Coração com Pérola — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Coração Vazado — R$ 67,90
 
@@ -3127,6 +4343,25 @@ Brinco Prata Coração Vazado, brinco antialérgico banhado a ródio branco, com
 Oi! Chegou o Brinco Prata Coração Vazado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-coracao-vazado
+```
+**Facebook Marketplace — título** (80/100)
+```
+Brinco Prata Coração Vazado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Coração Vazado — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Cristais Baguete — R$ 67,90
@@ -3176,6 +4411,25 @@ Oi! Chegou o Brinco Prata Cristais Baguete ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-cristais-baguete
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Brinco Prata Cristais Baguete Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Cristais Baguete — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Cruz Cravejada — R$ 67,90
 
@@ -3223,6 +4477,25 @@ Brinco Prata Cruz Cravejada, brinco antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Brinco Prata Cruz Cravejada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-cruz-cravejada
+```
+**Facebook Marketplace — título** (80/100)
+```
+Brinco Prata Cruz Cravejada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Cruz Cravejada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Espiral Cravejada — R$ 67,90
@@ -3272,6 +4545,25 @@ Oi! Chegou o Brinco Prata Espiral Cravejada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-espiral-cravejada
 ```
+**Facebook Marketplace — título** (83/100)
+```
+Brinco Prata Espiral Cravejada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Espiral Cravejada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Gota Azul — R$ 67,90
 
@@ -3319,6 +4611,25 @@ Brinco Prata Gota Azul, brinco antialérgico banhado a ródio branco, com 1 ano 
 Oi! Chegou o Brinco Prata Gota Azul ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-gota-azul
+```
+**Facebook Marketplace — título** (75/100)
+```
+Brinco Prata Gota Azul Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Gota Azul — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Gota de Cristal — R$ 67,90
@@ -3368,6 +4679,25 @@ Oi! Chegou o Brinco Prata Gota de Cristal ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-gota-de-cristal
 ```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Prata Gota de Cristal Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Gota de Cristal — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Gota Rosa — R$ 67,90
 
@@ -3415,6 +4745,25 @@ Brinco Prata Gota Rosa, brinco antialérgico banhado a ródio branco, com 1 ano 
 Oi! Chegou o Brinco Prata Gota Rosa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-gota-rosa
+```
+**Facebook Marketplace — título** (75/100)
+```
+Brinco Prata Gota Rosa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Gota Rosa — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Kit Argolinhas Abauladas — R$ 67,90
@@ -3464,6 +4813,25 @@ Oi! Chegou o Brinco Prata Kit Argolinhas Abauladas ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-kit-argolinhas-abauladas
 ```
+**Facebook Marketplace — título** (90/100)
+```
+Brinco Prata Kit Argolinhas Abauladas Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Kit Argolinhas Abauladas — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Lua Martelada — R$ 67,90
 
@@ -3511,6 +4879,25 @@ Brinco Prata Lua Martelada, brinco antialérgico banhado a ródio branco, com 1 
 Oi! Chegou o Brinco Prata Lua Martelada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-lua-martelada
+```
+**Facebook Marketplace — título** (79/100)
+```
+Brinco Prata Lua Martelada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Lua Martelada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Navete com Pedra Rosa — R$ 67,90
@@ -3560,6 +4947,25 @@ Oi! Chegou o Brinco Prata Navete com Pedra Rosa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-navete-com-pedra-rosa
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Brinco Prata Navete com Pedra Rosa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Navete com Pedra Rosa — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Ovais Escovados — R$ 67,90
 
@@ -3607,6 +5013,25 @@ Brinco Prata Ovais Escovados, brinco antialérgico banhado a ródio branco, com 
 Oi! Chegou o Brinco Prata Ovais Escovados ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ovais-escovados
+```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Prata Ovais Escovados Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ovais Escovados — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Patinha — R$ 67,90
@@ -3656,6 +5081,25 @@ Oi! Chegou o Brinco Prata Patinha ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-patinha
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Brinco Prata Patinha Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Patinha — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Pérola Botão — R$ 67,90
 
@@ -3703,6 +5147,25 @@ Brinco Prata Pérola Botão, brinco antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Brinco Prata Pérola Botão ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-perola-botao
+```
+**Facebook Marketplace — título** (78/100)
+```
+Brinco Prata Pérola Botão Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Pérola Botão — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Pérola Cravejada — R$ 67,90
@@ -3752,6 +5215,25 @@ Oi! Chegou o Brinco Prata Pérola Cravejada ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-perola-cravejada
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Brinco Prata Pérola Cravejada Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Pérola Cravejada — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Pérola Pendente — R$ 67,90
 
@@ -3799,6 +5281,25 @@ Brinco Prata Pérola Pendente, brinco antialérgico banhado a ródio branco, com
 Oi! Chegou o Brinco Prata Pérola Pendente ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-perola-pendente
+```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Prata Pérola Pendente Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Pérola Pendente — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Pomba — R$ 67,90
@@ -3848,6 +5349,25 @@ Oi! Chegou o Brinco Prata Pomba ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-pomba
 ```
+**Facebook Marketplace — título** (71/100)
+```
+Brinco Prata Pomba Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Pomba — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Ponto de Luz Champanhe — R$ 67,90
 
@@ -3895,6 +5415,25 @@ Brinco Prata Ponto de Luz Champanhe, brinco antialérgico banhado a ródio branc
 Oi! Chegou o Brinco Prata Ponto de Luz Champanhe ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ponto-de-luz-champanhe
+```
+**Facebook Marketplace — título** (88/100)
+```
+Brinco Prata Ponto de Luz Champanhe Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ponto de Luz Champanhe — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Ponto de Luz Coroa — R$ 67,90
@@ -3944,6 +5483,25 @@ Oi! Chegou o Brinco Prata Ponto de Luz Coroa ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ponto-de-luz-coroa
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Prata Ponto de Luz Coroa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ponto de Luz Coroa — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Ponto de Luz Preto — R$ 67,90
 
@@ -3991,6 +5549,25 @@ Brinco Prata Ponto de Luz Preto, brinco antialérgico banhado a ródio branco, c
 Oi! Chegou o Brinco Prata Ponto de Luz Preto ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ponto-de-luz-preto
+```
+**Facebook Marketplace — título** (84/100)
+```
+Brinco Prata Ponto de Luz Preto Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ponto de Luz Preto — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Ponto de Luz Vermelho — R$ 67,90
@@ -4040,6 +5617,25 @@ Oi! Chegou o Brinco Prata Ponto de Luz Vermelho ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ponto-de-luz-vermelho
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Brinco Prata Ponto de Luz Vermelho Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ponto de Luz Vermelho — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Ponto de Luz — R$ 67,90
 
@@ -4087,6 +5683,25 @@ Brinco Prata Ponto de Luz, brinco antialérgico banhado a ródio branco, com 1 a
 Oi! Chegou o Brinco Prata Ponto de Luz ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-ponto-de-luz
+```
+**Facebook Marketplace — título** (78/100)
+```
+Brinco Prata Ponto de Luz Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Ponto de Luz — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Brinco Prata Quadrado Vazado — R$ 67,90
@@ -4136,6 +5751,25 @@ Oi! Chegou o Brinco Prata Quadrado Vazado ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-quadrado-vazado
 ```
+**Facebook Marketplace — título** (81/100)
+```
+Brinco Prata Quadrado Vazado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Quadrado Vazado — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Brinco Prata Trevo Preto — R$ 67,90
 
@@ -4184,6 +5818,25 @@ Oi! Chegou o Brinco Prata Trevo Preto ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-brinco-prata-trevo-preto
 ```
+**Facebook Marketplace — título** (77/100)
+```
+Brinco Prata Trevo Preto Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Brinco Prata Trevo Preto — semi-joia banhada a ródio branco.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Piercing Dourado Pedras Coloridas — R$ 67,90
 
@@ -4231,6 +5884,25 @@ Piercing Dourado Pedras Coloridas, brinco antialérgico banhado a ouro 18k, com 
 Oi! Chegou o Piercing Dourado Pedras Coloridas ✨
 R$ 67,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-piercing-dourado-pedras-coloridas
+```
+**Facebook Marketplace — título** (82/100)
+```
+Piercing Dourado Pedras Coloridas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Piercing Dourado Pedras Coloridas — semi-joia banhada a ouro 18k.
+
+✦ R$ 67,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ## Pulseiras (17 peças)
@@ -4282,6 +5954,25 @@ Oi! Chegou o Bracelete Prata Liso ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-bracelete-prata-liso
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Bracelete Prata Liso Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Bracelete Prata Liso — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Dourada Cristais Ovais — R$ 92,90
 
@@ -4329,6 +6020,25 @@ Pulseira Dourada Cristais Ovais, pulseira antialérgico banhado a ouro 18k, com 
 Oi! Chegou o Pulseira Dourada Cristais Ovais ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-cristais-ovais
+```
+**Facebook Marketplace — título** (80/100)
+```
+Pulseira Dourada Cristais Ovais Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Cristais Ovais — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Dourada Elos com Ponto de Luz — R$ 92,90
@@ -4378,6 +6088,25 @@ Oi! Chegou o Pulseira Dourada Elos com Ponto de Luz ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-elos-com-ponto-de-luz
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Pulseira Dourada Elos com Ponto de Luz Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Elos com Ponto de Luz — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Dourada Gotas de Cristal — R$ 92,90
 
@@ -4425,6 +6154,25 @@ Pulseira Dourada Gotas de Cristal, pulseira antialérgico banhado a ouro 18k, co
 Oi! Chegou o Pulseira Dourada Gotas de Cristal ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-gotas-de-cristal
+```
+**Facebook Marketplace — título** (82/100)
+```
+Pulseira Dourada Gotas de Cristal Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Gotas de Cristal — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Dourada Medalhas e Navetes — R$ 92,90
@@ -4474,6 +6222,25 @@ Oi! Chegou o Pulseira Dourada Medalhas e Navetes ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-medalhas-e-navetes
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Pulseira Dourada Medalhas e Navetes Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Medalhas e Navetes — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Dourada Medalhas Lisas — R$ 92,90
 
@@ -4521,6 +6288,25 @@ Pulseira Dourada Medalhas Lisas, pulseira antialérgico banhado a ouro 18k, com 
 Oi! Chegou o Pulseira Dourada Medalhas Lisas ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-medalhas-lisas
+```
+**Facebook Marketplace — título** (80/100)
+```
+Pulseira Dourada Medalhas Lisas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Medalhas Lisas — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Dourada Medalhas Marteladas — R$ 92,90
@@ -4570,6 +6356,25 @@ Oi! Chegou o Pulseira Dourada Medalhas Marteladas ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-medalhas-marteladas
 ```
+**Facebook Marketplace — título** (85/100)
+```
+Pulseira Dourada Medalhas Marteladas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Medalhas Marteladas — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Dourada Pérolas com Borboleta — R$ 92,90
 
@@ -4617,6 +6422,25 @@ Pulseira Dourada Pérolas com Borboleta, pulseira antialérgico banhado a ouro 1
 Oi! Chegou o Pulseira Dourada Pérolas com Borboleta ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-perolas-com-borboleta
+```
+**Facebook Marketplace — título** (87/100)
+```
+Pulseira Dourada Pérolas com Borboleta Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Pérolas com Borboleta — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Dourada Riviera Vermelha — R$ 92,90
@@ -4666,6 +6490,25 @@ Oi! Chegou o Pulseira Dourada Riviera Vermelha ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-dourada-riviera-vermelha
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Pulseira Dourada Riviera Vermelha Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Dourada Riviera Vermelha — semi-joia banhada a ouro 18k.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Prata Cristais Baguete — R$ 92,90
 
@@ -4713,6 +6556,25 @@ Pulseira Prata Cristais Baguete, pulseira antialérgico banhado a ródio branco,
 Oi! Chegou o Pulseira Prata Cristais Baguete ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-cristais-baguete
+```
+**Facebook Marketplace — título** (84/100)
+```
+Pulseira Prata Cristais Baguete Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Cristais Baguete — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Prata Elos com Bolinhas — R$ 92,90
@@ -4762,6 +6624,25 @@ Oi! Chegou o Pulseira Prata Elos com Bolinhas ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-elos-com-bolinhas
 ```
+**Facebook Marketplace — título** (85/100)
+```
+Pulseira Prata Elos com Bolinhas Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Elos com Bolinhas — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Prata Elos com Corações — R$ 92,90
 
@@ -4809,6 +6690,25 @@ Pulseira Prata Elos com Corações, pulseira antialérgico banhado a ródio bran
 Oi! Chegou o Pulseira Prata Elos com Corações ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-elos-com-coracoes
+```
+**Facebook Marketplace — título** (85/100)
+```
+Pulseira Prata Elos com Corações Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Elos com Corações — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Prata Elos Losango — R$ 92,90
@@ -4858,6 +6758,25 @@ Oi! Chegou o Pulseira Prata Elos Losango ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-elos-losango
 ```
+**Facebook Marketplace — título** (80/100)
+```
+Pulseira Prata Elos Losango Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Elos Losango — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Prata Elos Ovais — R$ 92,90
 
@@ -4905,6 +6824,25 @@ Pulseira Prata Elos Ovais, pulseira antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Pulseira Prata Elos Ovais ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-elos-ovais
+```
+**Facebook Marketplace — título** (78/100)
+```
+Pulseira Prata Elos Ovais Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Elos Ovais — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Pulseira Prata Gotas Rosa — R$ 92,90
@@ -4954,6 +6892,25 @@ Oi! Chegou o Pulseira Prata Gotas Rosa ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-gotas-rosa
 ```
+**Facebook Marketplace — título** (78/100)
+```
+Pulseira Prata Gotas Rosa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Gotas Rosa — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Prata Grega — R$ 92,90
 
@@ -5002,6 +6959,25 @@ Oi! Chegou o Pulseira Prata Grega ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-grega
 ```
+**Facebook Marketplace — título** (73/100)
+```
+Pulseira Prata Grega Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Grega — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Pulseira Prata Riviera Vermelha — R$ 92,90
 
@@ -5049,6 +7025,25 @@ Pulseira Prata Riviera Vermelha, pulseira antialérgico banhado a ródio branco,
 Oi! Chegou o Pulseira Prata Riviera Vermelha ✨
 R$ 92,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-pulseira-prata-riviera-vermelha
+```
+**Facebook Marketplace — título** (84/100)
+```
+Pulseira Prata Riviera Vermelha Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Pulseira Prata Riviera Vermelha — semi-joia banhada a ródio branco.
+
+✦ R$ 92,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ## Colares (20 peças)
@@ -5100,6 +7095,25 @@ Oi! Chegou o Colar Dourado Bolinhas Marteladas ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-bolinhas-marteladas
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Colar Dourado Bolinhas Marteladas Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Bolinhas Marteladas — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Dourado Coração Vazado — R$ 101,90
 
@@ -5147,6 +7161,25 @@ Colar Dourado Coração Vazado, colar antialérgico banhado a ouro 18k, com 1 an
 Oi! Chegou o Colar Dourado Coração Vazado ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-coracao-vazado
+```
+**Facebook Marketplace — título** (77/100)
+```
+Colar Dourado Coração Vazado Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Coração Vazado — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Dourado Flor de Cristais Baguete — R$ 101,90
@@ -5196,6 +7229,25 @@ Oi! Chegou o Colar Dourado Flor de Cristais Baguete ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-flor-de-cristais-baguete
 ```
+**Facebook Marketplace — título** (87/100)
+```
+Colar Dourado Flor de Cristais Baguete Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Flor de Cristais Baguete — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Dourado Laço de Cristais — R$ 101,90
 
@@ -5243,6 +7295,25 @@ Colar Dourado Laço de Cristais, colar antialérgico banhado a ouro 18k, com 1 a
 Oi! Chegou o Colar Dourado Laço de Cristais ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-laco-de-cristais
+```
+**Facebook Marketplace — título** (79/100)
+```
+Colar Dourado Laço de Cristais Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Laço de Cristais — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Dourado Libélula — R$ 101,90
@@ -5292,6 +7363,25 @@ Oi! Chegou o Colar Dourado Libélula ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-libelula
 ```
+**Facebook Marketplace — título** (71/100)
+```
+Colar Dourado Libélula Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Libélula — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Dourado Lua Cravejada — R$ 101,90
 
@@ -5339,6 +7429,25 @@ Colar Dourado Lua Cravejada, colar antialérgico banhado a ouro 18k, com 1 ano d
 Oi! Chegou o Colar Dourado Lua Cravejada ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-lua-cravejada
+```
+**Facebook Marketplace — título** (76/100)
+```
+Colar Dourado Lua Cravejada Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Lua Cravejada — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Dourado Nossa Senhora Aparecida — R$ 101,90
@@ -5388,6 +7497,25 @@ Oi! Chegou o Colar Dourado Nossa Senhora Aparecida ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-nossa-senhora-aparecida
 ```
+**Facebook Marketplace — título** (86/100)
+```
+Colar Dourado Nossa Senhora Aparecida Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Nossa Senhora Aparecida — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Dourado Pingente Olho Grego — R$ 101,90
 
@@ -5435,6 +7563,25 @@ Colar Dourado Pingente Olho Grego, colar antialérgico banhado a ouro 18k, com 1
 Oi! Chegou o Colar Dourado Pingente Olho Grego ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-pingente-olho-grego
+```
+**Facebook Marketplace — título** (82/100)
+```
+Colar Dourado Pingente Olho Grego Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Pingente Olho Grego — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Dourado Trevo Verde — R$ 101,90
@@ -5484,6 +7631,25 @@ Oi! Chegou o Colar Dourado Trevo Verde ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-dourado-trevo-verde
 ```
+**Facebook Marketplace — título** (74/100)
+```
+Colar Dourado Trevo Verde Semi Joia Banhada Ouro 18k Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Dourado Trevo Verde — semi-joia banhada a ouro 18k.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Árvore da Vida — R$ 101,90
 
@@ -5531,6 +7697,25 @@ Colar Prata Árvore da Vida, colar antialérgico banhado a ródio branco, com 1 
 Oi! Chegou o Colar Prata Árvore da Vida ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-arvore-da-vida
+```
+**Facebook Marketplace — título** (79/100)
+```
+Colar Prata Árvore da Vida Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Árvore da Vida — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Prata Borboletas e Flores — R$ 101,90
@@ -5580,6 +7765,25 @@ Oi! Chegou o Colar Prata Borboletas e Flores ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-borboletas-e-flores
 ```
+**Facebook Marketplace — título** (84/100)
+```
+Colar Prata Borboletas e Flores Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Borboletas e Flores — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Chuveiro de Pérolas — R$ 101,90
 
@@ -5627,6 +7831,25 @@ Colar Prata Chuveiro de Pérolas, colar antialérgico banhado a ródio branco, c
 Oi! Chegou o Colar Prata Chuveiro de Pérolas ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-chuveiro-de-perolas
+```
+**Facebook Marketplace — título** (84/100)
+```
+Colar Prata Chuveiro de Pérolas Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Chuveiro de Pérolas — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Prata Chuveiro Verde — R$ 101,90
@@ -5676,6 +7899,25 @@ Oi! Chegou o Colar Prata Chuveiro Verde ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-chuveiro-verde
 ```
+**Facebook Marketplace — título** (79/100)
+```
+Colar Prata Chuveiro Verde Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Chuveiro Verde — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Coração Cravejado — R$ 101,90
 
@@ -5723,6 +7965,25 @@ Colar Prata Coração Cravejado, colar antialérgico banhado a ródio branco, co
 Oi! Chegou o Colar Prata Coração Cravejado ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-coracao-cravejado
+```
+**Facebook Marketplace — título** (82/100)
+```
+Colar Prata Coração Cravejado Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Coração Cravejado — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Prata Coração de Filigrana — R$ 101,90
@@ -5772,6 +8033,25 @@ Oi! Chegou o Colar Prata Coração de Filigrana ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-coracao-de-filigrana
 ```
+**Facebook Marketplace — título** (85/100)
+```
+Colar Prata Coração de Filigrana Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Coração de Filigrana — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Coração Liso — R$ 101,90
 
@@ -5819,6 +8099,25 @@ Colar Prata Coração Liso, colar antialérgico banhado a ródio branco, com 1 a
 Oi! Chegou o Colar Prata Coração Liso ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-coracao-liso
+```
+**Facebook Marketplace — título** (77/100)
+```
+Colar Prata Coração Liso Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Coração Liso — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Prata Cordão Baiano — R$ 101,90
@@ -5868,6 +8167,25 @@ Oi! Chegou o Colar Prata Cordão Baiano ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-cordao-baiano
 ```
+**Facebook Marketplace — título** (78/100)
+```
+Colar Prata Cordão Baiano Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Cordão Baiano — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Medalhas e Cristais — R$ 101,90
 
@@ -5915,6 +8233,25 @@ Colar Prata Medalhas e Cristais, colar antialérgico banhado a ródio branco, co
 Oi! Chegou o Colar Prata Medalhas e Cristais ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-medalhas-e-cristais
+```
+**Facebook Marketplace — título** (84/100)
+```
+Colar Prata Medalhas e Cristais Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Medalhas e Cristais — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ### Colar Prata Medalhas Estrela — R$ 101,90
@@ -5964,6 +8301,25 @@ Oi! Chegou o Colar Prata Medalhas Estrela ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-medalhas-estrela
 ```
+**Facebook Marketplace — título** (81/100)
+```
+Colar Prata Medalhas Estrela Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Medalhas Estrela — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Colar Prata Pedras Coloridas — R$ 101,90
 
@@ -6011,6 +8367,25 @@ Colar Prata Pedras Coloridas, colar antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Colar Prata Pedras Coloridas ✨
 R$ 101,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-colar-prata-pedras-coloridas
+```
+**Facebook Marketplace — título** (81/100)
+```
+Colar Prata Pedras Coloridas Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Colar Prata Pedras Coloridas — semi-joia banhada a ródio branco.
+
+✦ R$ 101,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
 
 ## Conjuntos (2 peças)
@@ -6062,6 +8437,25 @@ Oi! Chegou o Conjunto Prata Árvore da Vida ✨
 R$ 127,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-conjunto-prata-arvore-da-vida
 ```
+**Facebook Marketplace — título** (82/100)
+```
+Conjunto Prata Árvore da Vida Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Conjunto Prata Árvore da Vida — semi-joia banhada a ródio branco.
+
+✦ R$ 127,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
+```
 
 ### Conjunto Prata Pedra Rosa — R$ 127,90
 
@@ -6109,4 +8503,23 @@ Conjunto Prata Pedra Rosa, conjunto antialérgico banhado a ródio branco, com 1
 Oi! Chegou o Conjunto Prata Pedra Rosa ✨
 R$ 127,90 (5% off no Pix), antialérgico e com 1 ano de garantia.
 https://solarissy.github.io/js-joias-delicadas/produto.html?id=auto-conjunto-prata-pedra-rosa
+```
+**Facebook Marketplace — título** (78/100)
+```
+Conjunto Prata Pedra Rosa Semi Joia Banhada Ródio Branco Antialérgica Feminina
+```
+**Facebook Marketplace — descrição** · Categoria: Roupas e acessórios › Joias e acessórios · Condição: Novo
+```
+Conjunto Prata Pedra Rosa — semi-joia banhada a ródio branco.
+
+✦ R$ 127,90 — 5% de desconto no Pix
+✦ Antialérgica, não escurece com o uso
+✦ 1 ano de garantia (troca ou reparo mediante análise)
+✦ Peça nova, pronta-entrega
+✦ Embalagem para presente com certificado
+
+Entrego combinando o ponto ou envio para todo o Brasil pelos Correios.
+Frete grátis acima de R$ 150.
+
+Chame no chat que eu mando mais fotos e o catálogo completo.
 ```
