@@ -15,8 +15,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>172.90 BRL</g:price>
+      <g:sale_price>138.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -35,8 +35,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>180.90 BRL</g:price>
+      <g:sale_price>145.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -55,8 +55,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>175.90 BRL</g:price>
+      <g:sale_price>141.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -75,8 +75,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>188.90 BRL</g:price>
+      <g:sale_price>151.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -85,6 +85,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Anéis</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-anel-dourado-duas-estrelas</g:id>
@@ -95,8 +99,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>156.90 BRL</g:price>
+      <g:sale_price>125.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -115,8 +119,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>163.90 BRL</g:price>
+      <g:sale_price>131.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -135,8 +139,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>172.90 BRL</g:price>
+      <g:sale_price>138.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -155,8 +159,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>166.90 BRL</g:price>
+      <g:sale_price>133.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -175,8 +179,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>170.90 BRL</g:price>
+      <g:sale_price>137.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -195,8 +199,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>146.90 BRL</g:price>
+      <g:sale_price>117.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -215,8 +219,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>161.90 BRL</g:price>
+      <g:sale_price>129.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -235,8 +239,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>170.90 BRL</g:price>
+      <g:sale_price>137.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -255,8 +259,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>177.90 BRL</g:price>
+      <g:sale_price>142.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -275,8 +279,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>159.90 BRL</g:price>
+      <g:sale_price>128.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -295,8 +299,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>177.90 BRL</g:price>
+      <g:sale_price>142.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -315,8 +319,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>174.90 BRL</g:price>
+      <g:sale_price>140.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -335,8 +339,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>169.90 BRL</g:price>
+      <g:sale_price>136.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -355,8 +359,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>164.90 BRL</g:price>
+      <g:sale_price>132.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -375,8 +379,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>137.90 BRL</g:price>
+      <g:sale_price>110.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -395,8 +399,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>167.90 BRL</g:price>
+      <g:sale_price>134.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -415,8 +419,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>158.90 BRL</g:price>
+      <g:sale_price>127.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -435,8 +439,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>141.90 BRL</g:price>
+      <g:sale_price>113.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -455,8 +459,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>169.90 BRL</g:price>
+      <g:sale_price>136.90 BRL</g:sale_price>
       <g:product_type>Anéis</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -475,8 +479,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>152.90 BRL</g:price>
+      <g:sale_price>122.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -495,8 +499,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>132.90 BRL</g:price>
+      <g:sale_price>106.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -515,8 +519,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>147.90 BRL</g:price>
+      <g:sale_price>118.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -535,8 +539,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>108.90 BRL</g:price>
+      <g:sale_price>87.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -555,8 +559,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>122.90 BRL</g:price>
+      <g:sale_price>98.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -575,8 +579,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>170.90 BRL</g:price>
+      <g:sale_price>137.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -595,8 +599,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>133.90 BRL</g:price>
+      <g:sale_price>107.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -615,8 +619,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>107.90 BRL</g:price>
+      <g:sale_price>86.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -635,8 +639,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>121.90 BRL</g:price>
+      <g:sale_price>97.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -655,8 +659,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>118.90 BRL</g:price>
+      <g:sale_price>95.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -675,8 +679,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>157.90 BRL</g:price>
+      <g:sale_price>126.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -695,8 +699,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>148.90 BRL</g:price>
+      <g:sale_price>119.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -715,8 +719,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>133.90 BRL</g:price>
+      <g:sale_price>107.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -735,8 +739,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>118.90 BRL</g:price>
+      <g:sale_price>95.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -755,8 +759,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>133.90 BRL</g:price>
+      <g:sale_price>107.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -775,8 +779,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>131.90 BRL</g:price>
+      <g:sale_price>105.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -795,8 +799,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>125.90 BRL</g:price>
+      <g:sale_price>100.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -815,8 +819,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>123.90 BRL</g:price>
+      <g:sale_price>99.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -835,8 +839,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>146.90 BRL</g:price>
+      <g:sale_price>117.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -855,8 +859,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>135.90 BRL</g:price>
+      <g:sale_price>108.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -875,8 +879,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>131.90 BRL</g:price>
+      <g:sale_price>105.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -895,8 +899,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>133.90 BRL</g:price>
+      <g:sale_price>107.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -915,8 +919,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>153.90 BRL</g:price>
+      <g:sale_price>123.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -935,8 +939,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>149.90 BRL</g:price>
+      <g:sale_price>120.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -955,8 +959,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>135.90 BRL</g:price>
+      <g:sale_price>108.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -975,8 +979,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>128.90 BRL</g:price>
+      <g:sale_price>103.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -995,8 +999,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>153.90 BRL</g:price>
+      <g:sale_price>123.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1015,8 +1019,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>122.90 BRL</g:price>
+      <g:sale_price>98.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1035,8 +1039,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>138.90 BRL</g:price>
+      <g:sale_price>111.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1055,8 +1059,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>147.90 BRL</g:price>
+      <g:sale_price>118.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1075,8 +1079,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>126.90 BRL</g:price>
+      <g:sale_price>101.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1095,8 +1099,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>125.90 BRL</g:price>
+      <g:sale_price>100.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1115,8 +1119,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>118.90 BRL</g:price>
+      <g:sale_price>95.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1135,8 +1139,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>104.90 BRL</g:price>
+      <g:sale_price>83.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1155,8 +1159,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>106.90 BRL</g:price>
+      <g:sale_price>85.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1175,8 +1179,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>125.90 BRL</g:price>
+      <g:sale_price>100.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1195,8 +1199,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>131.90 BRL</g:price>
+      <g:sale_price>105.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1215,8 +1219,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>138.90 BRL</g:price>
+      <g:sale_price>111.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1235,8 +1239,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>99.90 BRL</g:price>
+      <g:sale_price>79.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1255,8 +1259,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>92.90 BRL</g:price>
+      <g:sale_price>74.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1275,8 +1279,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>130.90 BRL</g:price>
+      <g:sale_price>104.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1295,8 +1299,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>128.90 BRL</g:price>
+      <g:sale_price>103.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1315,8 +1319,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>117.90 BRL</g:price>
+      <g:sale_price>94.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1335,8 +1339,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>137.90 BRL</g:price>
+      <g:sale_price>110.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1355,8 +1359,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>154.90 BRL</g:price>
+      <g:sale_price>124.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1375,8 +1379,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>153.90 BRL</g:price>
+      <g:sale_price>123.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1395,8 +1399,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>135.90 BRL</g:price>
+      <g:sale_price>108.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1415,8 +1419,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>127.90 BRL</g:price>
+      <g:sale_price>102.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1435,8 +1439,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>136.90 BRL</g:price>
+      <g:sale_price>109.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1455,8 +1459,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>127.90 BRL</g:price>
+      <g:sale_price>102.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1475,8 +1479,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>135.90 BRL</g:price>
+      <g:sale_price>108.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1495,8 +1499,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>130.90 BRL</g:price>
+      <g:sale_price>104.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1515,8 +1519,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>122.90 BRL</g:price>
+      <g:sale_price>98.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1535,8 +1539,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>113.90 BRL</g:price>
+      <g:sale_price>91.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1555,8 +1559,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>113.90 BRL</g:price>
+      <g:sale_price>91.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1575,8 +1579,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>152.90 BRL</g:price>
+      <g:sale_price>122.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1595,8 +1599,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>128.90 BRL</g:price>
+      <g:sale_price>103.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1615,8 +1619,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>123.90 BRL</g:price>
+      <g:sale_price>99.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1635,8 +1639,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>106.90 BRL</g:price>
+      <g:sale_price>85.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1655,8 +1659,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>111.90 BRL</g:price>
+      <g:sale_price>89.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1675,8 +1679,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>100.90 BRL</g:price>
+      <g:sale_price>80.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1695,8 +1699,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>97.90 BRL</g:price>
+      <g:sale_price>78.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1715,8 +1719,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>89.90 BRL</g:price>
+      <g:sale_price>71.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1735,8 +1739,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>113.90 BRL</g:price>
+      <g:sale_price>91.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1755,8 +1759,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>126.90 BRL</g:price>
+      <g:sale_price>101.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1775,8 +1779,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>175.90 BRL</g:price>
+      <g:sale_price>141.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1795,8 +1799,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>188.90 BRL</g:price>
+      <g:sale_price>151.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1805,6 +1809,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-flor-de-cristais-baguete</g:id>
@@ -1815,8 +1823,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>195.90 BRL</g:price>
+      <g:sale_price>157.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1825,6 +1833,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-laco-de-cristais</g:id>
@@ -1835,8 +1847,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>205.90 BRL</g:price>
+      <g:sale_price>165.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1845,6 +1857,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-libelula</g:id>
@@ -1855,8 +1871,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>193.90 BRL</g:price>
+      <g:sale_price>155.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1865,6 +1881,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-lua-cravejada</g:id>
@@ -1875,8 +1895,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>209.90 BRL</g:price>
+      <g:sale_price>168.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1885,6 +1905,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-nossa-senhora-aparecida</g:id>
@@ -1895,8 +1919,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>185.90 BRL</g:price>
+      <g:sale_price>149.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1915,8 +1939,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>188.90 BRL</g:price>
+      <g:sale_price>151.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1925,6 +1949,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-dourado-trevo-verde</g:id>
@@ -1935,8 +1963,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>192.90 BRL</g:price>
+      <g:sale_price>154.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -1945,6 +1973,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-arvore-da-vida</g:id>
@@ -1955,8 +1987,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>175.90 BRL</g:price>
+      <g:sale_price>141.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1975,8 +2007,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>177.90 BRL</g:price>
+      <g:sale_price>142.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -1995,8 +2027,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>201.90 BRL</g:price>
+      <g:sale_price>162.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2005,6 +2037,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-chuveiro-verde</g:id>
@@ -2015,8 +2051,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>201.90 BRL</g:price>
+      <g:sale_price>162.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2025,6 +2061,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-coracao-cravejado</g:id>
@@ -2035,8 +2075,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>193.90 BRL</g:price>
+      <g:sale_price>155.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2045,6 +2085,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-coracao-de-filigrana</g:id>
@@ -2055,8 +2099,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>200.90 BRL</g:price>
+      <g:sale_price>161.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2065,6 +2109,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-coracao-liso</g:id>
@@ -2075,8 +2123,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>163.90 BRL</g:price>
+      <g:sale_price>131.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2095,8 +2143,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>190.90 BRL</g:price>
+      <g:sale_price>153.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2105,6 +2153,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-medalhas-e-cristais</g:id>
@@ -2115,8 +2167,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>187.90 BRL</g:price>
+      <g:sale_price>150.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2125,6 +2177,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-medalhas-estrela</g:id>
@@ -2135,8 +2191,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>194.90 BRL</g:price>
+      <g:sale_price>156.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2145,6 +2201,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-colar-prata-pedras-coloridas</g:id>
@@ -2155,8 +2215,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>119.90 BRL</g:price>
-      <g:sale_price>101.90 BRL</g:sale_price>
+      <g:price>188.90 BRL</g:price>
+      <g:sale_price>151.90 BRL</g:sale_price>
       <g:product_type>Colares</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2165,6 +2225,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Colares</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-conjunto-prata-arvore-da-vida</g:id>
@@ -2175,8 +2239,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>149.90 BRL</g:price>
-      <g:sale_price>127.90 BRL</g:sale_price>
+      <g:price>244.90 BRL</g:price>
+      <g:sale_price>196.90 BRL</g:sale_price>
       <g:product_type>Conjuntos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2185,6 +2249,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Conjuntos</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-conjunto-prata-pedra-rosa</g:id>
@@ -2195,8 +2263,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>149.90 BRL</g:price>
-      <g:sale_price>127.90 BRL</g:sale_price>
+      <g:price>249.90 BRL</g:price>
+      <g:sale_price>200.90 BRL</g:sale_price>
       <g:product_type>Conjuntos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2205,6 +2273,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Conjuntos</g:custom_label_0>
       <g:color>Prata</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-piercing-dourado-pedras-coloridas</g:id>
@@ -2215,8 +2287,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>79.90 BRL</g:price>
-      <g:sale_price>67.90 BRL</g:sale_price>
+      <g:price>146.90 BRL</g:price>
+      <g:sale_price>117.90 BRL</g:sale_price>
       <g:product_type>Brincos</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2235,8 +2307,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>178.90 BRL</g:price>
+      <g:sale_price>143.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2255,8 +2327,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>178.90 BRL</g:price>
+      <g:sale_price>143.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2275,8 +2347,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>190.90 BRL</g:price>
+      <g:sale_price>153.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2285,6 +2357,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Pulseiras</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-pulseira-dourada-medalhas-e-navetes</g:id>
@@ -2295,8 +2371,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>190.90 BRL</g:price>
+      <g:sale_price>153.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2305,6 +2381,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Pulseiras</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-pulseira-dourada-medalhas-lisas</g:id>
@@ -2315,8 +2395,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>158.90 BRL</g:price>
+      <g:sale_price>127.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2335,8 +2415,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>173.90 BRL</g:price>
+      <g:sale_price>139.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2355,8 +2435,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>184.90 BRL</g:price>
+      <g:sale_price>148.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2375,8 +2455,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>192.90 BRL</g:price>
+      <g:sale_price>154.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ouro 18k</g:material>
@@ -2385,6 +2465,10 @@
       <g:gender>female</g:gender>
       <g:custom_label_0>Pulseiras</g:custom_label_0>
       <g:color>Dourado</g:color>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:price>0.00 BRL</g:price>
+      </g:shipping>
     </item>
     <item>
       <g:id>auto-pulseira-prata-cristais-baguete</g:id>
@@ -2395,8 +2479,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>173.90 BRL</g:price>
+      <g:sale_price>139.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2415,8 +2499,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>146.90 BRL</g:price>
+      <g:sale_price>117.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2435,8 +2519,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>168.90 BRL</g:price>
+      <g:sale_price>135.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2455,8 +2539,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>167.90 BRL</g:price>
+      <g:sale_price>134.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2475,8 +2559,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>158.90 BRL</g:price>
+      <g:sale_price>127.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2495,8 +2579,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>161.90 BRL</g:price>
+      <g:sale_price>129.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2515,8 +2599,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>156.90 BRL</g:price>
+      <g:sale_price>125.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>
@@ -2535,8 +2619,8 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>JS Joias Delicadas</g:brand>
-      <g:price>109.90 BRL</g:price>
-      <g:sale_price>92.90 BRL</g:sale_price>
+      <g:price>170.90 BRL</g:price>
+      <g:sale_price>137.90 BRL</g:sale_price>
       <g:product_type>Pulseiras</g:product_type>
       <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry</g:google_product_category>
       <g:material>Ródio Branco</g:material>

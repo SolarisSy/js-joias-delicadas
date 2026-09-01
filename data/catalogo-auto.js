@@ -9,8 +9,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20com%20pedra%20preta.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 138.9,
+    "oldPrice": 172.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -23,8 +23,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20cora%C3%A7%C3%A3o%20cravejado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 145.9,
+    "oldPrice": 180.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -37,8 +37,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20cora%C3%A7%C3%A3o%20de%20pedras%20azuis.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 141.9,
+    "oldPrice": 175.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -51,8 +51,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20cruz%20cravejada.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 151.9,
+    "oldPrice": 188.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -65,8 +65,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20duas%20estrelas.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 125.9,
+    "oldPrice": 156.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -79,8 +79,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20estrela%20do%20mar.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 131.9,
+    "oldPrice": 163.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -93,8 +93,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20fileira%20de%20pedras%20negras.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 138.9,
+    "oldPrice": 172.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -107,8 +107,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20flor.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 133.9,
+    "oldPrice": 166.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -121,8 +121,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20infinito%20com%20cora%C3%A7%C3%A3o.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 137.9,
+    "oldPrice": 170.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -135,8 +135,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20meia%20alian%C3%A7a%20rosa.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 117.9,
+    "oldPrice": 146.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -149,8 +149,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20n%C3%B3.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 129.9,
+    "oldPrice": 161.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -163,8 +163,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20pedras%20coloridas.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 137.9,
+    "oldPrice": 170.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -177,8 +177,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20trevo%20texturizado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 142.9,
+    "oldPrice": 177.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -191,8 +191,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/anel%20dourado%20trevo%20vazado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 128.9,
+    "oldPrice": 159.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -205,8 +205,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20abaulado%20diamantado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 142.9,
+    "oldPrice": 177.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -219,8 +219,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20alian%C3%A7a%20dupla%20cravejada.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 140.9,
+    "oldPrice": 174.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -233,8 +233,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20cora%C3%A7%C3%A3o%20cravejado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 136.9,
+    "oldPrice": 169.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -247,8 +247,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20cora%C3%A7%C3%A3o%20de%20cristais.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 132.9,
+    "oldPrice": 164.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -261,8 +261,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20cora%C3%A7%C3%A3o%20liso.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 110.9,
+    "oldPrice": 137.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -275,8 +275,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20cravejado%20abaulado.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 134.9,
+    "oldPrice": 167.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -289,8 +289,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20fileira%20de%20pedras%20ovais.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 127.9,
+    "oldPrice": 158.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -303,8 +303,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20lua%20crescente.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 113.9,
+    "oldPrice": 141.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -317,8 +317,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Anéis · Ródio Branco",
     "categories": "prata",
     "image": "imagens/anel%20prata%20solit%C3%A1rio%20rosa.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 136.9,
+    "oldPrice": 169.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -331,8 +331,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20cravejada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 122.9,
+    "oldPrice": 152.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -345,8 +345,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20diamantada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 106.9,
+    "oldPrice": 132.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -359,8 +359,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20elo%20torcido.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 118.9,
+    "oldPrice": 147.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -373,8 +373,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20lisa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 87.9,
+    "oldPrice": 108.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -387,8 +387,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20tran%C3%A7ada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 98.9,
+    "oldPrice": 122.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -401,8 +401,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/argola%20dourada%20trilha%20de%20cristais.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 137.9,
+    "oldPrice": 170.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -415,8 +415,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/argola%20prata%20cristais%20baguete.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 107.9,
+    "oldPrice": 133.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -429,8 +429,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/argola%20prata%20texturizada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 86.9,
+    "oldPrice": 107.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -443,8 +443,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/argola%20prata%20torcida.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 97.9,
+    "oldPrice": 121.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -457,8 +457,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/argola%20prata%20tran%C3%A7ada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 95.9,
+    "oldPrice": 118.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -471,8 +471,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/bracelete%20prata%20liso.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 126.9,
+    "oldPrice": 157.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -485,8 +485,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20argolinha%20cora%C3%A7%C3%A3o%20de%20cristal.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 119.9,
+    "oldPrice": 148.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -499,8 +499,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20argolinha%20cristais%20baguete.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 107.9,
+    "oldPrice": 133.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -513,8 +513,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20barra.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 95.9,
+    "oldPrice": 118.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -527,8 +527,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20bolinha%20diamantada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 107.9,
+    "oldPrice": 133.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -541,8 +541,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro perola",
     "image": "imagens/brinco%20dourado%20bot%C3%A3o%20de%20madrep%C3%A9rola.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 105.9,
+    "oldPrice": 131.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -555,8 +555,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20concha.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 100.9,
+    "oldPrice": 125.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -569,8 +569,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20coqueiro.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 99.9,
+    "oldPrice": 123.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -583,8 +583,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro perola",
     "image": "imagens/brinco%20dourado%20cora%C3%A7%C3%A3o%20de%20madrep%C3%A9rola.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 117.9,
+    "oldPrice": 146.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -597,8 +597,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20cora%C3%A7%C3%A3o%20vazado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 108.9,
+    "oldPrice": 135.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -611,8 +611,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20disco%20texturizado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 105.9,
+    "oldPrice": 131.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -625,8 +625,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20escalada%20de%20cora%C3%A7%C3%B5es.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 107.9,
+    "oldPrice": 133.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -639,8 +639,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20flor%20com%20pedra%20roxa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 123.9,
+    "oldPrice": 153.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -653,8 +653,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20flor%20de%20cristais.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 120.9,
+    "oldPrice": 149.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -667,8 +667,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro perola",
     "image": "imagens/brinco%20dourado%20flor%20de%20p%C3%A9rolas.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 108.9,
+    "oldPrice": 135.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -681,8 +681,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20kit%20argolinhas.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 103.9,
+    "oldPrice": 128.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -695,8 +695,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20la%C3%A7o%20com%20pedra%20azul.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 123.9,
+    "oldPrice": 153.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -709,8 +709,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20ponto%20de%20luz%20azul.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 98.9,
+    "oldPrice": 122.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -723,8 +723,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro perola",
     "image": "imagens/brinco%20dourado%20quadrado%20de%20madrep%C3%A9rola.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 111.9,
+    "oldPrice": 138.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -737,8 +737,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20quadrado%20e%20c%C3%ADrculo%20com%20pedra%20roxa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 118.9,
+    "oldPrice": 147.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -751,8 +751,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20quadrado%20preto.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 101.9,
+    "oldPrice": 126.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -765,8 +765,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/brinco%20dourado%20quadrado%20vazado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 100.9,
+    "oldPrice": 125.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -779,8 +779,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argola%20cora%C3%A7%C3%A3o%20vazado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 95.9,
+    "oldPrice": 118.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -793,8 +793,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argola%20de%20fios.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 83.9,
+    "oldPrice": 104.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -807,8 +807,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argolinha%20com%20ponto%20de%20luz.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 85.9,
+    "oldPrice": 106.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -821,8 +821,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argolinha%20cora%C3%A7%C3%A3o.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 100.9,
+    "oldPrice": 125.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -835,8 +835,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argolinha%20facetada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 105.9,
+    "oldPrice": 131.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -849,8 +849,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20argolinha%20V%20cravejada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 111.9,
+    "oldPrice": 138.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -863,8 +863,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20barra%20torcida.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 79.9,
+    "oldPrice": 99.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -877,8 +877,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20bolinha.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 74.9,
+    "oldPrice": 92.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -891,8 +891,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/brinco%20prata%20c%C3%ADrculo%20de%20p%C3%A9rolas.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 104.9,
+    "oldPrice": 130.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -905,8 +905,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/brinco%20prata%20cora%C3%A7%C3%A3o%20com%20p%C3%A9rola.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 103.9,
+    "oldPrice": 128.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -919,8 +919,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20cora%C3%A7%C3%A3o%20vazado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 94.9,
+    "oldPrice": 117.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -933,8 +933,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20cristais%20baguete.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 110.9,
+    "oldPrice": 137.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -947,8 +947,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20cruz%20cravejada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 124.9,
+    "oldPrice": 154.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -961,8 +961,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20espiral%20cravejada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 123.9,
+    "oldPrice": 153.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -975,8 +975,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20gota%20azul.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 108.9,
+    "oldPrice": 135.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -989,8 +989,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20gota%20de%20cristal.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 102.9,
+    "oldPrice": 127.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1003,8 +1003,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20gota%20rosa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 109.9,
+    "oldPrice": 136.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1017,8 +1017,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20kit%20argolinhas%20abauladas.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 102.9,
+    "oldPrice": 127.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1031,8 +1031,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20lua%20martelada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 108.9,
+    "oldPrice": 135.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1045,8 +1045,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20navete%20com%20pedra%20rosa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 104.9,
+    "oldPrice": 130.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1059,8 +1059,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ovais%20escovados.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 98.9,
+    "oldPrice": 122.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1073,8 +1073,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20patinha.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 91.9,
+    "oldPrice": 113.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1087,8 +1087,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/brinco%20prata%20p%C3%A9rola%20bot%C3%A3o.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 91.9,
+    "oldPrice": 113.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1101,8 +1101,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/brinco%20prata%20p%C3%A9rola%20cravejada.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 122.9,
+    "oldPrice": 152.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1115,8 +1115,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/brinco%20prata%20p%C3%A9rola%20pendente.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 103.9,
+    "oldPrice": 128.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1129,8 +1129,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20pomba.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 99.9,
+    "oldPrice": 123.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1143,8 +1143,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ponto%20de%20luz%20champanhe.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 85.9,
+    "oldPrice": 106.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1157,8 +1157,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ponto%20de%20luz%20coroa.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 89.9,
+    "oldPrice": 111.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1171,8 +1171,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ponto%20de%20luz%20preto.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 80.9,
+    "oldPrice": 100.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1185,8 +1185,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ponto%20de%20luz%20vermelho.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 78.9,
+    "oldPrice": 97.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1199,8 +1199,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20ponto%20de%20luz.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 71.9,
+    "oldPrice": 89.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1213,8 +1213,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20quadrado%20vazado.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 91.9,
+    "oldPrice": 113.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1227,8 +1227,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/brinco%20prata%20trevo%20preto.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 101.9,
+    "oldPrice": 126.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1241,8 +1241,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20bolinhas%20marteladas.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 141.9,
+    "oldPrice": 175.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1255,8 +1255,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20cora%C3%A7%C3%A3o%20vazado.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 151.9,
+    "oldPrice": 188.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1269,8 +1269,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20flor%20de%20cristais%20baguete.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 157.9,
+    "oldPrice": 195.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1283,8 +1283,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20la%C3%A7o%20de%20cristais.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 165.9,
+    "oldPrice": 205.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1297,8 +1297,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20lib%C3%A9lula.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 155.9,
+    "oldPrice": 193.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1311,8 +1311,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20lua%20cravejada.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 168.9,
+    "oldPrice": 209.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1325,8 +1325,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20nossa%20senhora%20aparecida.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 149.9,
+    "oldPrice": 185.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1339,8 +1339,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20pingente%20olho%20grego.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 151.9,
+    "oldPrice": 188.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1353,8 +1353,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/colar%20dourado%20trevo%20verde.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 154.9,
+    "oldPrice": 192.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1367,8 +1367,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20%C3%A1rvore%20da%20vida.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 141.9,
+    "oldPrice": 175.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1381,8 +1381,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20borboletas%20e%20flores.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 142.9,
+    "oldPrice": 177.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1395,8 +1395,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata perola",
     "image": "imagens/colar%20prata%20chuveiro%20de%20p%C3%A9rolas.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 162.9,
+    "oldPrice": 201.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1409,8 +1409,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20chuveiro%20verde.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 162.9,
+    "oldPrice": 201.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1423,8 +1423,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20cora%C3%A7%C3%A3o%20cravejado.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 155.9,
+    "oldPrice": 193.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1437,8 +1437,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20cora%C3%A7%C3%A3o%20de%20filigrana.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 161.9,
+    "oldPrice": 200.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1451,8 +1451,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20cora%C3%A7%C3%A3o%20liso.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 131.9,
+    "oldPrice": 163.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1465,8 +1465,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20cord%C3%A3o%20baiano.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 153.9,
+    "oldPrice": 190.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1479,8 +1479,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20medalhas%20e%20cristais.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 150.9,
+    "oldPrice": 187.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1493,8 +1493,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20medalhas%20estrela.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 156.9,
+    "oldPrice": 194.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1507,8 +1507,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Colares · Ródio Branco",
     "categories": "prata",
     "image": "imagens/colar%20prata%20pedras%20coloridas.png",
-    "price": 101.9,
-    "oldPrice": 119.9,
+    "price": 151.9,
+    "oldPrice": 188.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1521,8 +1521,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Conjuntos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/conjunto%20prata%20%C3%A1rvore%20da%20vida.png",
-    "price": 127.9,
-    "oldPrice": 149.9,
+    "price": 196.9,
+    "oldPrice": 244.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1535,8 +1535,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Conjuntos · Ródio Branco",
     "categories": "prata",
     "image": "imagens/conjunto%20prata%20pedra%20rosa.png",
-    "price": 127.9,
-    "oldPrice": 149.9,
+    "price": 200.9,
+    "oldPrice": 249.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1549,8 +1549,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Brincos · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/piercing%20dourado%20pedras%20coloridas.png",
-    "price": 67.9,
-    "oldPrice": 79.9,
+    "price": 117.9,
+    "oldPrice": 146.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1563,8 +1563,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20cristais%20ovais.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 143.9,
+    "oldPrice": 178.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1577,8 +1577,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20elos%20com%20ponto%20de%20luz.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 143.9,
+    "oldPrice": 178.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1591,8 +1591,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20gotas%20de%20cristal.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 153.9,
+    "oldPrice": 190.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1605,8 +1605,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20medalhas%20e%20navetes.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 153.9,
+    "oldPrice": 190.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1619,8 +1619,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20medalhas%20lisas.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 127.9,
+    "oldPrice": 158.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1633,8 +1633,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20medalhas%20marteladas.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 139.9,
+    "oldPrice": 173.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1647,8 +1647,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro perola",
     "image": "imagens/pulseira%20dourada%20p%C3%A9rolas%20com%20borboleta.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 148.9,
+    "oldPrice": 184.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1661,8 +1661,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ouro 18k",
     "categories": "ouro",
     "image": "imagens/pulseira%20dourada%20riviera%20vermelha.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 154.9,
+    "oldPrice": 192.9,
     "details": [
       "Antialérgico",
       "Ouro 18k"
@@ -1675,8 +1675,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20cristais%20baguete.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 139.9,
+    "oldPrice": 173.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1689,8 +1689,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata kids",
     "image": "imagens/pulseira%20prata%20elos%20com%20bolinhas%20(kids).png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 117.9,
+    "oldPrice": 146.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1704,8 +1704,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20elos%20com%20cora%C3%A7%C3%B5es.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 135.9,
+    "oldPrice": 168.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1718,8 +1718,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20elos%20losango.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 134.9,
+    "oldPrice": 167.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1732,8 +1732,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20elos%20ovais.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 127.9,
+    "oldPrice": 158.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1746,8 +1746,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20gotas%20rosa.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 129.9,
+    "oldPrice": 161.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1760,8 +1760,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20grega.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 125.9,
+    "oldPrice": 156.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"
@@ -1774,8 +1774,8 @@ window.PRODUCTS_AUTO = [
     "tag": "Pulseiras · Ródio Branco",
     "categories": "prata",
     "image": "imagens/pulseira%20prata%20riviera%20vermelha.png",
-    "price": 92.9,
-    "oldPrice": 109.9,
+    "price": 137.9,
+    "oldPrice": 170.9,
     "details": [
       "Antialérgico",
       "Ródio Branco"

@@ -32,16 +32,63 @@ const PASTA = 'imagens';
 const SAIDA = join(RAIZ, 'data', 'catalogo-auto.js');
 const EXTENSOES = ['.png', '.jpg', '.jpeg', '.webp', '.avif'];
 
-// Primeira palavra do nome → seção da loja + preço padrão.
-// precoDe é o preço antigo, riscado ao lado do novo na vitrine.
+// Primeira palavra do nome → seção da loja.
+// piso: o mais barato que a seção pode custar (peça lisa, sem pedra).
+// teto: o limite de quanto os detalhes podem empurrar o preço.
 const TIPOS = [
-  { termos: ['anel', 'aneis', 'anéis', 'alianca', 'aliança'], tag: 'Anéis', preco: 92.90, precoDe: 109.90 },
-  { termos: ['brinco', 'brincos', 'argola', 'argolas', 'argolinha', 'argolinhas', 'piercing'], tag: 'Brincos', preco: 67.90, precoDe: 79.90 },
-  { termos: ['pulseira', 'pulseiras', 'bracelete', 'berloque'], tag: 'Pulseiras', preco: 92.90, precoDe: 109.90 },
-  { termos: ['colar', 'colares', 'gargantilha', 'corrente', 'pingente', 'choker', 'escapulario', 'escapulário'], tag: 'Colares', preco: 101.90, precoDe: 119.90 },
-  { termos: ['tornozeleira', 'tornozeleiras'], tag: 'Tornozeleiras', preco: 75.90, precoDe: 89.90 },
-  { termos: ['conjunto', 'kit'], tag: 'Conjuntos', preco: 127.90, precoDe: 149.90 }
+  { termos: ['anel', 'aneis', 'anéis', 'alianca', 'aliança'], tag: 'Anéis', piso: 104.90, teto: 169.90 },
+  { termos: ['brinco', 'brincos', 'argola', 'argolas', 'argolinha', 'argolinhas', 'piercing'], tag: 'Brincos', piso: 79.90, teto: 139.90 },
+  { termos: ['pulseira', 'pulseiras', 'bracelete', 'berloque'], tag: 'Pulseiras', piso: 112.90, teto: 189.90 },
+  { termos: ['colar', 'colares', 'gargantilha', 'corrente', 'pingente', 'choker', 'escapulario', 'escapulário'], tag: 'Colares', piso: 124.90, teto: 199.90 },
+  { termos: ['tornozeleira', 'tornozeleiras'], tag: 'Tornozeleiras', piso: 94.90, teto: 149.90 },
+  { termos: ['conjunto', 'kit'], tag: 'Conjuntos', piso: 174.90, teto: 289.90 }
 ];
+
+/* ---------- preço por peça ----------
+   Duas joias da mesma seção não valem o mesmo: uma argola lisa e uma
+   argola de trilha de cristais dão trabalho e custo diferentes. O preço
+   sai do piso da seção mais o que o nome da peça revela — cravação,
+   pedra, pérola, banho de ouro, trabalho no metal — e não da seção.
+
+   Cada grupo abaixo conta uma vez só, e os grupos entram com peso
+   decrescente (1 · 0,75 · 0,56 ...): a peça mais rebuscada sobe bastante,
+   sem que somar sete detalhes estoure o teto da seção. */
+const DETALHES = [
+  { valor: 24, termos: ['cravejado', 'cravejada', 'cravejadas', 'riviera', 'chuveiro', 'filigrana', 'halo', 'trilha'] },
+  { valor: 17, termos: ['cristal', 'cristais', 'zirconia', 'zircônia', 'baguete', 'navete', 'navetes', 'facetada', 'facetado', 'facetadas', 'esmeralda', 'solitario', 'solitário', 'pedra', 'pedras', 'gota', 'gotas', 'diamantado', 'diamantada'] },
+  { valor: 15, termos: ['perola', 'pérola', 'perolas', 'pérolas', 'madreperola', 'madrepérola', 'barrocas'] },
+  { valor: 12, termos: ['dourado', 'dourada', 'ouro', 'gold'] },
+  { valor: 11, termos: ['elo', 'elos', 'medalha', 'medalhas', 'berloque', 'berloques', 'corrente', 'grega', 'cordao', 'cordão', 'bracelete', 'maxi', 'máxi', 'kit', 'trio', 'duplo', 'dupla', 'escalada', 'losango'] },
+  { valor: 9, termos: ['coracao', 'coração', 'coracoes', 'corações', 'trevo', 'flor', 'flores', 'borboleta', 'borboletas', 'libelula', 'libélula', 'estrela', 'estrelas', 'lua', 'cruz', 'no', 'nó', 'concha', 'coqueiro', 'patinha', 'pomba', 'arvore', 'árvore', 'senhora', 'aparecida', 'grego', 'laco', 'laço', 'infinito', 'coroa'] },
+  { valor: 7, termos: ['martelada', 'marteladas', 'texturizado', 'texturizada', 'trancada', 'trançada', 'torcido', 'torcida', 'escovados', 'escovadas', 'espiral', 'abaulado', 'abaulada', 'abauladas', 'vazado', 'vazada', 'baiano'] }
+];
+// Peça sem trabalho nenhum no nome desconta: é a mais simples da vitrine.
+const SIMPLES = ['liso', 'lisa', 'lisas', 'bolinha', 'bolinhas', 'barra', 'botao', 'botão', 'simples'];
+
+/* Duas peças com exatamente os mesmos detalhes ainda assim não ficam com
+   o mesmo número: um deslocamento de 0 a 15 reais tirado do próprio nome
+   dá identidade a cada joia — e, por vir do nome, é sempre o mesmo. */
+function desloca(chave) {
+  let h = 2166136261;
+  for (const c of chave) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); }
+  return (h >>> 0) % 16;
+}
+
+// Termina em ,90: é o preço que a vitrine e o anúncio mostram.
+const noventa = (v) => Math.floor(v) + 0.90;
+
+function precificar(nome, tipo) {
+  const palavras = new Set(semAcento(nome).toLowerCase().split(/[^a-z0-9]+/).filter(Boolean));
+  const cru = nome.toLowerCase();
+  const bate = (grupo) => grupo.some(t => palavras.has(semAcento(t)) || cru.includes(t));
+
+  const achados = DETALHES.filter(d => bate(d.termos)).map(d => d.valor).sort((a, b) => b - a);
+  let extra = achados.reduce((soma, valor, i) => soma + valor * Math.pow(0.75, i), 0);
+  if (!achados.length || bate(SIMPLES)) extra -= 8;
+
+  const preco = noventa(Math.min(tipo.piso + extra, tipo.teto));
+  return { preco, precoDe: noventa(Math.min(preco * 1.24, tipo.teto * 1.28)) };
+}
 
 // Palavras no nome → acabamento + filtro de categoria
 const MATERIAIS = [
@@ -143,9 +190,12 @@ for (const arquivo of arquivos) {
 
   const nome = tituloDe(info.nome);
   const [a, b] = info.precos;
-  const preco = b ?? a ?? classe.tipo.preco;
-  // Sem preço no nome: o padrão da seção entra como "por" e o antigo como "de"
-  const precoDe = info.precos.length ? undefined : classe.tipo.precoDe;
+  // Preço escrito no nome do arquivo manda; sem ele, a peça é precificada
+  // pelo que o nome descreve, mais o deslocamento próprio dela.
+  const tabela = precificar(info.nome, classe.tipo);
+  const preco = b ?? a ?? noventa(Math.min(tabela.preco + desloca(chave), classe.tipo.teto));
+  // Sem preço no nome: o calculado entra como "por" e o cheio como "de"
+  const precoDe = info.precos.length ? undefined : noventa(preco * 1.24);
   // (kids) no nome do arquivo entra na aba Kids da vitrine
   const categorias = info.kids ? `${classe.categorias} kids` : classe.categorias;
 
