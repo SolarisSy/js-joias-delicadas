@@ -53,6 +53,7 @@ User-agent: *
 Allow: ${base}
 Disallow: ${base}admin.html
 Disallow: ${base}marketplace.html
+Disallow: ${base}pinterest.html
 Disallow: ${base}acesso/
 
 Sitemap: ${url('sitemap.xml')}

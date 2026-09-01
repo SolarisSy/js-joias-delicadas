@@ -147,11 +147,17 @@ O feed já sai com `identifier_exists=no`, obrigatório para joia sem código de
 ## 6. Pinterest — R$ 0
 
 Pinterest Business → **Anúncios → Catálogos → Adicionar feed de dados**, mesma URL,
-formato RSS/XML. Exige reivindicar o site pela meta tag `p:domain_verify`.
+formato RSS/XML, país Brasil, moeda BRL. Exige reivindicar o site pela meta tag
+`p:domain_verify` (Configurações → Contas conectadas → Sites).
 
-Se a reivindicação do `github.io` for recusada, o plano B custa R$ 0: pinar as peças à
-mão com o link do produto. As páginas já publicam Open Graph e JSON-LD (`produto.js`),
-então o pin sai com foto, nome e preço mesmo sem catálogo ligado.
+Se a reivindicação do `github.io` for recusada — e costuma ser, pelo mesmo motivo da
+seção "Verificação de domínio" —, o plano B custa R$ 0 e já está pronto:
+**[`pinterest.html`](pinterest.html)** é a fila de postagem manual, uma ficha por peça
+com o pin vertical 1000×1500 montado no próprio navegador, a pasta onde salvar, título,
+descrição, link de destino e texto alternativo. Um pin por dia, marcando o que já saiu.
+
+Ordem que funciona: conta business → uma pasta por seção → reivindicar o site →
+catálogo (se liberar). Enquanto isso, a fila roda sozinha.
 
 ---
 
